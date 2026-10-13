@@ -3,7 +3,20 @@
     "allow": [
       "mcp__HubSpot__*",
       "mcp__Monaco__*",
-      "mcp__Apollo_io__*"
+      "mcp__Apollo_io__*",
+      "mcp__Slack__slack_read_list",
+      "mcp__Slack__slack_add_list_record",
+      "mcp__Slack__slack_update_list_record",
+      "mcp__Slack__slack_update_list",
+      "mcp__Google_Docs__read_doc",
+      "mcp__Google_Docs__update_doc",
+      "mcp__Google_Slides__read_presentation",
+      "mcp__Google_Slides__read_slide_page",
+      "mcp__Google_Slides__read_slide_page_thumbnail",
+      "mcp__Google_Slides__update_presentation",
+      "mcp__Google_Drive__read_file_content",
+      "mcp__Google_Drive__get_file_metadata",
+      "mcp__Google_Drive__search_files"
     ]
   }
 }
