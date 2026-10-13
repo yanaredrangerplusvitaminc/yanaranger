@@ -37,6 +37,8 @@ NOTE_LAST_RE = re.compile(r"last:\s*([^\s|<]+)")
 LOCAL_TZ = ZoneInfo("Europe/Madrid")
 # Monaco account statuses by how far along they are. Nurture, disqualified and churned are
 # deliberate human calls, so HubSpot "lead" never overwrites them.
+LEAD_STATUS_RANK = {"": 0, "NEW": 0, "OPEN": 1, "ATTEMPTED_TO_CONTACT": 1, "IN_PROGRESS": 2, "CONNECTED": 3}
+PROTECTED_LEAD_STATUSES = {"UNQUALIFIED", "BAD_TIMING", "No_Show"}
 STATUS_RANK = {"NEW": 0, "INBOUND": 1, "PROSPECTING": 1, "NURTURE": 2, "DISQUALIFIED": 2, "OPPORTUNITY": 3,
                "CHURNED": 3, "CUSTOMER": 4}
 
@@ -198,6 +200,12 @@ def plan_hubspot_to_monaco(snap, cfg, plan):
     mo_all = snap["monaco_contacts"] + snap["monaco_lookup_contacts"]
     mo_index = Index(mo_all, mo_email, mo_li)
     companies = {str(c["id"]): c for c in snap["hubspot_companies"]}
+    mo_by_person = {}
+    for m in mo_all:
+        k = person_key(m.get("first_name"), m.get("last_name"), m.get("account_name"))
+        if k:
+            mo_by_person.setdefault(k, m)
+    planned = {}  # email / LinkedIn -> HubSpot id already queued for creation in Monaco
     accounts_by_name = {}
     for a in snap["monaco_accounts"]:
         if norm_name(a.get("name")):
@@ -219,6 +227,19 @@ def plan_hubspot_to_monaco(snap, cfg, plan):
             if not email and not li:
                 plan["skipped"].append({"side": "monaco", "hubspot_id": hc["id"], "reason": "no email or LinkedIn"})
                 continue
+            if (email and email in planned) or (li and li in planned):
+                plan["skipped"].append({"side": "monaco", "hubspot_id": hc["id"],
+                                        "reason": f"same person as HubSpot {planned.get(email) or planned.get(li)} (duplicate in HubSpot)"})
+                continue
+            twin = mo_by_person.get(person_key(p.get("firstname"), p.get("lastname"), company_name))
+            if twin is not None:
+                plan["review"].append({"type": "possible_duplicate_in_monaco", "hubspot_id": hc["id"], "monaco_id": twin["id"],
+                                       "name": f"{p.get('firstname')} {p.get('lastname')}", "company": company_name,
+                                       "action": "not created; add the email or LinkedIn URL to one side to link them"})
+                continue
+            for ident in (email, li):
+                if ident:
+                    planned[ident] = hc["id"]
             domain = norm_domain((company or {}).get("properties", {}).get("domain"))
             account = accounts_by_name.get(norm_name(company_name)) if not domain else None
             if li and not email and not domain and not account:
@@ -360,6 +381,40 @@ def has_linkedin_activity(mc, convs) -> bool:
     return "linkedin message" in kinds
 
 
+def conversation_state(mc, convs) -> tuple[bool, bool]:
+    """(we messaged them, they replied), across LinkedIn threads and Monaco's activity fields."""
+    msgs = [m for c in convs for m in c["messages"]]
+    outbound = any(m.get("direction") == "outbound" for m in msgs) or bool(mc.get("last_outbound_at"))
+    inbound = any(m.get("direction") == "inbound" for m in msgs) or bool(mc.get("last_inbound_at"))
+    return outbound, inbound
+
+
+def conversation_lead_status(current: str | None, outbound: bool, inbound: bool) -> str | None:
+    """Lead status the conversation calls for, or None to leave HubSpot as it is.
+
+    They replied -> Connected. We messaged, no reply yet -> In Progress. Only moves forward,
+    and never touches a deliberate human call (Open Deal, Unqualified, Bad Timing, No Show).
+    """
+    target = "CONNECTED" if inbound else "IN_PROGRESS" if outbound else None
+    current = current or ""
+    if target is None or current not in LEAD_STATUS_RANK:
+        return None
+    return target if LEAD_STATUS_RANK[target] > LEAD_STATUS_RANK[current] else None
+
+
+def last_inbound(mc, convs) -> str | None:
+    stamps = [m["timestamp"] for c in convs for m in c["messages"] if m.get("direction") == "inbound"]
+    if mc.get("last_inbound_at"):
+        stamps.append(mc["last_inbound_at"])
+    return max(stamps, key=lambda s: datetime.fromisoformat(s.replace("Z", "+00:00"))) if stamps else None
+
+
+def person_key(first, last, company) -> str | None:
+    """Name + company, used only to flag possible duplicates for review, never to merge."""
+    name, co = norm_name(f"{first or ''} {last or ''}"), norm_name(company)
+    return f"{name}@{co}" if name and co and " " in name else None
+
+
 def plan_monaco_to_hubspot(snap, cfg, plan):
     hs_all = snap["hubspot_contacts"] + snap["hubspot_lookup_contacts"]
     hs_index = Index(hs_all, hs_email, hs_li)
@@ -376,32 +431,57 @@ def plan_monaco_to_hubspot(snap, cfg, plan):
         if m:
             last = NOTE_LAST_RE.search(n["body"])
             notes_by_chat[m.group(1)] = {"id": n["id"], "last": last.group(1) if last else None}
-    planned_companies = {}
+    hs_by_person = {}
+    for c in hs_all:
+        k = person_key(c["properties"].get("firstname"), c["properties"].get("lastname"), c["properties"].get("company"))
+        if k:
+            hs_by_person.setdefault(k, c)
+    planned_companies = {}   # company key -> planned create key, so one company is created once
+    planned_people = {}      # email / LinkedIn -> planned create key, so one person is created once
+    now = datetime.fromisoformat(snap.get("now") or datetime.now(timezone.utc).isoformat())
+    lookback = cfg.get("lookback_hours", 26) * 3600
+    seen_hs_ids = set()
 
     for mc in snap["monaco_contacts"]:
         convs = [c for c in snap["monaco_conversations"].get(mc["id"], []) if c.get("messages")]
-        if not has_linkedin_activity(mc, convs):
-            continue
         email, li = mo_email(mc), mo_li(mc)
+        hc = hs_index.find(email, li)
+        outbound, inbound = conversation_state(mc, convs)
+        # Status follows any conversation Monaco sees (LinkedIn or email) for people already in HubSpot.
+        # New HubSpot records are only created for people with a LinkedIn conversation.
+        if hc is None and not has_linkedin_activity(mc, convs):
+            continue
         if not email and not li:
             continue
-        inbound = any(m.get("direction") == "inbound" for c in convs for m in c["messages"]) or \
-            "linkedin" in (mc.get("last_inbound_type") or "").lower()
-        promoted = "CONNECTED" if inbound else "ATTEMPTED_TO_CONTACT"
         owner = conversation_owner(mc, convs[0] if convs else {}, cfg)
-        hc = hs_index.find(email, li)
 
         if hc is None:
-            key = f"monaco:{mc['id']}"
-            props = {k: v for k, v in {
-                "firstname": mc.get("first_name"), "lastname": mc.get("last_name"), "email": mc.get("email"),
-                "jobtitle": mc.get("title"), "phone": mc.get("phone_number"),
-                "hs_linkedin_url": "https://www." + li + "/" if li else None,
-                "company": mc.get("account_name"), "hubspot_owner_id": owner["hubspot_owner_id"],
-                "lifecyclestage": "lead", "hs_lead_status": promoted,
-            }.items() if not blank(v)}
-            plan["hubspot"]["contact_creates"].append({"key": key, "monaco_id": mc["id"], "properties": props})
-            contact_ref = {"key": key}
+            dup = planned_people.get(email) or planned_people.get(li)
+            if dup:
+                # Same person reached through two Monaco records: one HubSpot contact, both threads on it.
+                contact_ref = {"key": dup}
+            elif person_key(mc.get("first_name"), mc.get("last_name"), mc.get("account_name")) in hs_by_person:
+                twin = hs_by_person[person_key(mc.get("first_name"), mc.get("last_name"), mc.get("account_name"))]
+                plan["review"].append({"type": "possible_duplicate_in_hubspot", "monaco_id": mc["id"],
+                                       "hubspot_id": twin["id"], "name": f"{mc.get('first_name')} {mc.get('last_name')}",
+                                       "company": mc.get("account_name"),
+                                       "action": "not created; add the email or LinkedIn URL to the HubSpot record to link them"})
+                continue
+            else:
+                key = f"monaco:{mc['id']}"
+                for ident in (email, li):
+                    if ident:
+                        planned_people[ident] = key
+                props = {k: v for k, v in {
+                    "firstname": mc.get("first_name"), "lastname": mc.get("last_name"), "email": mc.get("email"),
+                    "jobtitle": mc.get("title"), "phone": mc.get("phone_number"),
+                    "hs_linkedin_url": "https://www." + li + "/" if li else None,
+                    "company": mc.get("account_name"), "hubspot_owner_id": owner["hubspot_owner_id"],
+                    "lifecyclestage": "lead",
+                    "hs_lead_status": conversation_lead_status(None, outbound, inbound),
+                }.items() if not blank(v)}
+                plan["hubspot"]["contact_creates"].append({"key": key, "monaco_id": mc["id"], "properties": props})
+                contact_ref = {"key": key}
         else:
             contact_ref = {"id": hc["id"]}
             p, updates = hc["properties"], {}
@@ -415,12 +495,32 @@ def plan_monaco_to_hubspot(snap, cfg, plan):
                 updates.pop("email")
                 plan["conflicts"].append({"type": "email_on_other_hubspot_contact", "hubspot_id": hc["id"],
                                           "monaco_id": mc["id"], "email": mc.get("email")})
-            if (p.get("hs_lead_status") or "NEW") == "NEW" and p.get("hs_lead_status") != promoted:
-                updates["hs_lead_status"] = promoted
+            new_status = conversation_lead_status(p.get("hs_lead_status"), outbound, inbound)
+            if new_status:
+                updates["hs_lead_status"] = new_status
+                p["hs_lead_status"] = new_status  # so the Monaco tag and notes block show it in this same run
+            elif p.get("hs_lead_status") in PROTECTED_LEAD_STATUSES and inbound:
+                replied = last_inbound(mc, convs)
+                if replied and (now - datetime.fromisoformat(replied.replace("Z", "+00:00"))).total_seconds() < lookback:
+                    plan["review"].append({"type": "reply_on_closed_status", "hubspot_id": hc["id"], "monaco_id": mc["id"],
+                                           "lead_status": p.get("hs_lead_status"), "replied_at": replied})
             if blank(p.get("hubspot_owner_id")):
                 updates["hubspot_owner_id"] = owner["hubspot_owner_id"]
-            if updates:
+            if updates and hc["id"] not in seen_hs_ids:
                 plan["hubspot"]["contact_updates"].append({"id": hc["id"], "monaco_id": mc["id"], "properties": updates})
+            elif updates:
+                # Second Monaco record for the same HubSpot contact: merge into the first update.
+                first = next(u for u in plan["hubspot"]["contact_updates"] if u["id"] == hc["id"])
+                for k, v in updates.items():
+                    if k == "hs_lead_status":
+                        if LEAD_STATUS_RANK.get(v, 0) > LEAD_STATUS_RANK.get(first["properties"].get(k, ""), 0):
+                            first["properties"][k] = v
+                    else:
+                        first["properties"].setdefault(k, v)
+            if updates:
+                seen_hs_ids.add(hc["id"])
+            if not has_linkedin_activity(mc, convs):
+                continue
 
         # Company association, only when HubSpot has none for this contact.
         if hc is None or ("company_id" in hc and not hc.get("company_id")):
@@ -430,15 +530,18 @@ def plan_monaco_to_hubspot(snap, cfg, plan):
             if co is not None:
                 plan["hubspot"]["associations"].append({"contact": contact_ref, "company": {"id": co["id"]}})
             elif mc.get("account_name") or domain:
-                ckey = f"monaco-account:{mc.get('account_id') or norm_name(mc.get('account_name'))}"
-                if ckey not in planned_companies:
+                ckey = planned_companies.get(domain) or planned_companies.get(norm_name(mc.get("account_name")))
+                if ckey is None:
+                    ckey = f"monaco-account:{mc.get('account_id') or norm_name(mc.get('account_name'))}"
+                    for k in (domain, norm_name(mc.get("account_name"))):
+                        if k:
+                            planned_companies[k] = ckey
                     props = {k: v for k, v in {
                         "name": mc.get("account_name") or (acct or {}).get("name"), "domain": domain,
                         "hubspot_owner_id": owner["hubspot_owner_id"], "lifecyclestage": "lead",
                         "linkedin_company_page": "https://www." + (acct.get("company") or {}).get("linkedin_url")
                         if acct and (acct.get("company") or {}).get("linkedin_url") else None,
                     }.items() if not blank(v)}
-                    planned_companies[ckey] = props
                     plan["hubspot"]["company_creates"].append({"key": ckey, "properties": props})
                 plan["hubspot"]["associations"].append({"contact": contact_ref, "company": {"key": ckey}})
 
@@ -462,13 +565,20 @@ def build_plan(snap: dict, cfg: dict) -> dict:
                    "account_upserts": []},
         "hubspot": {"contact_creates": [], "contact_updates": [], "company_creates": [], "associations": [],
                     "notes": []},
-        "skipped": [], "conflicts": [],
+        "skipped": [], "conflicts": [], "review": [],
     }
+    # Monaco -> HubSpot first: conversation-driven lead status changes then flow into the
+    # Monaco tags and notes in the same run.
+    plan_monaco_to_hubspot(snap, cfg, plan)
     plan_hubspot_to_monaco(snap, cfg, plan)
     plan_companies_to_monaco(snap, cfg, plan)
-    plan_monaco_to_hubspot(snap, cfg, plan)
+    unique = []
+    for a in plan["hubspot"]["associations"]:
+        if a not in unique:
+            unique.append(a)
+    plan["hubspot"]["associations"] = unique
     plan["stats"] = {f"{side}.{k}": len(v) for side in ("monaco", "hubspot") for k, v in plan[side].items()}
-    plan["stats"].update({"skipped": len(plan["skipped"]), "conflicts": len(plan["conflicts"])})
+    plan["stats"].update({k: len(plan[k]) for k in ("skipped", "conflicts", "review")})
     return plan
 
 
@@ -483,6 +593,7 @@ def load_snapshot(work: Path) -> dict:
         "monaco_lookup_contacts": load(work, "monaco_lookup_contacts.json", []),
         "monaco_accounts": load(work, "monaco_accounts.json", []),
         "monaco_conversations": load(work, "monaco_conversations.json", {}),
+        "now": None,
     }
 
 

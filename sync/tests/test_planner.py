@@ -171,11 +171,12 @@ class MonacoToHubSpot(unittest.TestCase):
         self.assertEqual(notes[0]["note_id"], "n1")
 
     def test_lead_status_promoted_only_from_new_or_empty(self):
-        mc = mo_contact("m1", email="m@x.com", last_outbound_type="LinkedIn Message")
+        mc = mo_contact("m1", email="m@x.com", last_outbound_type="LinkedIn Message",
+                        last_outbound_at="2026-10-12T10:00:00Z")
         empty = hs_contact("1", email="m@x.com")
         set_ = hs_contact("1", email="m@x.com", hs_lead_status="OPEN_DEAL")
         upd = planner.build_plan(snap(monaco_contacts=[mc], hubspot_lookup_contacts=[empty]), CFG)["hubspot"]["contact_updates"]
-        self.assertEqual(upd[0]["properties"]["hs_lead_status"], "ATTEMPTED_TO_CONTACT")
+        self.assertEqual(upd[0]["properties"]["hs_lead_status"], "IN_PROGRESS")
         upd = planner.build_plan(snap(monaco_contacts=[mc], hubspot_lookup_contacts=[set_]), CFG)["hubspot"]["contact_updates"]
         self.assertEqual(upd, [])
 
@@ -183,6 +184,90 @@ class MonacoToHubSpot(unittest.TestCase):
         mc = mo_contact("m1", email="m@x.com")
         plan = planner.build_plan(snap(monaco_contacts=[mc]), CFG)
         self.assertEqual(plan["hubspot"]["contact_creates"], [])
+
+
+class ConversationStatus(unittest.TestCase):
+    def test_status_matrix(self):
+        f = planner.conversation_lead_status
+        self.assertEqual(f(None, True, False), "IN_PROGRESS")
+        self.assertEqual(f("ATTEMPTED_TO_CONTACT", True, False), "IN_PROGRESS")
+        self.assertEqual(f("IN_PROGRESS", True, True), "CONNECTED")
+        self.assertEqual(f("OPEN", False, True), "CONNECTED")
+        self.assertIsNone(f("CONNECTED", True, False))          # never backwards
+        self.assertIsNone(f("OPEN_DEAL", True, True))           # deal stays
+        self.assertIsNone(f("BAD_TIMING", True, True))          # human call stays
+        self.assertIsNone(f("NEW", False, False))
+
+    def test_reply_moves_in_progress_to_connected_and_retags_monaco_same_run(self):
+        hc = hs_contact("1", email="m@x.com", hs_lead_status="IN_PROGRESS")
+        mc = mo_contact("m1", email="m@x.com", tags=[{"name": "HS In Progress"}])
+        plan = planner.build_plan(snap(hubspot_contacts=[hc], monaco_contacts=[mc],
+                                       monaco_conversations={"m1": [CONV]}), CFG)
+        self.assertEqual(plan["hubspot"]["contact_updates"][0]["properties"]["hs_lead_status"], "CONNECTED")
+        self.assertEqual(plan["monaco"]["contact_tags"][0], {"monaco_id": "m1", "add": "HS Connected",
+                                                             "remove": ["HS In Progress"]})
+        self.assertIn("Lead status: Connected", plan["monaco"]["contact_notes"][0]["notes"])
+
+    def test_email_conversation_updates_status_of_existing_hubspot_contact(self):
+        hc = hs_contact("1", email="m@x.com")
+        mc = mo_contact("m1", email="m@x.com", last_outbound_at="2026-10-12T10:00:00Z", last_outbound_type="Email",
+                        last_inbound_at="2026-10-12T11:00:00Z", last_inbound_type="Email")
+        upd = planner.build_plan(snap(hubspot_contacts=[hc], monaco_contacts=[mc]), CFG)["hubspot"]["contact_updates"]
+        self.assertEqual(upd[0]["properties"]["hs_lead_status"], "CONNECTED")
+
+    def test_recent_reply_on_bad_timing_flagged_not_changed(self):
+        hc = hs_contact("1", email="m@x.com", hs_lead_status="BAD_TIMING")
+        mc = mo_contact("m1", email="m@x.com")
+        s = snap(hubspot_contacts=[hc], monaco_contacts=[mc], monaco_conversations={"m1": [CONV]})
+        s["now"] = "2026-10-13T08:00:00+00:00"
+        plan = planner.build_plan(s, CFG)
+        self.assertEqual(plan["hubspot"]["contact_updates"], [])
+        self.assertEqual(plan["review"][0]["type"], "reply_on_closed_status")
+
+
+class NoDuplicates(unittest.TestCase):
+    def test_same_person_on_two_monaco_records_creates_one_hubspot_contact(self):
+        a = mo_contact("m1", email="m@enerflex.com", first_name="Mo", last_name="Oweis", account_name="Enerflex")
+        b = mo_contact("m2", email="M@Enerflex.com", first_name="Mo", last_name="Oweis", account_name="Enerflex")
+        conv2 = {**CONV, "chat_id": "chat2"}
+        hs = planner.build_plan(snap(monaco_contacts=[a, b], monaco_conversations={"m1": [CONV], "m2": [conv2]}),
+                                CFG)["hubspot"]
+        self.assertEqual(len(hs["contact_creates"]), 1)
+        self.assertEqual(len(hs["company_creates"]), 1)
+        self.assertEqual({n["contact"]["key"] for n in hs["notes"]}, {"monaco:m1"})
+        self.assertEqual(len(hs["notes"]), 2)
+
+    def test_two_people_same_company_create_company_once(self):
+        a = mo_contact("m1", email="a@enerflex.com", account_id="a1", account_name="Enerflex Ltd.")
+        b = mo_contact("m2", email="b@enerflex.com", account_id="a2", account_name="Enerflex Ltd")
+        hs = planner.build_plan(snap(monaco_contacts=[a, b], monaco_conversations={"m1": [CONV], "m2": [CONV]}),
+                                CFG)["hubspot"]
+        self.assertEqual(len(hs["company_creates"]), 1)
+        self.assertEqual(len(hs["associations"]), 2)
+
+    def test_name_and_company_match_goes_to_review_not_create_in_hubspot(self):
+        mc = mo_contact("m1", linkedin_url="linkedin.com/in/mo", first_name="Mohammad", last_name="Oweis",
+                        account_name="Enerflex Ltd.")
+        hc = hs_contact("566", firstname="Mohammad", lastname="Oweis", company="Enerflex", email="mo@enerflex.com")
+        plan = planner.build_plan(snap(monaco_contacts=[mc], hubspot_lookup_contacts=[hc],
+                                       monaco_conversations={"m1": [CONV]}), CFG)
+        self.assertEqual(plan["hubspot"]["contact_creates"], [])
+        self.assertEqual(plan["review"][0]["type"], "possible_duplicate_in_hubspot")
+
+    def test_name_and_company_match_goes_to_review_not_create_in_monaco(self):
+        hc = hs_contact("1", email="mo@enerflex.com", firstname="Mohammad", lastname="Oweis", company="Enerflex Ltd.")
+        mc = {"id": "m9", "linkedin_url": "linkedin.com/in/mo", "first_name": "Mohammad", "last_name": "Oweis",
+              "account_name": "Enerflex"}
+        plan = planner.build_plan(snap(hubspot_contacts=[hc], monaco_lookup_contacts=[mc]), CFG)
+        self.assertEqual(plan["monaco"]["contact_creates"], [])
+        self.assertEqual(plan["review"][0]["type"], "possible_duplicate_in_monaco")
+
+    def test_hubspot_duplicates_create_one_monaco_contact(self):
+        a = hs_contact("1", email="x@y.com")
+        b = hs_contact("2", email="X@y.com")
+        plan = planner.build_plan(snap(hubspot_contacts=[a, b]), CFG)
+        self.assertEqual(len(plan["monaco"]["contact_creates"]), 1)
+        self.assertIn("duplicate in HubSpot", plan["skipped"][0]["reason"])
 
 
 if __name__ == "__main__":

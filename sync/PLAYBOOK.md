@@ -64,6 +64,10 @@ Read `$WORK/plan.json`. Safety stop: on an incremental run, if `hubspot.contact_
 
 Run in this order. One failure never stops the run: log it and continue.
 
+Duplicate guard: immediately before every create (either system), search once more by email, then by
+LinkedIn URL (HubSpot: any owner). If the record now exists, update it instead of creating. This covers
+anything created by a person between the fetch and the write.
+
 Monaco:
 1. `contact_creates`: `upsert_contact(payload)`, then add `tag` with `modify_entity_tags`
    (create the tag inline if it does not exist).
@@ -85,6 +89,7 @@ this routine):
 ## 6. Report
 
 End the run with a short summary: counts per action, skipped (with reasons), conflicts (with record
+links), the `review` list (possible duplicates and replies on closed statuses, each with both record
 links), failures. Times in Madrid and Gulf time.
 
 ## Rules the planner enforces
@@ -95,8 +100,9 @@ links), failures. Times in Madrid and Gulf time.
 | Company lifecycle | HubSpot -> Monaco | Sets account status (lead/MQL -> Prospecting, SQL/opportunity -> Opportunity, customer -> Customer, other -> Nurture). |
 | Company owner | HubSpot -> Monaco | Set only when the Monaco account has no owner, otherwise logged as a conflict. |
 | LinkedIn conversations | Monaco -> HubSpot | One HubSpot note per LinkedIn thread, updated when new messages arrive. |
-| Lead status | Monaco -> HubSpot | Only moves from empty/New: to Attempted to Contact (we messaged) or Connected (they replied). |
+| Lead status | Monaco -> HubSpot | Follows the conversation (LinkedIn or email): we messaged, no reply -> In Progress; they replied or the conversation is live -> Connected. Moves forward only (New/Open/Attempted -> In Progress -> Connected). Never changes Open Deal, Unqualified, Bad Timing or No Show; a fresh reply on one of those goes to review. The new status reaches the Monaco tag and notes in the same run. |
 | Name, email, title, phone, LinkedIn | both | Fill blanks only. Never overwrite. Differing emails logged. |
 | New records | HubSpot -> Monaco | Every owned HubSpot contact with an email (or LinkedIn plus company domain). |
 | New records | Monaco -> HubSpot | Only people with a LinkedIn conversation, not every connection. Owner = who ran the conversation. |
+| Duplicates | both | Match on email, then LinkedIn URL. One create per person and per company per run, even when the person sits on two records. Same name + same company with no shared email/LinkedIn is never created: it goes to review. Final re-check right before each create. |
 | Deletes | never | |
