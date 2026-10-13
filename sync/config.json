@@ -1,0 +1,52 @@
+{
+  "lookback_hours": 26,
+  "owners": [
+    {
+      "name": "Yana Rova",
+      "hubspot_owner_id": "168888360",
+      "monaco_user_id": "01a0f86a-3f6f-733e-881a-2e503f78fbf1"
+    },
+    {
+      "name": "Sari Saadi",
+      "hubspot_owner_id": "96079443",
+      "monaco_user_id": "01a0eb52-9e01-7c95-9780-dbbc7257e21d"
+    }
+  ],
+  "hubspot": {
+    "portal_id": "50917387",
+    "contact_url": "https://app.hubspot.com/contacts/50917387/record/0-1/{id}",
+    "company_url": "https://app.hubspot.com/contacts/50917387/record/0-2/{id}"
+  },
+  "lead_status_labels": {
+    "NEW": "New",
+    "OPEN": "Open",
+    "IN_PROGRESS": "In Progress",
+    "OPEN_DEAL": "Open Deal",
+    "UNQUALIFIED": "Unqualified",
+    "ATTEMPTED_TO_CONTACT": "Attempted to Contact",
+    "CONNECTED": "Connected",
+    "BAD_TIMING": "Bad Timing",
+    "No_Show": "No Show"
+  },
+  "lifecycle_labels": {
+    "subscriber": "Subscriber",
+    "lead": "Lead",
+    "marketingqualifiedlead": "MQL",
+    "salesqualifiedlead": "SQL",
+    "opportunity": "Opportunity",
+    "customer": "Customer",
+    "evangelist": "Evangelist",
+    "other": "Other"
+  },
+  "lifecycle_to_monaco_account_status": {
+    "subscriber": "PROSPECTING",
+    "lead": "PROSPECTING",
+    "marketingqualifiedlead": "PROSPECTING",
+    "salesqualifiedlead": "OPPORTUNITY",
+    "opportunity": "OPPORTUNITY",
+    "customer": "CUSTOMER",
+    "evangelist": "CUSTOMER",
+    "other": "NURTURE"
+  },
+  "monaco_tag_prefix": "HS "
+}
