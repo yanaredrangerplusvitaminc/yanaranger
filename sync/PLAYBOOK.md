@@ -13,6 +13,16 @@ Scope: contacts and companies of **Yana Rova** and **Sari Saadi** (IDs in `sync/
 
 Work in a scratch directory, `WORK=$(mktemp -d)`. Never commit snapshot files: they hold personal data.
 
+HubSpot runs over the API when `HUBSPOT_TOKEN` is set in the environment (and `api.hubapi.com` is an
+allowed domain); otherwise over the HubSpot connector as described below. Monaco always uses the
+Monaco connector. The token is never written to a file or committed.
+
+With the token, the HubSpot steps are:
+- step 1: `python3 sync/hubspot_api.py fetch "$WORK" [--since <ISO>]`
+- step 3, HubSpot half (after the Monaco fetch): `python3 sync/hubspot_api.py lookup "$WORK"`
+- step 5, HubSpot half: `python3 sync/hubspot_api.py apply "$WORK"` (re-checks before every create,
+  writes `hubspot_results.json` with the ids of anything created)
+
 ## 1. Fetch HubSpot
 
 1. `hubspot_contacts.json`: `search_crm_objects` on CONTACT, `hubspot_owner_id IN [168888360, 96079443]`
