@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__HubSpot__*",
+      "mcp__Monaco__*",
+      "mcp__Apollo_io__*"
+    ]
+  }
+}
