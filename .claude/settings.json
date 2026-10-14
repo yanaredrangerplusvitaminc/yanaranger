@@ -4,10 +4,8 @@
       "mcp__HubSpot__*",
       "mcp__Monaco__*",
       "mcp__Apollo_io__*",
-      "mcp__Slack__slack_read_list",
-      "mcp__Slack__slack_add_list_record",
-      "mcp__Slack__slack_update_list_record",
-      "mcp__Slack__slack_update_list",
+      "mcp__Gmail__*",
+      "mcp__Slack__*",
       "mcp__Google_Docs__read_doc",
       "mcp__Google_Docs__update_doc",
       "mcp__Google_Slides__read_presentation",
@@ -26,6 +24,11 @@
       "mcp__Google_Sheets__update_spreadsheet",
       "mcp__Google_Sheets__batch_clear_values",
       "mcp__Google_Sheets__copy_sheet_to_another_spreadsheet"
+    ],
+    "deny": [
+      "mcp__Slack__slack_send_message",
+      "mcp__Slack__slack_add_reaction",
+      "mcp__Slack__slack_create_conversation"
     ]
   }
 }
