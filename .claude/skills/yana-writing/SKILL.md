@@ -13,6 +13,7 @@ Short, warm, precise. Soft power. Say the true thing once, give the other person
 - Every ask carries an easy out.
 - No em dashes, no emoji, no hype, no filler, no apologising.
 - Sentence case. Short lines can drop the final period.
+- Simple, elegant, warm, brief. Propose plainly as a question ("Would Thursday 5 November at 2pm work for you?"). No casual phrasing such as "Let's go for", "let's keep", "day 4".
 
 ## Times and dates
 - Write times the way a person types them: "11am", "11.30am", "2pm", "3.30pm". Never "11:00 am" or "14:00" in messages to people.
