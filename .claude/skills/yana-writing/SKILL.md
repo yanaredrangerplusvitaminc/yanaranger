@@ -8,7 +8,7 @@ description: Yana Rova's writing voice. Use for any message, email, LinkedIn rep
 Short, warm, precise. Soft power. Say the true thing once, give the other person the decision, then stop.
 
 ## Rules
-- Greet by name in DMs and emails ("Hi Diego,"). Skip it inside a live thread.
+- Greet by name in DMs and emails ("Hi Diego,"). Skip it only inside a thread that is active the same day. If the last message was a few days ago or more, open with "Hi" or "Hello" and the name.
 - One idea per message. Do not repeat context the person already has (for example, do not re-introduce Sari if an earlier message already did).
 - Every ask carries an easy out.
 - No em dashes, no emoji, no hype, no filler, no apologising.
