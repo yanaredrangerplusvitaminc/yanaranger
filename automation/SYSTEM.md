@@ -44,3 +44,27 @@ Every kind of thing has one home. Everything else links to it.
 3. The watchdog flags the 10 oldest undated items each Monday, so the Unscheduled list shrinks every week.
 4. RAM reads stage dates from the trackers (sent, replied, meeting set, met) and from HubSpot (deal stages), one set
    of numbers.
+
+## Artifact map (survey of 11 working artifacts, 26 Oct)
+
+Only ADIPEC Merch Tracker has a live database; five are Claude Docs and five are static pages, so most statuses
+are frozen at 6 to 22 Oct. None links to HubSpot records.
+
+| Artifact | Verdict |
+| --- | --- |
+| GCC Growth board | Home for Yana's work. Absorbs the three task lists below |
+| My tasks (Doc) | Superseded by the board; move live rows |
+| Lanes and Accounts (Doc) | Lanes tab folds into the board; Accounts tab stays as the asset index |
+| Stage 1 and This Week | Meeting snapshot for 26 Oct; rows go to the board |
+| ADIPEC Card Leads | Home for ADIPEC outreach; template for every campaign |
+| ADIPEC outreach on Sari's behalf (Doc) | Keep as the sequence and template source; contacts move to Card Leads |
+| LinkedIn and ADIPEC Room | Keep strategy as reference; promises to the board, meeting schedule to Card Leads |
+| AIQ Scouting | Keep the brief; AIQ contacts become one Card Leads sheet |
+| Gulf Events Outreach | Event statuses to the board; emails kept as a template |
+| Gulf Events Outreach (Copy) | Superseded duplicate; names a previous employer's sources. Archive |
+| ADIPEC Merch Tracker | Archive once the polo order closes |
+| Customer journeys: CRM-ready v1 (Doc) | Keep as the rulebook for what enters HubSpot |
+| Ranger GTM playbook: working doc | Keep as the index of documents; list the pages above |
+
+Fragmentation in numbers: three task lists with the same schema and conflicting due dates; ADIPEC contacts in four
+places with no shared ID; the Room page itself records three different ADIPEC meeting counts (9, 14 and about 15).
