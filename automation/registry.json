@@ -18,8 +18,8 @@
     "slack-list:F0C9J845HQW:digest": "GCC CRM sync log, DIGEST rows",
     "slack-list:F0C9J845HQW:health": "GCC CRM sync log, HEALTH rows",
     "artifact:morning-brief": "Morning brief page",
-    "board:items:digest-*": "GCC Growth board, one CRM digest item per weekday (Inbox, only when something needs Yana)",
-    "board:items:arch-*": "GCC Growth board, weekly automation review item"
+    "board:items:watch-*": "GCC Growth board, daily watchdog item (approvals, questions, broken runs, duplicates)",
+    "push:yana-phone": "One push notification to Yana when the watchdog item is High"
   },
   "routines": [
     {
@@ -68,7 +68,7 @@
         "board:items"
       ],
       "state": "Stateless; board item ids health-<slug> make it idempotent",
-      "note": "Reads all open board items first; if one covers the account and action, appends a Health line instead of creating."
+      "note": "Reads all open board items first; if one covers the account and action, appends a Health line instead of creating. Moved to 08:17 and 14:17 so it sits 30 min from each reconcile run."
     },
     {
       "key": "board-capture",
@@ -90,24 +90,8 @@
         "monaco"
       ],
       "state": "board config/capture lastRun",
-      "note": "Runs daily including weekends. Does not yet de-duplicate against health-* items."
-    },
-    {
-      "key": "crm-digest",
-      "name": "GCC CRM daily digest v2",
-      "trigger_id": "trig_01TWCyZjJV2gEdFrV6QvrmtF",
-      "layer": "3. Surface: what Yana reads",
-      "status": "live",
-      "writes": [
-        "board:items:digest-*",
-        "slack-list:F0C9J845HQW:digest"
-      ],
-      "reads": [
-        "slack-list:F0C9J845HQW",
-        "hubspot"
-      ],
-      "state": "Stateless; reads the last 24 hours of List rows",
-      "note": "Live prompt (v2) still creates a Slack draft. v3 in automation/prompts/crm-digest.md writes a board item instead; apply it from session_01PwDYJn5yhNzbFLPyQU9F65."
+      "note": "Runs daily including weekends. De-duplicates against health-*, digest-* and arch-* items (prompt updated 26 Oct). Scout: research asks get a V0 note (web plus HubSpot or Monaco). Watchdog checks it daily, weekends included.",
+      "prompt_file": "automation/prompts/board-capture.md"
     },
     {
       "key": "morning-brief",
@@ -147,21 +131,25 @@
       "note": "Conflicts with the reconcile rule 'Monaco is notes only, no field sync'. Decide: retire or schedule."
     },
     {
-      "key": "architect",
-      "name": "Automation architect (weekly)",
-      "trigger_id": null,
-      "layer": "0. Control: watch the system",
-      "status": "proposed",
+      "key": "watchdog",
+      "name": "Master watchdog (automations + CRM decisions)",
+      "trigger_id": "trig_01STjc86AofFtvpvYznJXPNF",
+      "layer": "0. Control: watch the system, surface decisions",
+      "status": "live",
       "writes": [
-        "board:items:arch-*"
+        "board:items:watch-*",
+        "push:yana-phone"
       ],
       "reads": [
         "routines",
         "slack-list:F0C9J845HQW",
-        "board:config:capture"
+        "board:items",
+        "board:config:capture",
+        "session_01PwDYJn5yhNzbFLPyQU9F65"
       ],
-      "state": "Stateless",
-      "prompt_file": "automation/prompts/architect.md"
+      "state": "Self-bound to session_0142cbVsXSBt7PfLcgcibua2 (has every connector and this repo)",
+      "prompt_file": "automation/prompts/watchdog.md",
+      "note": "Replaces the Slack-draft digest. May pause a routine that sends or drafts in Slack, or fails 3 runs in a row; never edits prompts. Runs daily; weekends check Scout only."
     }
   ],
   "superseded": [
@@ -194,6 +182,11 @@
       "trigger_id": "trig_01M5c9GDnPCW9pUVRFJiUgK6",
       "name": "GCC Growth board: capture and close",
       "replaced_by": "board-capture"
+    },
+    {
+      "trigger_id": "trig_01TWCyZjJV2gEdFrV6QvrmtF",
+      "name": "GCC CRM daily digest v2",
+      "replaced_by": "watchdog"
     }
   ],
   "rules": [

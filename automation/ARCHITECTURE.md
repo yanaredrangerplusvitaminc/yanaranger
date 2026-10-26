@@ -6,11 +6,10 @@ Review of 26 Oct 2026. Source: live routine list (list_triggers), session `sessi
 
 | Layer | Routine | Runs (Madrid) | Writes |
 | --- | --- | --- | --- |
-| 0. Control | Automation architect (proposed) | Mon 08:13 | Board `arch-*` item, one List row |
+| 0. Control | Master watchdog | Daily 08:43 (weekends: Scout only) | Board `watch-*` item, one push when High |
 | 1. Truth | GCC CRM reconcile v2 | Weekdays, hourly 07:47 to 20:47 | HubSpot notes, next steps, tasks; Monaco notes; List rows |
-| 2. Judgement | GCC account health check v1.1 | Weekdays 08:07, 14:07 | Board `health-*` items, or a Health line on an existing item |
+| 2. Judgement | GCC account health check v1.1 | Weekdays 08:17, 14:17 | Board `health-*` items, or a Health line on an existing item |
 | 2. Judgement | GCC capture-and-scout engine | Daily 08:37, 12:37, 16:37, 20:37 | Board `cap-*` items, `config/capture` |
-| 3. Surface | GCC CRM daily digest (v3 pending) | Weekdays 08:21 | Board `digest-*` item when something needs Yana, one List row |
 | 3. Surface | Morning brief | Weekdays 07:47 | Brief page |
 
 The registry (`registry.json`) is the source of truth for this table. `architect.py` checks the live routines against it.
@@ -55,3 +54,13 @@ The snapshot is the raw output of `list_triggers` (one page or a list of pages).
 ## Change rule
 
 Change the registry first, then the routine, then run the architect. One owner per write surface. A new routine that writes a surface already owned is a design change, not a tweak.
+
+## Changes made 26 Oct (evening)
+
+1. Digest v2 paused and labelled superseded: it created Slack drafts. Its job (approvals, questions, Ibraheem queue) moved into the watchdog.
+2. Watchdog created: daily 08:43 Madrid (weekends check Scout only), runs in session_0142cbVsXSBt7PfLcgcibua2, which holds every connector and this repo. Checks routines, real run outcomes, duplicates; writes one `watch-*` board item and one phone push when there is something to decide.
+3. Health check moved to 08:17 and 14:17, 30 min from each reconcile run.
+4. Capture-and-scout now de-duplicates against `health-*` items before creating "Reply needed".
+5. Old routines renamed "[superseded] ..." except capture and close (created outside agents; rename it in the routines page if wanted).
+
+Still open, for Yana: reconcile and health share one conversation (prompt edits to them are only possible from that session); identity sync retire or schedule; ADIPEC tasks HubSpot vs board.
