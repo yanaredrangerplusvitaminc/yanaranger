@@ -6,14 +6,18 @@ Review of 26 Oct 2026. Source: live routine list (list_triggers), session `sessi
 
 | Layer | Routine | Runs (Madrid) | Writes |
 | --- | --- | --- | --- |
-| 0. Control | Automation architect (proposed) | Mon 08:13 | Slack draft to Yana, one List row |
+| 0. Control | Automation architect (proposed) | Mon 08:13 | Board `arch-*` item, one List row |
 | 1. Truth | GCC CRM reconcile v2 | Weekdays, hourly 07:47 to 20:47 | HubSpot notes, next steps, tasks; Monaco notes; List rows |
-| 2. Judgement | GCC account health check | Weekdays 08:07, 14:07 | Board `health-*` items |
-| 2. Judgement | GCC Growth board: capture and close | Weekdays 08:35, 12:35, 16:35, 20:35 | Board `cap-*` items, `config/capture` |
-| 3. Surface | GCC CRM daily digest v2 | Weekdays 08:21 | Slack draft to Yana, one List row |
+| 2. Judgement | GCC account health check v1.1 | Weekdays 08:07, 14:07 | Board `health-*` items, or a Health line on an existing item |
+| 2. Judgement | GCC capture-and-scout engine | Daily 08:37, 12:37, 16:37, 20:37 | Board `cap-*` items, `config/capture` |
+| 3. Surface | GCC CRM daily digest (v3 pending) | Weekdays 08:21 | Board `digest-*` item when something needs Yana, one List row |
 | 3. Surface | Morning brief | Weekdays 07:47 | Brief page |
 
 The registry (`registry.json`) is the source of truth for this table. `architect.py` checks the live routines against it.
+
+## House rule
+
+No routine creates Slack drafts or Slack messages. Everything that needs Yana lands in the GCC Growth board Inbox. The architect flags any live prompt that breaks this.
 
 ## What is good
 

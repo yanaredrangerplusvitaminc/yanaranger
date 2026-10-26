@@ -6,7 +6,7 @@ Run the automation architect review now (v1, 26 Oct 2026). You review Yana Rova'
    a. Slack List "GCC CRM sync log" (F0C9J845HQW): RUN rows in the last 7 days. Expected about 14 per weekday. Report missing hours, total failed writes, and every source named in "gaps:".
    b. Same List: Critical change rows Pending for more than 3 days, by approver.
    c. GCC Growth board (artifact DKUnpDKNgepA8ZgV1BbfLk, ArtifactData): config/capture lastRun and lastErrors; count of items created in the last 7 days by id prefix (cap-, health-) and any account that has both a cap- and a health- item open for the same action.
-4. Write the report as a Slack draft in Yana's own DM (channel_id U0C4NPHS58R). If a draft already exists there, add one List row instead. Format, short, no em dashes, no emoji, Madrid time with Gulf in brackets:
+4. Never create Slack drafts or Slack messages. Deliver the report as one item on the GCC Growth board (ArtifactData, collection "items"), only if there is at least one red or amber finding: doc id "arch-<YYYYMMDD>", title "Automation review <Day D Mon>: red N, amber N", lane "l-revops", status "Inbox", owner "Yana", priority "High" if any red else "Medium", due today, leadDays 0, notes = the report below, capturedAt ISO now. If an older "arch-*" item is still "Inbox", append "Superseded by arch-<YYYYMMDD>" and set it "Done". Format, short, no em dashes, no emoji, Madrid time with Gulf in brackets:
    Automation review, <Day D Mon>
    1. Needs a decision: at most 3 red items, each with the one change that fixes it.
    2. Watch: amber items, one line each.

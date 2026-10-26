@@ -17,9 +17,9 @@
     "slack-list:F0C9J845HQW:run": "GCC CRM sync log, RUN, Update, Critical change, Exception, Failed write rows",
     "slack-list:F0C9J845HQW:digest": "GCC CRM sync log, DIGEST rows",
     "slack-list:F0C9J845HQW:health": "GCC CRM sync log, HEALTH rows",
-    "slack-draft:yana-dm": "Draft in Yana's own Slack DM",
     "artifact:morning-brief": "Morning brief page",
-    "slack-draft:architect": "Draft in Yana's own Slack DM, architect report"
+    "board:items:digest-*": "GCC Growth board, one CRM digest item per weekday (Inbox, only when something needs Yana)",
+    "board:items:arch-*": "GCC Growth board, weekly automation review item"
   },
   "routines": [
     {
@@ -28,30 +28,69 @@
       "trigger_id": "trig_01LyfJ1xpRnzZp6zcCYiGN8Y",
       "layer": "1. Truth: keep the CRM current",
       "status": "live",
-      "writes": ["hubspot:deal-notes", "hubspot:next-step-and-tasks", "hubspot:contact-fields", "monaco:opportunity-notes", "slack-list:F0C9J845HQW:run"],
-      "reads": ["gmail", "slack", "granola", "calendar", "monaco-linkedin", "confluence", "slack-list:F0C9J845HQW"],
+      "writes": [
+        "hubspot:deal-notes",
+        "hubspot:next-step-and-tasks",
+        "hubspot:contact-fields",
+        "monaco:opportunity-notes",
+        "slack-list:F0C9J845HQW:run"
+      ],
+      "reads": [
+        "gmail",
+        "slack",
+        "granola",
+        "calendar",
+        "monaco-linkedin",
+        "confluence",
+        "slack-list:F0C9J845HQW"
+      ],
       "state": "Newest RUN row in Slack List F0C9J845HQW",
       "approver": "Yana (prospects), Ibraheem (existing accounts)"
     },
     {
       "key": "account-health",
-      "name": "GCC account health check",
-      "trigger_id": "trig_01WjdkQgFzFR9rpFRmwqeF2v",
+      "name": "GCC account health check v1.1",
+      "trigger_id": "trig_01MqYWN3ENoe7nDNm1XkdxYc",
       "layer": "2. Judgement: what needs action",
       "status": "live",
-      "writes": ["board:items:health-*", "slack-list:F0C9J845HQW:health"],
-      "reads": ["hubspot", "gmail", "slack", "granola", "calendar", "monaco-linkedin", "slack-list:F0C9J845HQW", "board:items"],
-      "state": "Stateless; board item ids health-<slug> make it idempotent"
+      "writes": [
+        "board:items:health-*",
+        "slack-list:F0C9J845HQW:health"
+      ],
+      "reads": [
+        "hubspot",
+        "gmail",
+        "slack",
+        "granola",
+        "calendar",
+        "monaco-linkedin",
+        "slack-list:F0C9J845HQW",
+        "board:items"
+      ],
+      "state": "Stateless; board item ids health-<slug> make it idempotent",
+      "note": "Reads all open board items first; if one covers the account and action, appends a Health line instead of creating."
     },
     {
       "key": "board-capture",
-      "name": "GCC Growth board: capture and close",
-      "trigger_id": "trig_01M5c9GDnPCW9pUVRFJiUgK6",
+      "name": "GCC capture-and-scout engine",
+      "trigger_id": "trig_01TQwvSMzdD9ev1jm7R6rxPw",
       "layer": "2. Judgement: what needs action",
       "status": "live",
-      "writes": ["board:items:cap-*", "board:config:capture"],
-      "reads": ["gmail", "slack", "granola", "calendar", "board:items"],
-      "state": "board config/capture lastRun"
+      "writes": [
+        "board:items:cap-*",
+        "board:config:capture"
+      ],
+      "reads": [
+        "gmail",
+        "slack",
+        "granola",
+        "calendar",
+        "board:items",
+        "hubspot",
+        "monaco"
+      ],
+      "state": "board config/capture lastRun",
+      "note": "Runs daily including weekends. Does not yet de-duplicate against health-* items."
     },
     {
       "key": "crm-digest",
@@ -59,9 +98,16 @@
       "trigger_id": "trig_01TWCyZjJV2gEdFrV6QvrmtF",
       "layer": "3. Surface: what Yana reads",
       "status": "live",
-      "writes": ["slack-draft:yana-dm", "slack-list:F0C9J845HQW:digest"],
-      "reads": ["slack-list:F0C9J845HQW", "hubspot"],
-      "state": "Stateless; reads the last 24 hours of List rows"
+      "writes": [
+        "board:items:digest-*",
+        "slack-list:F0C9J845HQW:digest"
+      ],
+      "reads": [
+        "slack-list:F0C9J845HQW",
+        "hubspot"
+      ],
+      "state": "Stateless; reads the last 24 hours of List rows",
+      "note": "Live prompt (v2) still creates a Slack draft. v3 in automation/prompts/crm-digest.md writes a board item instead; apply it from session_01PwDYJn5yhNzbFLPyQU9F65."
     },
     {
       "key": "morning-brief",
@@ -69,8 +115,16 @@
       "trigger_id": "trig_015uJVMvzbgd3749UQSfKzKb",
       "layer": "3. Surface: what Yana reads",
       "status": "live",
-      "writes": ["artifact:morning-brief"],
-      "reads": ["calendar", "gmail", "slack", "drive", "granola"],
+      "writes": [
+        "artifact:morning-brief"
+      ],
+      "reads": [
+        "calendar",
+        "gmail",
+        "slack",
+        "drive",
+        "granola"
+      ],
       "state": "Stateless"
     },
     {
@@ -79,8 +133,16 @@
       "trigger_id": null,
       "layer": "1. Truth: keep the CRM current",
       "status": "unscheduled",
-      "writes": ["hubspot:contact-records", "hubspot:contact-fields", "hubspot:linkedin-notes", "monaco:contact-records"],
-      "reads": ["hubspot", "monaco"],
+      "writes": [
+        "hubspot:contact-records",
+        "hubspot:contact-fields",
+        "hubspot:linkedin-notes",
+        "monaco:contact-records"
+      ],
+      "reads": [
+        "hubspot",
+        "monaco"
+      ],
       "state": "lookback_hours in sync/config.json",
       "note": "Conflicts with the reconcile rule 'Monaco is notes only, no field sync'. Decide: retire or schedule."
     },
@@ -90,17 +152,61 @@
       "trigger_id": null,
       "layer": "0. Control: watch the system",
       "status": "proposed",
-      "writes": ["slack-draft:architect"],
-      "reads": ["routines", "slack-list:F0C9J845HQW", "board:config:capture"],
+      "writes": [
+        "board:items:arch-*"
+      ],
+      "reads": [
+        "routines",
+        "slack-list:F0C9J845HQW",
+        "board:config:capture"
+      ],
       "state": "Stateless",
       "prompt_file": "automation/prompts/architect.md"
     }
   ],
   "superseded": [
-    {"trigger_id": "trig_017qaiioyUzqY4Rf3fJPp6MG", "name": "GCC CRM reconcile (hourly)", "replaced_by": "crm-reconcile"},
-    {"trigger_id": "trig_011j4axuGqGSGcZSgX6z6cVi", "name": "GCC CRM daily digest", "replaced_by": "crm-digest"},
-    {"trigger_id": "trig_01VSmQDBmzdwRCvz99qKeLZK", "name": "GCC CRM sync (Slack, Gmail, Granola, LinkedIn to HubSpot and Monaco)", "replaced_by": "crm-reconcile"},
-    {"trigger_id": "trig_01YbVSMJKbfdGfkDPaSFuH4Q", "name": "GCC Growth board: Inbox capture", "replaced_by": "board-capture"},
-    {"trigger_id": "trig_01TQwvSMzdD9ev1jm7R6rxPw", "name": "GCC capture-and-scout engine", "replaced_by": "board-capture"}
+    {
+      "trigger_id": "trig_017qaiioyUzqY4Rf3fJPp6MG",
+      "name": "GCC CRM reconcile (hourly)",
+      "replaced_by": "crm-reconcile"
+    },
+    {
+      "trigger_id": "trig_011j4axuGqGSGcZSgX6z6cVi",
+      "name": "GCC CRM daily digest",
+      "replaced_by": "crm-digest"
+    },
+    {
+      "trigger_id": "trig_01VSmQDBmzdwRCvz99qKeLZK",
+      "name": "GCC CRM sync (Slack, Gmail, Granola, LinkedIn to HubSpot and Monaco)",
+      "replaced_by": "crm-reconcile"
+    },
+    {
+      "trigger_id": "trig_01YbVSMJKbfdGfkDPaSFuH4Q",
+      "name": "GCC Growth board: Inbox capture",
+      "replaced_by": "board-capture"
+    },
+    {
+      "trigger_id": "trig_01WjdkQgFzFR9rpFRmwqeF2v",
+      "name": "GCC account health check",
+      "replaced_by": "account-health"
+    },
+    {
+      "trigger_id": "trig_01M5c9GDnPCW9pUVRFJiUgK6",
+      "name": "GCC Growth board: capture and close",
+      "replaced_by": "board-capture"
+    }
+  ],
+  "rules": [
+    "No Slack drafts or Slack messages from any routine. Yana's notifications come through the GCC Growth board Inbox."
+  ],
+  "forbidden_prompt_patterns": [
+    {
+      "pattern": "(?<!never )create a slack draft",
+      "why": "no Slack drafts; notify through the board"
+    },
+    {
+      "pattern": "draft in yana's own (slack )?dm",
+      "why": "no Slack drafts; notify through the board"
+    }
   ]
 }

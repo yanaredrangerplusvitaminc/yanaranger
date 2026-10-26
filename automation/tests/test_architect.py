@@ -129,6 +129,14 @@ class AuditTests(unittest.TestCase):
         out = architect.render(self.run_audit(registry(routine("a", "t1")), [trig("t1", "A", "0 9 * * *")]), NOW)
         self.assertIn("Madrid (22:00 Gulf)", out)
 
+    def test_slack_draft_prompt_is_red(self):
+        reg = registry(routine("d", "t1"))
+        reg["forbidden_prompt_patterns"] = json.loads(architect.REGISTRY.read_text())["forbidden_prompt_patterns"]
+        v2 = trig("t1", "Digest", "0 9 * * *", prompt="a. Create a Slack draft in Yana's own DM (channel_id U0C4NPHS58R)")
+        self.assertTrue(any("house rule" in m for m in messages(self.run_audit(reg, [v2]), "RED")))
+        v3 = trig("t1", "Digest", "0 9 * * *", prompt="Never create Slack drafts or Slack messages of any kind.")
+        self.assertFalse(any("house rule" in m for m in messages(self.run_audit(reg, [v3]))))
+
     def test_repo_registry_is_valid(self):
         reg = json.loads(architect.REGISTRY.read_text())
         keys = [r["key"] for r in reg["routines"]]

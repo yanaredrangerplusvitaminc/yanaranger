@@ -24,6 +24,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -179,6 +180,15 @@ def audit(registry: dict, triggers: list[dict], now: datetime, prompts_dir: Path
         elif sha(base.read_text()) != sha(prompt_of(t)):
             findings.append((AMBER, r["key"], f"live prompt differs from automation/prompts/{base.name}; "
                                               "update the repo copy or the routine so they match"))
+
+    # House rules: phrases no live prompt may carry
+    for t in triggers:
+        if not t.get("enabled"):
+            continue
+        text = prompt_of(t).lower()
+        for rule in registry.get("forbidden_prompt_patterns", []):
+            if re.search(rule["pattern"], text):
+                findings.append((RED, t["name"], f"prompt breaks a house rule: {rule['why']}"))
 
     # Health per enabled routine
     for t in triggers:
