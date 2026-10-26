@@ -1,5 +1,7 @@
 # ADIPEC card leads: follow-up brief
 
+> Superseded 26 Oct 2026. This version covers 8 of the 16 card leads. The working copy, with all 16 leads and their drafts, is the tracker artifact: https://claude.ai/artifact/8k4VjuNRRzFL62k9uqwAHv
+
 Prepared 26 Oct 2026. Scope: the business cards Sari collected at past ADIPECs (2024, 2025), reviewed with Sari on 21 Oct and logged in HubSpot on 23 Oct. ADIPEC 2026 runs 2-5 Nov, Abu Dhabi.
 
 Sources: HubSpot contacts, notes and tasks (card review, 23 Oct); Monaco contacts; Gmail sent (since 20 Oct); Slack DM with Sari (14-26 Oct).
