@@ -1,0 +1,106 @@
+{
+  "_about": "Every automation Yana runs, what it owns and what it may write. The architect (automation/architect.py) checks the live routines against this file. Update this file first, then the routine.",
+  "owner": "Yana Rova",
+  "timezone": "Europe/Madrid",
+  "min_gap_minutes_same_session": 30,
+  "surfaces": {
+    "board:items:cap-*": "GCC Growth board, Yana's own asks and commitments (artifact DKUnpDKNgepA8ZgV1BbfLk)",
+    "board:items:health-*": "GCC Growth board, one follow-up item per GCC account",
+    "board:config:capture": "GCC Growth board, capture state (lastRun, lastErrors)",
+    "hubspot:deal-notes": "HubSpot living \"Status, \" note per deal",
+    "hubspot:next-step-and-tasks": "HubSpot hs_next_step and open tasks on GCC deals",
+    "hubspot:contact-fields": "HubSpot contact fields (blanks only)",
+    "hubspot:contact-records": "HubSpot contact and company creates",
+    "hubspot:linkedin-notes": "HubSpot monaco-chat notes, one per LinkedIn thread",
+    "monaco:opportunity-notes": "Monaco opportunity notes mirror",
+    "monaco:contact-records": "Monaco contacts, accounts, HS tags and notes block",
+    "slack-list:F0C9J845HQW:run": "GCC CRM sync log, RUN, Update, Critical change, Exception, Failed write rows",
+    "slack-list:F0C9J845HQW:digest": "GCC CRM sync log, DIGEST rows",
+    "slack-list:F0C9J845HQW:health": "GCC CRM sync log, HEALTH rows",
+    "slack-draft:yana-dm": "Draft in Yana's own Slack DM",
+    "artifact:morning-brief": "Morning brief page",
+    "slack-draft:architect": "Draft in Yana's own Slack DM, architect report"
+  },
+  "routines": [
+    {
+      "key": "crm-reconcile",
+      "name": "GCC CRM reconcile v2 (hourly)",
+      "trigger_id": "trig_01LyfJ1xpRnzZp6zcCYiGN8Y",
+      "layer": "1. Truth: keep the CRM current",
+      "status": "live",
+      "writes": ["hubspot:deal-notes", "hubspot:next-step-and-tasks", "hubspot:contact-fields", "monaco:opportunity-notes", "slack-list:F0C9J845HQW:run"],
+      "reads": ["gmail", "slack", "granola", "calendar", "monaco-linkedin", "confluence", "slack-list:F0C9J845HQW"],
+      "state": "Newest RUN row in Slack List F0C9J845HQW",
+      "approver": "Yana (prospects), Ibraheem (existing accounts)"
+    },
+    {
+      "key": "account-health",
+      "name": "GCC account health check",
+      "trigger_id": "trig_01WjdkQgFzFR9rpFRmwqeF2v",
+      "layer": "2. Judgement: what needs action",
+      "status": "live",
+      "writes": ["board:items:health-*", "slack-list:F0C9J845HQW:health"],
+      "reads": ["hubspot", "gmail", "slack", "granola", "calendar", "monaco-linkedin", "slack-list:F0C9J845HQW", "board:items"],
+      "state": "Stateless; board item ids health-<slug> make it idempotent"
+    },
+    {
+      "key": "board-capture",
+      "name": "GCC Growth board: capture and close",
+      "trigger_id": "trig_01M5c9GDnPCW9pUVRFJiUgK6",
+      "layer": "2. Judgement: what needs action",
+      "status": "live",
+      "writes": ["board:items:cap-*", "board:config:capture"],
+      "reads": ["gmail", "slack", "granola", "calendar", "board:items"],
+      "state": "board config/capture lastRun"
+    },
+    {
+      "key": "crm-digest",
+      "name": "GCC CRM daily digest v2",
+      "trigger_id": "trig_01TWCyZjJV2gEdFrV6QvrmtF",
+      "layer": "3. Surface: what Yana reads",
+      "status": "live",
+      "writes": ["slack-draft:yana-dm", "slack-list:F0C9J845HQW:digest"],
+      "reads": ["slack-list:F0C9J845HQW", "hubspot"],
+      "state": "Stateless; reads the last 24 hours of List rows"
+    },
+    {
+      "key": "morning-brief",
+      "name": "Morning brief",
+      "trigger_id": "trig_015uJVMvzbgd3749UQSfKzKb",
+      "layer": "3. Surface: what Yana reads",
+      "status": "live",
+      "writes": ["artifact:morning-brief"],
+      "reads": ["calendar", "gmail", "slack", "drive", "granola"],
+      "state": "Stateless"
+    },
+    {
+      "key": "identity-sync",
+      "name": "HubSpot <-> Monaco contact and company sync (sync/PLAYBOOK.md)",
+      "trigger_id": null,
+      "layer": "1. Truth: keep the CRM current",
+      "status": "unscheduled",
+      "writes": ["hubspot:contact-records", "hubspot:contact-fields", "hubspot:linkedin-notes", "monaco:contact-records"],
+      "reads": ["hubspot", "monaco"],
+      "state": "lookback_hours in sync/config.json",
+      "note": "Conflicts with the reconcile rule 'Monaco is notes only, no field sync'. Decide: retire or schedule."
+    },
+    {
+      "key": "architect",
+      "name": "Automation architect (weekly)",
+      "trigger_id": null,
+      "layer": "0. Control: watch the system",
+      "status": "proposed",
+      "writes": ["slack-draft:architect"],
+      "reads": ["routines", "slack-list:F0C9J845HQW", "board:config:capture"],
+      "state": "Stateless",
+      "prompt_file": "automation/prompts/architect.md"
+    }
+  ],
+  "superseded": [
+    {"trigger_id": "trig_017qaiioyUzqY4Rf3fJPp6MG", "name": "GCC CRM reconcile (hourly)", "replaced_by": "crm-reconcile"},
+    {"trigger_id": "trig_011j4axuGqGSGcZSgX6z6cVi", "name": "GCC CRM daily digest", "replaced_by": "crm-digest"},
+    {"trigger_id": "trig_01VSmQDBmzdwRCvz99qKeLZK", "name": "GCC CRM sync (Slack, Gmail, Granola, LinkedIn to HubSpot and Monaco)", "replaced_by": "crm-reconcile"},
+    {"trigger_id": "trig_01YbVSMJKbfdGfkDPaSFuH4Q", "name": "GCC Growth board: Inbox capture", "replaced_by": "board-capture"},
+    {"trigger_id": "trig_01TQwvSMzdD9ev1jm7R6rxPw", "name": "GCC capture-and-scout engine", "replaced_by": "board-capture"}
+  ]
+}

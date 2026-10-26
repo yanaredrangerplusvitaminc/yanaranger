@@ -13,3 +13,9 @@ Files:
 - `sync/planner.py`: decides every change from snapshots of both systems (no API calls)
 - `sync/config.json`: owners, IDs and status mappings
 - `sync/tests/`: `python3 -m unittest discover -s sync/tests`
+
+## Automation architect
+
+`automation/` holds the map of every routine (`registry.json`), the review (`ARCHITECTURE.md`) and a checker
+(`architect.py`) that compares the live routines with the map: drift, overlaps, shared-session collisions,
+superseded routines still on. Tests: `python3 -m unittest discover -s automation/tests`
