@@ -19,7 +19,8 @@
     "slack-list:F0C9J845HQW:health": "GCC CRM sync log, HEALTH rows",
     "artifact:morning-brief": "Morning brief page",
     "board:items:watch-*": "GCC Growth board, daily watchdog item (approvals, questions, broken runs, duplicates)",
-    "push:yana-phone": "One push notification to Yana when the watchdog item is High"
+    "push:yana-phone": "One push notification to Yana when the watchdog item is High",
+    "tracker:leads": "Outreach tracker lead sheets (format: automation/outreach/README.md)"
   },
   "routines": [
     {
@@ -150,6 +151,24 @@
       "state": "Self-bound to session_0142cbVsXSBt7PfLcgcibua2 (has every connector and this repo)",
       "prompt_file": "automation/prompts/watchdog.md",
       "note": "Replaces the Slack-draft digest. May pause a routine that sends or drafts in Slack, or fails 3 runs in a row; never edits prompts. Runs daily; weekends check Scout only."
+    },
+    {
+      "key": "outreach",
+      "name": "Outreach automation (RAM)",
+      "trigger_id": null,
+      "layer": "2. Judgement: what needs action",
+      "status": "proposed",
+      "writes": [
+        "tracker:leads"
+      ],
+      "reads": [
+        "hubspot",
+        "monaco-linkedin",
+        "gmail",
+        "slack"
+      ],
+      "state": "Tracker artifact 8k4VjuNRRzFL62k9uqwAHv, collection leads",
+      "note": "Standard set 26 Oct: every outreach campaign uses the ADIPEC Card Leads format. Drafts only; people send."
     }
   ],
   "superseded": [
