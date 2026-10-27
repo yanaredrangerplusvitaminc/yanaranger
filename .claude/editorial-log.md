@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, "technical and commercial" reads as the full cycle
+
+- **Yana (page comment):** "Technical and commercial is already the full cycle. There is no beyond." → When a roadmap line follows, name today's scope as "their bids", not "technical and commercial work". OTC A: "run their bids on Ranger's AI platform… Next, we're bringing the same approach to what follows the order…". Standing.
+
 ## 27 Oct 2026, OTC A roadmap line
 
 - **Yana:** "I'm still not following… are we describing the first process and then what happens next?" → Yes. "That work" (bid work) cannot go beyond the bid; the approach can. Now: "Next, we're bringing the same approach to what follows the order, through delivery and all the way to cash." Standing.
