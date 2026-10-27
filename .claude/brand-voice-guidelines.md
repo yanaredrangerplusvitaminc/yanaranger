@@ -49,6 +49,19 @@ We are not: North American startup excitement, hype, lifestyle tone, salesy, beg
 - Form: sentence case; no em dashes, emoji, rule of three, "not X but Y", slogan endings, superlatives.
 - Terms: "Techno-Commercial AI" (working term), "inquiry to cash". Never "revenue engine", "seamless", "unlock", "game-changing".
 
+## Positioning: use Sari's own words first
+
+Before writing any line about what Ranger does, reuse these. Do not paraphrase into weaker generic phrases ("bringing AI into…", "AI-powered workflows").
+
+- "Ranger combines industrial expertise and AI to connect the technical and commercial work behind complex industrial projects." (Sari, Slack, 19 Oct: the one-liner for profiles and bios)
+- "from inquiry all the way to cash" (Sari's edit, 2 Oct); "Remittance is a very boring word" (Positioning call, 1 Oct)
+- "accountable for the value it delivers" (Sari's edit, 7 Oct); "thats on us i put on purpose" (21 Oct)
+- "helping industrial teams put AI to work across complex engineering and commercial workflows" (Sari's WETEX edit, 23 Oct)
+- "We work with leading EPCs, NOCs and OEMs across the GCC, Europe and North America" (Sari's approved register line)
+- Intro deck (Ranger Intro Lean, 4 pages, 21 Oct): "Your partner for techno-commercial AI." "Ranger connects the work, accelerates decisions and aggregates the value." "One partner, accountable for platform, process and results." "Begin with one workflow. Extend the connected capability as value is proven." "Each bid and project informs the next." Stages: Capture, Engineer, Bid, Deliver.
+- "I'm not starting with building a knowledge base, I'm starting with giving you agentic value." (Sari, 15 Oct)
+- Internal only, never public: "not an AI company, the way Nike is not a shoe company"; "bankable AI value"; "effectively the leading techno-commercial platform for pumps".
+
 ## Two personalities
 
 | | Sari (personal) | Ranger (company) |
