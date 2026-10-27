@@ -27,6 +27,9 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Ranger, OTC Houston (draft, post today, Tue 27 Oct)
 
+- **Yana:** "Why does the first version not have the word AI at all?" → Every Ranger post names AI; Sari's first test is "a positive, promising AI leader". Standing.
+- **Change (Elements of Style lane):** "That is where Ranger leads, combining industrial expertise and AI to join the technical and commercial sides of a project, from inquiry all the way to cash, for clients around the world."
+
 - **Yana:** "Some trips stay with you… doesn't it show us as a startup or small business?" then review in order: positioning, Sari's direction, rules, flow, goals; "Do the changes." → Institutional opener ("Each May, offshore and energy meet at OTC in Houston. This year, Kyle Jordan and Sari Saadi were there for Ranger."), the long sentence split, and a reason for now ("Five months on, those conversations still shape our work."). Pre-ADIPEC gained the frame line ("That is Ranger's work: connecting the technical and commercial sides of energy projects, from inquiry all the way to cash."); teaser split and framed ("Four days of techno-commercial conversations…"). Standing: no lifestyle openers.
 
 - **Yana:** "Every offer starts with that equipment: its specs set the price. This is weak… it lost the Ranger positioning. Don't forget, we give Ranger's frame." → Every Ranger post carries the positioning frame (techno-commercial: where engineering becomes an offer; industrial expertise and AI; inquiry to cash). A scene or insight must land on that frame, not on a generic observation. Standing.

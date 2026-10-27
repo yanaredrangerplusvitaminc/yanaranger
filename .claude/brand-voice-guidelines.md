@@ -151,6 +151,7 @@ Before writing any line about what Ranger does, reuse these. Do not paraphrase i
 ## Checklist
 
 - Recognisably Sari or recognisably Ranger?
+- Does every Ranger post name AI? (Sari's first test: a positive, promising AI leader.) (Yana, 27 Oct)
 - Could another AI vendor paste its name in? Rewrite if yes.
 - Would a 55-year-old CEO read the first line without feeling sold to?
 - Does it make the right people want to speak with us?
