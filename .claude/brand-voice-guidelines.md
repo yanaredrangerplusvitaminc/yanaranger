@@ -129,6 +129,10 @@ A post that runs hook question → answer → aphorism → "That is where Ranger
 
 Five per post, with an oil and gas or energy focus, all in CamelCase. Ranger: event, #OilAndGas, #Energy (or #OffshoreEnergy for OTC), #RangerAI, #RangerInTheField. Sari: #ADIPEC, #OilAndGas, #IndustrialAI, #RangerAI, #RangerInTheField. (Yana, 27 Oct, superseding #ranger_in_the_field)
 
+## Clients in copy
+
+Never call any client our "first customer" or "first design partner" in public copy. Celeros is one client among many. (Yana, 27 Oct)
+
 ## Who we write for
 
 The economic buyer, the C-level. Write in their terms: the bids they win, the margin they keep, what a project earns. Engineers and bid teams are not the reader. Never explain the bid process step by step; the C-level knows it. Name the stakes. (Yana, 27 Oct)

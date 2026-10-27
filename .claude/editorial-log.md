@@ -15,6 +15,12 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 - **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
 
+## 27 Oct 2026, Sari's post: Celeros story, not a third bid argument
+
+- **Yana:** "Did you find the Celeros wins? … three posts repeating the same." → Sari's post moves to the Celeros relationship (award, growth across workflows) instead of repeating the bid argument. Confluence proof: Bradley's quote "In less than 30 days Ranger helped us win a major project" (say out loud ✅, deck CONFIRM); GD "10 hrs to under 1 hr" is a scope target, not ROI; do not publish. Standing: across a week, each post makes a different point.
+- **Yana:** "What does 'I'll be back in Abu Dhabi' mean? This is a pre-ADIPEC post." → "I'm back at ADIPEC in Abu Dhabi next week, and I'm looking forward to reconnecting."
+- **Yana:** "Don't say Celeros was our first customer. Never say this. It's one of many." Standing.
+
 ## 27 Oct 2026, who runs the bids
 
 - **Yana:** "This sounds like the team runs the bids. No, the team brings the AI, the technology." → Clients run their bids on Ranger's AI platform; our team of industry experts brings it into their business. Fixed in OTC A and B and both pre-ADIPEC lanes. Standing.
