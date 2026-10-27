@@ -120,6 +120,11 @@ Before writing any line about what Ranger does, reuse these. Do not paraphrase i
 - "I'm not starting with building a knowledge base, I'm starting with giving you agentic value." (Sari, 15 Oct)
 - Internal only, never public: "not an AI company, the way Nike is not a shoe company"; "bankable AI value"; "effectively the leading techno-commercial platform for pumps".
 
+## Naming and who speaks
+
+- In copy, the company is **"Ranger"**, never "Ranger AI". The LinkedIn page and hashtag stay "Ranger AI" / #RangerAI. (Yana, 27 Oct)
+- Sari is head of commercial and partnerships: he owns relationships, not delivery. On his page, "we" does the work ("At Ranger, we start…"); "I" is for what he personally did, saw or thinks ("I had the pleasure of recognising…"). (Yana, 27 Oct)
+
 ## Two personalities
 
 | | Sari (personal) | Ranger (company) |

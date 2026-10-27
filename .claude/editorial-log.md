@@ -22,6 +22,8 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Ranger, OTC Houston (draft, post today, Tue 27 Oct)
 
+- **Yana:** "Some trips stay with you… doesn't it show us as a startup or small business?" then review in order: positioning, Sari's direction, rules, flow, goals; "Do the changes." → Institutional opener ("Each May, offshore and energy meet at OTC in Houston. This year, Kyle Jordan and Sari Saadi were there for Ranger."), the long sentence split, and a reason for now ("Five months on, those conversations still shape our work."). Pre-ADIPEC gained the frame line ("That is Ranger's work: connecting the technical and commercial sides of energy projects, from inquiry all the way to cash."); teaser split and framed ("Four days of techno-commercial conversations…"). Standing: no lifestyle openers.
+
 - **Yana:** "Every offer starts with that equipment: its specs set the price. This is weak… it lost the Ranger positioning. Don't forget, we give Ranger's frame." → Every Ranger post carries the positioning frame (techno-commercial: where engineering becomes an offer; industrial expertise and AI; inquiry to cash). A scene or insight must land on that frame, not on a generic observation. Standing.
 - **Change (hybrid):** "That meeting point, where engineering becomes an offer, is where Ranger leads. We combine industrial expertise and AI to connect the technical and commercial work behind complex projects, from inquiry all the way to cash, for clients around the world." (Sari's one-liner, 19 Oct.)
 
@@ -59,6 +61,9 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 - **Change:** OTC opening now "Five months ago, at OTC in Houston…" and "With this year's event season under way, we keep returning to what those days confirmed." → Gives the reason a May event is posted now.
 
 ## 27 Oct 2026, Sari, pre-ADIPEC (draft, post Thu 29 Oct)
+
+- **Yana:** "Whenever I say Ranger AI, we say Ranger… Also, 'I don't start there' — what do you mean by I? He's the head of commercial. He handles relationships. He doesn't do the job." → "Ranger" in copy; "we" for the work, "I" for Sari's own actions and views. Standing.
+- **Change:** "We don't start there. At Ranger, we start by giving your team value…"; Celeros line ends "with Ranger."
 
 - **Yana:** "'Many AI programmes begin with this, and I prefer to begin with the work.' This says I'm an AI programmer. He's head of commercial." "This is very AI. We were close to the good one and you reverted it." → Sari speaks as a commercial leader to a client ("your team", "the next bid"), never as someone describing AI programme design. When a version is close, iterate on it; never replace it with a new concept. Standing.
 - **Change:** restored the version built on Sari's own line ("At Ranger AI, I'm not starting with building a knowledge base. I'm starting with giving your team value in the work it is doing today: the next inquiry, the next bid."), kept the CEO line as proof, dropped the synthetic "In industry, that matters" line.
