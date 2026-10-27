@@ -27,6 +27,8 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Ranger, OTC Houston (draft, post today, Tue 27 Oct)
 
+- **Yana:** "Not industrial expertise and AI, but Ranger leads AI implementations… We have an AI platform and a team of experts. But just don't say this verbatim." → Express platform + experts without either phrase: "Ranger leads AI in industry. Our own technology and people who know the work…". Applied to both OTC versions. Standing.
+
 - **Yana:** "Why does the first version not have the word AI at all?" → Every Ranger post names AI; Sari's first test is "a positive, promising AI leader". Standing.
 - **Change (Elements of Style lane):** "That is where Ranger leads, combining industrial expertise and AI to join the technical and commercial sides of a project, from inquiry all the way to cash, for clients around the world."
 

@@ -112,7 +112,7 @@ No conditional calls to action ("If that is a conversation for your team…": of
 
 Before writing any line about what Ranger does, reuse these. Do not paraphrase into weaker generic phrases ("bringing AI into…", "AI-powered workflows").
 
-- "Ranger combines industrial expertise and AI to connect the technical and commercial work behind complex industrial projects." (Sari, Slack, 19 Oct: the one-liner for profiles and bios)
+- "Ranger combines industrial expertise and AI to connect the technical and commercial work behind complex industrial projects." (Sari, Slack, 19 Oct: the one-liner for profiles and bios.) In posts, do not use "industrial expertise and AI" verbatim. Say what it means: Ranger leads AI in industry with its own technology (the AI platform) and people who know the work (the expert team), e.g. "Our own technology and people who know the work…". Never "platform and team of experts" verbatim. (Yana, 27 Oct)
 - "from inquiry all the way to cash" (Sari's edit, 2 Oct); "Remittance is a very boring word" (Positioning call, 1 Oct)
 - Value first: use the intro deck's "Value scoped and measured against your business goals." Do not write "accountable for the value it delivers" in public copy: it reads as AI and sounds like a complaints line. (Yana, 27 Oct, overriding the wording of Sari's 7 Oct edit, keeping its intent)
 - "helping industrial teams put AI to work across complex engineering and commercial workflows" (Sari's WETEX edit, 23 Oct)
