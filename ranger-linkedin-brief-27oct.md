@@ -6,7 +6,7 @@ Current as of 27 Oct 2026. Owner: Yana Rova. Supersedes the 27 Oct brief export.
 
 - Ranger (Ranger RFX, Inc.) builds AI for industrial companies' techno-commercial work. Clients use Ranger today for inquiry to order (technical and commercial bidding). No client runs the full inquiry-to-cash cycle yet; order to remittance is the roadmap. Say inquiry to cash only as what Ranger is built for.
 - Audience: C-level economic buyers at energy equipment manufacturers, EPCs and energy companies. Not engineers.
-- Footprint in copy: North America, Europe and the Gulf. Ranger must not look EMEA-only.
+- Footprint in copy: North America, Europe and the GCC. Ranger must not look EMEA-only.
 - Titles in posts: Kyle Jordan, commercial head for North America; Sari Saadi, commercial head for EMEA. Never "Co-Founder" in post copy. Kyle named first on OTC.
 - How we describe Ranger: Ranger's AI platform (or AI technology) and our team of industry experts, side by side. Never "supported by". Never "Ranger's AI" alone as if it were an LLM.
 - Layers: Elements of Style is the frame. Sari's direction is the top layer. Ranger's intro deck is the wording. ChatGPT drafts are the base when Yana brings them; correct only rule breaks.
@@ -32,7 +32,7 @@ Five months ago, our commercial heads for North America and EMEA, Kyle Jordan an
 
 For energy equipment manufacturers and EPCs, turning a technical specification into a priced offer is a commercial decision. The speed and accuracy of that work affect the contracts they win and the margin they keep.
 
-Our clients across North America, Europe and the Gulf use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids. Ranger is built to extend that capability across the wider process, from inquiry all the way to cash.
+Our clients across North America, Europe and the GCC use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids. Ranger is built to extend that capability across the wider process, from inquiry all the way to cash.
 
 Thank you to everyone who made time for us in Houston, and to our hosts:
 
@@ -46,7 +46,7 @@ OTC brings the offshore energy industry to Houston each May. Five months ago, ou
 
 The equipment they manufacture begins with engineering. Winning the work around it means translating demanding technical requirements into offers that make commercial sense.
 
-Energy equipment manufacturers across North America, Europe and the Gulf bring Ranger's AI platform and people who know the industry into that work. We're building on that foundation to connect more of what happens between an inquiry and the final payment.
+Energy equipment manufacturers across North America, Europe and the GCC bring Ranger's AI platform and people who know the industry into that work. We're building on that foundation to connect more of what happens between an inquiry and the final payment.
 
 Thank you to everyone who welcomed us in Houston:
 
@@ -249,7 +249,7 @@ Reference brand: Adobe. Serious software, easy to approach. "We're easy guys, bu
 Write as the editor of a premium brand would: protect the image, the perception and the style in every line. Fewer words, each one deliberate.
 
 - A past event needs a reason to be posted now, given in the first lines (a look back, what it confirmed, why it matters today).
-- Regional posts lead with their region. The footprint line (North America, Europe and the Gulf) may close the Ranger line on any post. (Yana, 27 Oct, superseding the earlier "stay in the region" rule)
+- Regional posts lead with their region. The footprint line (North America, Europe and the GCC) may close the Ranger line on any post. (Yana, 27 Oct, superseding the earlier "stay in the region" rule)
 
 We are not: North American startup excitement, hype, lifestyle tone, salesy, begging, clickbait, AI-sounding.
 
@@ -263,14 +263,14 @@ We are not: North American startup excitement, hype, lifestyle tone, salesy, beg
 
 ### Footprint
 
-In post copy, name the regions: "North America, Europe and the Gulf". Never "around the world" as filler. (Yana, 27 Oct, latest) Intro deck for reference: United States, Canada, Europe, GCC, East Asia.
+In post copy, name the regions: "North America, Europe and the GCC". Never "around the world" as filler. (Yana, 27 Oct, latest) Intro deck for reference: United States, Canada, Europe, GCC, East Asia.
 
 ### No formula skeleton (what makes copy read as AI)
 
 A post that runs hook question → answer → aphorism → "That is where Ranger…" → logistics reads as generated, however good the words. (Yana, 27 Oct)
 - Write it the way a person tells what happened and why it matters: one thought leads into the next, sentence lengths vary, the point arrives inside the story.
 - Banned moves: rhetorical-question openers; colon reveals ("…sums up our work:"); stand-alone aphorisms; self-announcements ("That is where Ranger leads", "It is where Ranger…"); balanced, assembled sentences built by patching.
-- Ranger enters through the client ("Our clients across North America, Europe and the Gulf use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids"), not by declaring itself.
+- Ranger enters through the client ("Our clients across North America, Europe and the GCC use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids"), not by declaring itself.
 - A frame phrase ("from inquiry to cash", "technical and commercial") appears at most once a week across posts.
 - When feedback comes, rewrite the paragraph; do not bolt on a clause.
 

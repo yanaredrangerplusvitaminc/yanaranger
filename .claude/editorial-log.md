@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, regions wording
+
+- **Yana:** "'North America, Europe and the Gulf', I'm not sure this is the most correct way to say this; that was my verbatim." → "North America, Europe and the GCC" (Sari's approved term; "the Gulf" reads as the Gulf of Mexico to a Houston audience). Standing; supersedes "the Gulf".
+
 ## 27 Oct 2026, Sari's post from ChatGPT, 0B, hashtags
 
 - **ChatGPT (via Yana):** v1 doc gained section 0B (Sari's vision and boundaries) and new Sari pre-ADIPEC options A and B with no CEO reference. → Page, Posts doc and skill synced. v1 leftovers marked superseded (Microsoft, Spain time, "message us here").
