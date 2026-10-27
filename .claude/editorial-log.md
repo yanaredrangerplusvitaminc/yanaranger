@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, event posts: clients, partners, prospects
+
+- **Yana:** the ADIPEC line reads as if we only meet existing clients; "not only the existing clients, but also the partners, the potential partners, and we need to flag that we are happy to connect." → Event posts name clients and partners, open the door to new companies, and say plainly that we'd be glad to connect (soft, not "message us"). Standing.
+
 ## 27 Oct 2026, lane B made distinct again
 
 - **Yana:** "Did we preserve the difference between Elements of Style and the enterprise brand composite? It feels like the same thing." → Lane B had converged on lane A. Lane B now speaks to the reader ("we", "you"), mixes short lines with longer ones, uses contractions and one moment of life; same facts and rules. Lane A stays third person, complete sentences, emphatic endings. OTC, pre-ADIPEC and Sari lane B rewritten; teaser pair already distinct. Standing.

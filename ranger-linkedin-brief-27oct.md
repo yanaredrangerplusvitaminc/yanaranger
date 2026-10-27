@@ -82,7 +82,7 @@ A technical requirement gets reviewed. A price gets committed. Those calls decid
 
 Our clients put Ranger's AI technology and our team of industry experts to work right there, with the value measured against their business goals.
 
-Next week, our EMEA team is in Abu Dhabi, meeting the equipment manufacturers, EPCs and energy companies who do this work every day.
+Next week, our EMEA team is in Abu Dhabi, meeting our clients and partners, and getting to know more of the equipment manufacturers, EPCs and energy companies who do this work every day. We'd be glad to connect.
 
 2–5 November, ADIPEC.
 
