@@ -1,13 +1,17 @@
-# Ranger LinkedIn: week of 26 Oct 2026, full brief for drafting
+# Ranger LinkedIn posts and editorial policy, week of 26 Oct 2026
+
+Current as of 27 Oct 2026. Owner: Yana Rova. Supersedes the 27 Oct brief export. Live page with images: https://claude.ai/artifact/VDCqBKHz4abRLHLUyBYgAH
+
 ## Context
 
-- Author: Yana Rova, Enterprise Marketing & Growth Lead, Ranger (Ranger RFX, Inc., rangerx.ai). Manages LinkedIn and PR for the Ranger company page and for Sari Saadi (Co-Founder, Head of EMEA; commercial and relationship lead).
-- Ranger: AI for industrial companies' techno-commercial work: inquiry to order (ITO, live with clients), order to remittance (OTR, roadmap; no client runs the full cycle yet).
-- Audience: the economic buyer, C-level at energy equipment manufacturers (OEMs), EPCs and energy companies. Not engineers.
-- Footprint: North America, Europe, GCC, Asia. Posts must not make Ranger look EMEA-only.
-- Layers: Elements of Style is the frame. Sari's direction is the top layer. Ranger's intro deck is the wording. Yana's structure is the foundation.
-- Times: always Pacific and Gulf. Weekdays only.
-- Live page with images: https://claude.ai/artifact/VDCqBKHz4abRLHLUyBYgAH
+- Ranger (Ranger RFX, Inc.) builds AI for industrial companies' techno-commercial work. Clients use Ranger today for inquiry to order (technical and commercial bidding). No client runs the full inquiry-to-cash cycle yet; order to remittance is the roadmap. Say inquiry to cash only as what Ranger is built for.
+- Audience: C-level economic buyers at energy equipment manufacturers, EPCs and energy companies. Not engineers.
+- Footprint in copy: North America, Europe and the Gulf. Ranger must not look EMEA-only.
+- Titles in posts: Kyle Jordan, commercial head for North America; Sari Saadi, commercial head for EMEA. Never "Co-Founder" in post copy. Kyle named first on OTC.
+- How we describe Ranger: Ranger's AI platform (or AI technology) and our team of industry experts, side by side. Never "supported by". Never "Ranger's AI" alone as if it were an LLM.
+- Layers: Elements of Style is the frame. Sari's direction is the top layer. Ranger's intro deck is the wording. ChatGPT drafts are the base when Yana brings them; correct only rule breaks.
+- Two lanes, both kept separate: A · Elements of Style + Sari's direction (includes Write-Cut). B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction. Microsoft dropped.
+- Times: Pacific and Gulf only. Weekdays only.
 
 ## Schedule
 
@@ -22,112 +26,100 @@
 
 Today, Tue 27 Oct · 07:00 Pacific / 18:00 Gulf
 
-**Elements of Style + Sari's direction (recommended)**
+**A · Elements of Style + Sari's direction (recommended)**
 
-```
-Five months ago, Kyle Jordan and Sari Saadi were in Houston for OTC, where the offshore energy industry meets each May. The show was full. The best hours were at our clients' own sites.
+Five months ago, our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, were in Houston for OTC. Beyond the exhibition, they spent time with clients whose equipment goes into complex energy projects.
 
-How fast and how well a company turns a technical spec into a price decides which bids it wins and what each project earns. Energy manufacturers around the world trust that work to our AI platform and to a team that knows their industry from the inside. It's also where a longer path begins, one we're built to carry from the first inquiry to the final payment.
+For energy equipment manufacturers and EPCs, turning a technical specification into a priced offer is a commercial decision. The speed and accuracy of that work affect the contracts they win and the margin they keep.
 
-Thank you to everyone who made time for us in Houston, and to our hosts: [@Company 1], [@Company 2], [@Company 3]
+Our clients across North America, Europe and the Gulf use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids. Ranger is built to extend that capability across the wider process, from inquiry all the way to cash.
 
-#OTC #RangerAI #RangerInTheField
-```
+Thank you to everyone who made time for us in Houston, and to our hosts:
 
-**Hybrid tech-giant (with Slack) + Sari's direction**
-
-```
-Each May, offshore and energy meet at OTC in Houston. Five months ago, Kyle Jordan and Sari Saadi were there for Ranger.
-
-They met leaders across the sector, then spent time with our clients there, beside the equipment they engineer and bid.
-
-That meeting point, where engineering becomes an offer, is where Ranger leads AI in industry. Our own technology and people who know the work connect the technical and commercial sides of complex projects, for clients around the world, with an approach that can run from inquiry all the way to cash.
-
-Those conversations still shape our work. Thank you to everyone who gave us their time, and to our hosts in Houston: [@Company 1], [@Company 2], [@Company 3]
+[@Company 1], [@Company 2], [@Company 3]
 
 #OTC #RangerAI #RangerInTheField
-```
-- Image: Slide 1: Kyle Jordan and Sari Saadi in front of the Offshore Technology Conference logo, OTC 2026 badges
-- Image: Slide 2: Kyle Jordan and Sari Saadi with a client team beside a pump cutaway in Houston
+
+**B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
+
+OTC brings the offshore energy industry to Houston each May. Five months ago, our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, represented Ranger there, meeting industry leaders and visiting clients beyond the exhibition floor.
+
+The equipment they manufacture begins with engineering. Winning the work around it means translating demanding technical requirements into offers that make commercial sense.
+
+Energy equipment manufacturers across North America, Europe and the Gulf bring Ranger's AI platform and people who know the industry into that work. We're building on that foundation to connect more of what happens between an inquiry and the final payment.
+
+Thank you to everyone who welcomed us in Houston:
+
+[@Company 1], [@Company 2], [@Company 3]
+
+#OTC #RangerAI #RangerInTheField
+
 - Note: The thank-you line is optional: keep it if Sari or Kyle send companies to tag, cut it if not. Confirm with Sari: the client visit was on the OTC trip.
-- Note: 1 of 2
-- Note: 2 of 2 · client visit, Houston
 
 ### Ranger page · pre-ADIPEC
 
 Wed 28 Oct · 09:00 Gulf / Tue 27 Oct 22:00 Pacific
 
-**Elements of Style + Sari's direction (recommended)**
+**A · Elements of Style + Sari's direction (recommended)**
 
-```
-Next week at ADIPEC, industrial companies will see a great deal of AI. Most of them can already buy it.
+Next week at ADIPEC, industrial companies will see plenty of AI. Access to the technology is no longer the hardest part.
 
-The harder question is where it pays back. For our clients, it starts with the bid, because how fast and how well an inquiry becomes a priced offer decides the work they win and the margin they keep. Leading EPCs, NOCs and OEMs across North America, Europe, the GCC and Asia put Ranger to work right there, our AI platform and a team that knows the industry, with value scoped and measured against their business goals. Each bid and project informs the next. The sector's leaders are already working this way.
+For energy equipment manufacturers and EPCs, the return begins where a technical inquiry becomes a priced offer. How well that work is done affects which projects they win and the margin they can protect.
 
-Our EMEA team will be in Abu Dhabi from 2 to 5 November. We'd be glad to show you what it looks like inside our clients' bids.
+Our clients put AI to work at that stage, with technology built for industrial bids and people who know the industry. The value is scoped against their business goals from the start.
 
-#ADIPEC #RangerAI #RangerInTheField
-```
-
-**Hybrid tech-giant (with Slack) + Sari's direction**
-
-```
-Where is AI paying off in energy projects?
-
-Every industrial company can now buy capable AI. Across pump manufacturers and energy companies in North America, Europe, the GCC and Asia, we see where the return comes from. It comes when industrial experts and the technology work as one team, toward a result agreed at the start. The leaders in this industry have already made that shift.
-
-That is Ranger's work: connecting the technical and commercial sides of energy projects, with an approach that can run from inquiry all the way to cash.
-
-Next week, our EMEA team is at ADIPEC in Abu Dhabi, 2 to 5 November, to share what we see.
+Our EMEA team will be at ADIPEC in Abu Dhabi from 2 to 5 November, sharing what we're learning from that work across the energy sector.
 
 #ADIPEC #RangerAI #RangerInTheField
-```
+
+**B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
+
+An energy project starts taking shape commercially long before a contract is signed. Technical requirements are reviewed and a price is committed, and those decisions shape what the company wins and what the project earns.
+
+Our clients already put Ranger's AI technology to work at that point. Our technology and people who understand industrial bids work together, with the value measured against the client's business goals.
+
+Next week at ADIPEC, our EMEA team will be in Abu Dhabi, meeting the equipment manufacturers, EPCs and energy companies doing this work around the world.
+
+2–5 November, ADIPEC.
+
+#ADIPEC #RangerAI #RangerInTheField
 
 **First comment**
 
-```
 ADIPEC, 2 to 5 November, ADNEC Centre, Abu Dhabi.
-```
-- Image: Ranger and ADIPEC logos over an oil and gas refinery: Meet the Ranger team at ADIPEC, 2 to 5 November, ADNEC Centre, Abu Dhabi
+
 - Note: The ADIPEC logo is redrawn; swap in the official file before posting.
 
 ### Sari's profile · pre-ADIPEC
 
 Thu 29 Oct · 09:00 Gulf / Wed 28 Oct 22:00 Pacific
 
-**Elements of Style + Sari's direction (recommended)**
+**A · Elements of Style + Sari's direction (recommended)**
 
-```
-Next week at ADIPEC, many AI conversations will open with the same promise: share your documents, and in a few months you will have a knowledge base.
+Next week at ADIPEC, many AI conversations will start with the same promise: share your documents, and in a few months you will have a knowledge base.
 
-We don't start there at Ranger. We start with value in the work your team is doing today, the next inquiry and the next bid. The knowledge base grows out of that work, and that's where the deeper transformation begins. A CEO I spoke with recently called it the right way to do it.
+For a leadership team, that means months of groundwork before the business sees a return. At Ranger, we start with value in the work your team is doing today, the next inquiry and the next bid. The knowledge base grows out of that work, and that is where the deeper transformation begins.
+
+A CEO I spoke with recently, who had been concerned about exactly that, called it the right way to do it.
 
 A year ago at ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger. I look forward to seeing them, and many of you, again next week.
 
 #IndustrialAI #ADIPEC #RangerAI #ranger_in_the_field
-```
 
-**Hybrid tech-giant (with Slack) + Sari's direction**
+**B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
 
-```
-Next week at ADIPEC, many AI conversations will start with the same promise: share your documents, and in a few months you will have a knowledge base.
+Walk the halls at ADIPEC next week and you'll hear one AI promise again and again: give us your documents, and in a few months you'll have a knowledge base.
 
-We don't start there. At Ranger, we start with value in the work your team is doing today: the next inquiry, the next bid. The knowledge base grows from that work, and that is where the deeper transformation begins.
+For a CEO, that's months of cost before the business sees a return. A CEO I spoke with recently was concerned about exactly that. I explained that we start somewhere else at Ranger, with value in the work their team is doing today, the next inquiry and the next bid. The knowledge base grows from there. They called it the right way to do it.
 
-A CEO I spoke with recently called it the right way to do it.
-
-A year ago at ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger.
+A year ago at ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger. I look forward to seeing them, and many of you, again next week.
 
 #IndustrialAI #ADIPEC #RangerAI #ranger_in_the_field
-```
 
 **First comment**
 
-```
 Heading to ADIPEC next week. Anybody going, I'll be there as well and I'd love to chat.
-```
-- Image: Option A: Sari Saadi presenting the Ranger Implementation Excellence Award to Anna Sklodowska of Celeros Flow Technology at ADIPEC 2025
-- Image: Option B: the ADIPEC exhibition hall under the 'Unlocking artificial intelligence' ring
+
 - Note: A · award with Celeros, ADIPEC 2025 (recommended)
 - Note: B · ADIPEC hall
 - Note: A shows a past win with a client, which is what a pre-event post on Sari's page needs. B sets the scene for the post's first line. The Celeros line in the copy works with both.
@@ -136,33 +128,30 @@ Heading to ADIPEC next week. Anybody going, I'll be there as well and I'd love t
 
 Thu 29 Oct · 09:00 Gulf / Wed 28 Oct 22:00 Pacific
 
-**Elements of Style + Sari's direction (recommended)**
+**A · Elements of Style + Sari's direction (recommended)**
 
-```
-ADIPEC opens in Abu Dhabi on Monday, and it's one of our favourite weeks of the year. Our EMEA team will be there until the 5th, meeting the leaders behind the world's energy projects, from EPCs to national oil companies.
+ADIPEC opens in Abu Dhabi on Monday.
 
-Each of those projects starts as an inquiry and ends as cash. Our AI platform, and the team that knows the industry, are built for the path in between.
+From 2 to 5 November, Ranger's EMEA team will meet the companies that supply and deliver complex energy projects.
 
-#ADIPEC #RangerAI #RangerInTheField
-```
-
-**Hybrid tech-giant (with Slack) + Sari's direction**
-
-```
-One of our favourite weeks of the year starts on Monday: ADIPEC.
-
-Our EMEA team is in Abu Dhabi from 2 to 5 November. Four days of techno-commercial conversations with the teams who win and deliver the world's energy projects, from EPCs to national oil companies.
-
-Every one of those projects begins as an inquiry and ends as cash. Ranger is built for the path in between.
+Our AI platform and people who know the industry are built for the work connecting technical decisions with commercial outcomes, from the first inquiry onward.
 
 #ADIPEC #RangerAI #RangerInTheField
-```
+
+**B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
+
+One of our favourite weeks of the year is almost here.
+
+ADIPEC brings together the people behind some of the world's most demanding energy projects. Our EMEA team will be in Abu Dhabi from 2 to 5 November, continuing conversations with clients and meeting industry leaders who are putting AI to work.
+
+See you at ADIPEC.
+
+#ADIPEC #RangerAI #RangerInTheField
 
 **First comment**
 
-```
 ADIPEC, 2 to 5 November, ADNEC Centre, Abu Dhabi.
-```
+
 - Note: Teaser animation, in production.
 
 ## Open before posting
@@ -172,15 +161,13 @@ ADIPEC, 2 to 5 November, ADNEC Centre, Abu Dhabi.
 - Official ADIPEC logo file for the Wed card (the version on the card is redrawn from the logo Yana shared in chat).
 - Teaser animation ready by Wed 28 Oct.
 
----
-
-## Editorial guidelines (the skill)
+## Editorial guidelines
 
 ## Ranger editorial system: brand voice guidelines
 
 ### First principle: "Пиши, сокращай" (Write, Cut)
 
-The book by Maxim Ilyakhov and Lyudmila Sarycheva is the bible of everything we write, together with the American classic behind it, Strunk and White, "The Elements of Style" ("Omit needless words… every word tell"). Full rules with examples: `.claude/write-cut.md`. Read it before every edit. (Yana, 27 Oct)
+The book by Maxim Ilyakhov and Lyudmila Sarycheva is the bible of everything we write, together with the American classic behind it, Strunk and White, "The Elements of Style" ("Omit needless words… every word tell"). Full rules with examples: the Write, Cut section below. Read it before every edit. (Yana, 27 Oct)
 
 - **Every sentence must mean something.** If a line could be deleted and the reader would lose nothing, delete it. "Comparing notes", "we look forward to…", "exciting times", "in today's fast-moving world" mean nothing. We never publish things that mean nothing.
 - **Facts over evaluations.** Replace adjectives and claims ("leading", "innovative", "great") with the fact that would make the reader conclude it themselves.
@@ -215,7 +202,7 @@ Write, Cut is a strong guide, not an absolute rule.
 
 Version 1.1, 27 Oct 2026. Owner: Yana Rova. Approver: Sari Saadi.
 Full document with sources: "Ranger editorial system v1 (Ranger and Sari)", Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
-Every comment from Yana or Sari is logged in `.claude/editorial-log.md`. Read the log before drafting; it overrides this file when they differ.
+Every comment from Yana or Sari is logged in the editorial log below. Read the log before drafting; it overrides this file when they differ.
 
 ### Review before showing any draft (three passes)
 
@@ -231,7 +218,7 @@ Every comment from Yana or Sari is logged in `.claude/editorial-log.md`. Read th
 
 ### How to use
 
-1. Read this file and the latest entries in `editorial-log.md`.
+1. Read this file and the latest entries in the editorial log.
 2. Decide the page: Sari (personal) or Ranger (company). Never write a post that could belong to both.
 3. Copy first, two versions that differ in substance. Creative only after the copy is agreed.
 4. Run the checklist. Show Sari one decision, not a menu.
@@ -262,7 +249,7 @@ Reference brand: Adobe. Serious software, easy to approach. "We're easy guys, bu
 Write as the editor of a premium brand would: protect the image, the perception and the style in every line. Fewer words, each one deliberate.
 
 - A past event needs a reason to be posted now, given in the first lines (a look back, what it confirmed, why it matters today).
-- Regional posts stay in their region: a North America post does not mention the Gulf, and the reverse.
+- Regional posts lead with their region. The footprint line (North America, Europe and the Gulf) may close the Ranger line on any post. (Yana, 27 Oct, superseding the earlier "stay in the region" rule)
 
 We are not: North American startup excitement, hype, lifestyle tone, salesy, begging, clickbait, AI-sounding.
 
@@ -276,16 +263,24 @@ We are not: North American startup excitement, hype, lifestyle tone, salesy, beg
 
 ### Footprint
 
-Ranger works in North America, Europe, the GCC and Asia (intro deck: United States, Canada, Europe, GCC, East Asia). Never shrink it to one or two regions. (Yana, 27 Oct)
+In post copy, name the regions: "North America, Europe and the Gulf". Never "around the world" as filler. (Yana, 27 Oct, latest) Intro deck for reference: United States, Canada, Europe, GCC, East Asia.
 
 ### No formula skeleton (what makes copy read as AI)
 
 A post that runs hook question → answer → aphorism → "That is where Ranger…" → logistics reads as generated, however good the words. (Yana, 27 Oct)
 - Write it the way a person tells what happened and why it matters: one thought leads into the next, sentence lengths vary, the point arrives inside the story.
 - Banned moves: rhetorical-question openers; colon reveals ("…sums up our work:"); stand-alone aphorisms; self-announcements ("That is where Ranger leads", "It is where Ranger…"); balanced, assembled sentences built by patching.
-- Ranger enters through the client ("Our clients trust Ranger's AI, and the people behind it, with exactly that work"), not by declaring itself.
+- Ranger enters through the client ("Our clients across North America, Europe and the Gulf use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids"), not by declaring itself.
 - A frame phrase ("from inquiry to cash", "technical and commercial") appears at most once a week across posts.
 - When feedback comes, rewrite the paragraph; do not bolt on a clause.
+
+### How we name Ranger, its people and the lanes (latest, 27 Oct)
+
+- **Platform and team, side by side:** "Ranger's AI platform" (or "Ranger's AI technology") and "our team of industry experts" / "people who know the industry". Never "supported by". Never "Ranger's AI" alone as if Ranger had its own LLM. (Yana, 27 Oct)
+- **Titles:** Kyle Jordan, commercial head for North America; Sari Saadi, commercial head for EMEA ("our commercial heads for North America and EMEA"). Never "Co-Founder" in post copy. Kyle first on OTC. (Yana, 27 Oct)
+- **Two lanes, kept separate, both publishable.** Names: "A · Elements of Style + Sari's direction" and "B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction". Lane A includes Write-Cut. Microsoft dropped. (Yana, 27 Oct)
+- **ChatGPT drafts:** when Yana brings one, it is the base. Keep its wording; correct only what breaks these rules. (Yana, 27 Oct)
+- **Frame, direction, wording:** Elements of Style is the frame; Sari's direction is the top layer; the intro deck is the wording. (Yana, 27 Oct)
 
 ### Who we write for
 
@@ -361,8 +356,6 @@ Before writing any line about what Ranger does, reuse these. Do not paraphrase i
 - Times are always given in Pacific and Gulf. Never Spain time. (Yana, 27 Oct)
 - Default for Gulf audiences: 09:00 Gulf. For North America: early morning US (06:00 Pacific = 17:00 Gulf while the US is on daylight time).
 
-
----
 
 ## Write, Cut: editing rules
 
@@ -469,13 +462,11 @@ Tells, and what we do instead:
 A single tell is not proof; several together are. The fix is not swapping words, it is a clear point of view and real specifics.
 
 
----
-
-## Voice experiment: composite brand voice
+## Lane B: enterprise-brand composite
 
 ## Voice experiment: a composite of seven brands
 
-Status: experiment, 27 Oct 2026. Not approved. Yana asked for a combination of Adobe, Claude, ChatGPT, Apple, Salesforce, SAP and Slack editorial voices (Slack added after Sari named it, 27 Oct), to test as a model for Ranger.
+Status: experiment, 27 Oct 2026. Not approved. Current lane B composite: Adobe, SAP, Salesforce, Apple and Slack (Microsoft dropped by Yana, 27 Oct). Claude and ChatGPT remain observed references only. Yana asked for a combination of Adobe, Claude, ChatGPT, Apple, Salesforce, SAP and Slack editorial voices (Slack added after Sari named it, 27 Oct), to test as a model for Ranger.
 
 ### What each brand says about its own voice
 
@@ -521,19 +512,50 @@ Leave:
 Notes on the test: short opening line (Apple), one concrete fact as proof (Adobe focused), plain explanation of why it matters (SAP approachable expert), no adjectives doing the work (Salesforce honest), warm close without a pitch (Claude).
 
 
----
-
-## Editorial log: every comment from Yana and Sari, newest first
+## Editorial log, newest first
 
 ## Editorial log: every comment, every change
 
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+### 27 Oct 2026, lane names
+
+- **Yana:** "A · Elements of Style + Sari's direction / B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction. NAMES FOR LANES." → These are the official lane names everywhere. Standing.
+- **Change:** page labels renamed; guidelines brought in line with the latest decisions (regions, naming, titles, lanes, ChatGPT base).
+
+### 27 Oct 2026, platform and team side by side
+
+- **Yana:** wrote OTC A paragraph 3 ("Our clients around the world use Ranger's AI platform… to manage the technical and commercial work behind their bids. Ranger is built to extend that capability across the wider process, from inquiry all the way to cash."), then: "we need to make sure it's side by side." → The AI platform and the team always stand as equals: "with our team", never "supported by". Standing.
+- **Change:** "supported by our team of industry experts" → "with our team of industry experts". Other posts checked: no "supported by" left.
+
+### 27 Oct 2026, Microsoft dropped
+
+- **Yana:** "Remove Microsoft, drop it." → Lane B is Adobe, SAP, Salesforce, Apple and Slack. Microsoft is not part of the composite. Standing; supersedes the two Microsoft notes below.
+
+### 27 Oct 2026, teaser from ChatGPT draft
+
+- **Yana:** sent ChatGPT's teaser, lanes A and B. → Kept its wording; fixes: "Our AI technology" → "Our AI platform"; "engineer, supply and deliver" → "supply and deliver" (rule of three); "will be meeting" → "will meet". Lane B unchanged.
+- **Status:** OTC, pre-ADIPEC and teaser now on ChatGPT's text with rule fixes. Sari's post still on the earlier version; waiting for its ChatGPT draft.
+
+### 27 Oct 2026, ChatGPT drafts as the base
+
+- **Yana:** "You can correct for the rules, but keep [ChatGPT's wording]; ChatGPT is generally better." → When Yana brings a ChatGPT draft, keep its wording and correct only rule breaks (titles, "Ranger's AI platform", EPCs, rule of three, "This year", vague "process"). Standing.
+- **Change:** OTC and pre-ADIPEC, lanes A and B, now ChatGPT's text with minimal rule fixes. Lanes renamed: A · Elements of Style + Write-Cut + Sari; B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Microsoft, Slack) + Sari. Microsoft now in lane B (resolves the open question).
+
+### 27 Oct 2026, all posts rebuilt in the ChatGPT-draft style
+
+- **Yana:** "The other posts, can you write them the same way, using the ChatGPT style as an example?" → Model: event grounding, then the business lens for an executive ("For X, …"), then Ranger's AI platform and people who know the industry, then an honest next step. Both lanes on pre-ADIPEC, Sari and teaser rewritten. Standing as the reference style.
+
+### 27 Oct 2026, titles in posts
+
+- **Yana:** "If we mention title, we say head of North America and head of EMEA commercial, or commercial head. We don't say co-founder." → Kyle Jordan: commercial head, North America. Sari Saadi: commercial head, EMEA. Never "Co-Founder" in post copy. Standing.
+- **Change:** OTC, both lanes: "our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi". Lanes rebuilt earlier today from Yana's ChatGPT draft (manufacturers and EPCs; NOCs left out because they issue tenders rather than price offers).
+
 ### 27 Oct 2026, open questions still with Yana
 
 - **Card headline (pre-ADIPEC image):** Yana asked whether "Meet the Ranger team at ADIPEC", "Meet for intro at ADIPEC" or "Meet for intro EMEA team at ADIPEC" is best. Recommendation: keep "Meet the Ranger team at ADIPEC"; "intro" reads as a sales ask; "EMEA team" makes Ranger look regional (Sari: not EMEA-only). Alternative: "Meet the Ranger EMEA team at ADIPEC." Awaiting decision.
-- **Microsoft in the hybrid lane:** Yana's reply to Sari names Adobe, SAP, Salesforce, Microsoft and Apple. The voice experiment has no Microsoft entry. Open.
+- **Microsoft in the hybrid lane:** resolved, dropped (see "Microsoft dropped").
 - **OTC "The show was full.":** recommended cut. Awaiting go.
 - **Hybrid versions:** still carry old skeleton lines ("That is Ranger's work:", question opener). Not reworked in the last passes.
 
@@ -577,7 +599,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ### 27 Oct 2026, the AI-writing problem
 
-- **Yana:** "The style is so much AI now… I gave you so many rules and it's still obvious AI writing." "It doesn't need to be plain… premium, engaging, you should feel the character… still following all the rules of PR, writing, and Sari's direction." "The structure, each paragraph structured like the sequence, is AI. It's fabricated. It's not natural." "'That is where Ranger, blah' — so AI-ish." "Your version is better now when you removed this synthetic." → No formula skeleton; Ranger enters through the client; rewrite instead of patching. Standing, added to the guidelines.
+- **Yana:** "The style is so much AI now… I gave you so many rules and it's still obvious AI writing." "It doesn't need to be plain… premium, engaging, you should feel the character… still following all the rules of PR, writing, and Sari's direction." "The structure, each paragraph structured like the sequence, is AI. It's fabricated. It's not natural." "'That is where Ranger, blah' ,  so AI-ish." "Your version is better now when you removed this synthetic." → No formula skeleton; Ranger enters through the client; rewrite instead of patching. Standing, added to the guidelines.
 - **Change:** all four posts rewritten as natural prose in the first slot ("Natural version (recommended)"); the hybrid stays as the second slot for comparison.
 
 ### 27 Oct 2026, PR layer for both lanes
@@ -652,7 +674,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ### 27 Oct 2026, Sari, pre-ADIPEC (draft, post Thu 29 Oct)
 
-- **Yana:** "Whenever I say Ranger AI, we say Ranger… Also, 'I don't start there' — what do you mean by I? He's the head of commercial. He handles relationships. He doesn't do the job." → "Ranger" in copy; "we" for the work, "I" for Sari's own actions and views. Standing.
+- **Yana:** "Whenever I say Ranger AI, we say Ranger… Also, 'I don't start there' ,  what do you mean by I? He's the head of commercial. He handles relationships. He doesn't do the job." → "Ranger" in copy; "we" for the work, "I" for Sari's own actions and views. Standing.
 - **Change:** "We don't start there. At Ranger, we start by giving your team value…"; Celeros line ends "with Ranger."
 
 - **Yana:** "'Many AI programmes begin with this, and I prefer to begin with the work.' This says I'm an AI programmer. He's head of commercial." "This is very AI. We were close to the good one and you reverted it." → Sari speaks as a commercial leader to a client ("your team", "the next bid"), never as someone describing AI programme design. When a version is close, iterate on it; never replace it with a new concept. Standing.
@@ -705,3 +727,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 See section 8 of the editorial system Google Doc: Ai Everything (2, 5, 7, 12 Oct), Start with the function (16 Oct), Vancouver live edit in Granola (19 Oct), Frontier Summit (20 Oct), WETEX live edit in Slack (23 Oct).
 
+
+## Earlier system
+
+The earlier editorial system v1, including section 0A added on 27 Oct, is in its own doc: Ranger editorial system v1 (Ranger and Sari), https://docs.google.com/document/d/1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM/edit . Where it differs from this document, this document wins.

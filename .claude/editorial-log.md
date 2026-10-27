@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, lane names
+
+- **Yana:** "A · Elements of Style + Sari's direction / B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction. NAMES FOR LANES." → These are the official lane names everywhere. Standing.
+- **Change:** page labels renamed; guidelines brought in line with the latest decisions (regions, naming, titles, lanes, ChatGPT base).
+
 ## 27 Oct 2026, platform and team side by side
 
 - **Yana:** wrote OTC A paragraph 3 ("Our clients around the world use Ranger's AI platform… to manage the technical and commercial work behind their bids. Ranger is built to extend that capability across the wider process, from inquiry all the way to cash."), then: "we need to make sure it's side by side." → The AI platform and the team always stand as equals: "with our team", never "supported by". Standing.
@@ -34,7 +39,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 ## 27 Oct 2026, open questions still with Yana
 
 - **Card headline (pre-ADIPEC image):** Yana asked whether "Meet the Ranger team at ADIPEC", "Meet for intro at ADIPEC" or "Meet for intro EMEA team at ADIPEC" is best. Recommendation: keep "Meet the Ranger team at ADIPEC"; "intro" reads as a sales ask; "EMEA team" makes Ranger look regional (Sari: not EMEA-only). Alternative: "Meet the Ranger EMEA team at ADIPEC." Awaiting decision.
-- **Microsoft in the hybrid lane:** Yana's reply to Sari names Adobe, SAP, Salesforce, Microsoft and Apple. The voice experiment has no Microsoft entry. Open.
+- **Microsoft in the hybrid lane:** resolved, dropped (see "Microsoft dropped").
 - **OTC "The show was full.":** recommended cut. Awaiting go.
 - **Hybrid versions:** still carry old skeleton lines ("That is Ranger's work:", question opener). Not reworked in the last passes.
 

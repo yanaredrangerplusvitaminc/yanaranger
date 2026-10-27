@@ -1,6 +1,6 @@
 # Voice experiment: a composite of seven brands
 
-Status: experiment, 27 Oct 2026. Not approved. Yana asked for a combination of Adobe, Claude, ChatGPT, Apple, Salesforce, SAP and Slack editorial voices (Slack added after Sari named it, 27 Oct), to test as a model for Ranger.
+Status: experiment, 27 Oct 2026. Not approved. Current lane B composite: Adobe, SAP, Salesforce, Apple and Slack (Microsoft dropped by Yana, 27 Oct). Claude and ChatGPT remain observed references only. Yana asked for a combination of Adobe, Claude, ChatGPT, Apple, Salesforce, SAP and Slack editorial voices (Slack added after Sari named it, 27 Oct), to test as a model for Ranger.
 
 ## What each brand says about its own voice
 

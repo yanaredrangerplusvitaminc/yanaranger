@@ -84,7 +84,7 @@ Reference brand: Adobe. Serious software, easy to approach. "We're easy guys, bu
 Write as the editor of a premium brand would: protect the image, the perception and the style in every line. Fewer words, each one deliberate.
 
 - A past event needs a reason to be posted now, given in the first lines (a look back, what it confirmed, why it matters today).
-- Regional posts stay in their region: a North America post does not mention the Gulf, and the reverse.
+- Regional posts lead with their region. The footprint line (North America, Europe and the Gulf) may close the Ranger line on any post. (Yana, 27 Oct, superseding the earlier "stay in the region" rule)
 
 We are not: North American startup excitement, hype, lifestyle tone, salesy, begging, clickbait, AI-sounding.
 
@@ -98,16 +98,24 @@ We are not: North American startup excitement, hype, lifestyle tone, salesy, beg
 
 ## Footprint
 
-Ranger works in North America, Europe, the GCC and Asia (intro deck: United States, Canada, Europe, GCC, East Asia). Never shrink it to one or two regions. (Yana, 27 Oct)
+In post copy, name the regions: "North America, Europe and the Gulf". Never "around the world" as filler. (Yana, 27 Oct, latest) Intro deck for reference: United States, Canada, Europe, GCC, East Asia.
 
 ## No formula skeleton (what makes copy read as AI)
 
 A post that runs hook question → answer → aphorism → "That is where Ranger…" → logistics reads as generated, however good the words. (Yana, 27 Oct)
 - Write it the way a person tells what happened and why it matters: one thought leads into the next, sentence lengths vary, the point arrives inside the story.
 - Banned moves: rhetorical-question openers; colon reveals ("…sums up our work:"); stand-alone aphorisms; self-announcements ("That is where Ranger leads", "It is where Ranger…"); balanced, assembled sentences built by patching.
-- Ranger enters through the client ("Our clients trust Ranger's AI, and the people behind it, with exactly that work"), not by declaring itself.
+- Ranger enters through the client ("Our clients across North America, Europe and the Gulf use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids"), not by declaring itself.
 - A frame phrase ("from inquiry to cash", "technical and commercial") appears at most once a week across posts.
 - When feedback comes, rewrite the paragraph; do not bolt on a clause.
+
+## How we name Ranger, its people and the lanes (latest, 27 Oct)
+
+- **Platform and team, side by side:** "Ranger's AI platform" (or "Ranger's AI technology") and "our team of industry experts" / "people who know the industry". Never "supported by". Never "Ranger's AI" alone as if Ranger had its own LLM. (Yana, 27 Oct)
+- **Titles:** Kyle Jordan, commercial head for North America; Sari Saadi, commercial head for EMEA ("our commercial heads for North America and EMEA"). Never "Co-Founder" in post copy. Kyle first on OTC. (Yana, 27 Oct)
+- **Two lanes, kept separate, both publishable.** Names: "A · Elements of Style + Sari's direction" and "B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction". Lane A includes Write-Cut. Microsoft dropped. (Yana, 27 Oct)
+- **ChatGPT drafts:** when Yana brings one, it is the base. Keep its wording; correct only what breaks these rules. (Yana, 27 Oct)
+- **Frame, direction, wording:** Elements of Style is the frame; Sari's direction is the top layer; the intro deck is the wording. (Yana, 27 Oct)
 
 ## Who we write for
 
