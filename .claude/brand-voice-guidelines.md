@@ -2,7 +2,7 @@
 
 ## First principle: "Пиши, сокращай" (Write, Cut)
 
-The book by Maxim Ilyakhov and Lyudmila Sarycheva is the bible of everything we write. (Yana, 27 Oct)
+The book by Maxim Ilyakhov and Lyudmila Sarycheva is the bible of everything we write, together with the American classic behind it, Strunk and White, "The Elements of Style" ("Omit needless words… every word tell"). Full rules with examples: `.claude/write-cut.md`. Read it before every edit. (Yana, 27 Oct)
 
 - **Every sentence must mean something.** If a line could be deleted and the reader would lose nothing, delete it. "Comparing notes", "we look forward to…", "exciting times", "in today's fast-moving world" mean nothing. We never publish things that mean nothing.
 - **Facts over evaluations.** Replace adjectives and claims ("leading", "innovative", "great") with the fact that would make the reader conclude it themselves.
