@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, "leading manufacturers" refined, not replaced
+
+- **Yana:** "Leading manufacturers around the world" is a cliché; then, after it was replaced with a list: "Now it's terrible… it just needed to be more precise to the ICP." → When a line is flagged, sharpen it toward the ICP; do not swap the idea for a different one. Standing.
+- **Change:** OTC now reads "Leading energy equipment manufacturers around the world trust that work to Ranger…"
+
 ## 27 Oct 2026, audience is the economic buyer
 
 - **Yana:** "We don't target engineers. We target economic buyers. We target the C-level." → Write for the C-level: wins, margin, what a project earns. Roles on the bid desk are not the subject. Standing.
