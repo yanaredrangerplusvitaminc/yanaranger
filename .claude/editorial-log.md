@@ -17,7 +17,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, how our experts work with clients
 
-- **Yana:** "Our industry experts work with their teams to bring the technology into the organization in the most efficient, value-centric way. Just don't use these words." → "Our industry experts work alongside their teams to put it where it brings value first, with results measured against their business goals." Pre-ADIPEC A and B. Standing: the experts work alongside client teams; say "where it brings value first" rather than "efficient" or "value-centric".
+- **Yana:** "Our industry experts work with their teams to bring the technology into the organization in the most efficient, value-centric way. Just don't use these words." → "Our industry experts work alongside their teams to put it where it delivers value first, with results measured against their business goals." Pre-ADIPEC A and B. Standing: the experts work alongside client teams; say "where it delivers value first" rather than "efficient" or "value-centric".
 
 ## 27 Oct 2026, Sari's post: Celeros story, not a third bid argument
 
