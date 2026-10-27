@@ -5,7 +5,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, regions wording
 
-- **Yana:** "'North America, Europe and the Gulf', I'm not sure this is the most correct way to say this; that was my verbatim." → "North America, Europe and the GCC" (Sari's approved term; "the Gulf" reads as the Gulf of Mexico to a Houston audience). Standing; supersedes "the Gulf".
+- **Yana:** "'North America, Europe and the Gulf', I'm not sure this is the most correct way to say this; that was my verbatim." → Proposed "the GCC"; Yana chose "the Middle East". Copy reads "North America, Europe and the Middle East" ("the Gulf" reads as the Gulf of Mexico to a Houston audience). Standing; supersedes "the Gulf".
 
 ## 27 Oct 2026, Sari's post from ChatGPT, 0B, hashtags
 
