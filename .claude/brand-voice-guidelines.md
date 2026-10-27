@@ -131,7 +131,7 @@ Five per post, with an oil and gas or energy focus, all in CamelCase. Ranger: ev
 
 ## Clients in copy
 
-Never call any client our "first customer" or "first design partner" in public copy. Celeros is one client among many. (Yana, 27 Oct)
+Never call any client our "first customer" or "first design partner" in public copy. Celeros is one client among many. No growth-stage language either ("from one workflow into several", "they keep raising the bar for us"): describe client work at its established scope, as an enterprise vendor would. (Yana, 27 Oct)
 
 ## Who we write for
 
