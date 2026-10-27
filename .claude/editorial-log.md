@@ -15,6 +15,13 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 - **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
 
+## 27 Oct 2026, decisions recorded in editorial system v2
+
+- **Decision (v2 doc, 27 Oct):** category term in public copy is "Techno-Commercial AI". #IndustrialAI is dropped as the main tag, usable as a secondary tag in some cases. Standing.
+- **Decision:** the Ranger page tags the companies we met, as on WETEX. Standing.
+- **Doc edits seen:** section 9 marked "OK"; the approvals question was removed; the Ranger hashtag in section 8 now reads #Ranger_In_The_Field (open: confirm against the CamelCase rule).
+- **Yana:** "expand on the lanes methodology"; "make sure all my comments are considered, all the angles I gave." → v2 section 5 expanded (why two lanes, what stays the same, what changes, how to write each lane with sources and examples, how each version is checked, how choices are recorded); sections 1, 4, 6, 7 and 8 extended with every standing angle from this log.
+
 ## 27 Oct 2026, editorial system v2 for handoff
 
 - **Yana:** "Make sure the editorial doc is structured well so I can hand it off to Sari." → New Google Doc "Ranger editorial system v2 (Ranger and Sari)", 1DESCZ8g6uvEYsOMszc1KJXc8-MpLJ61gBL--1WWLf3k, ten short sections (how it works, goals and tests, audience, what we say about Ranger, two lanes, writing rules, two personalities, format, feedback, decisions). v1 marked superseded at the top and kept as the archive.
