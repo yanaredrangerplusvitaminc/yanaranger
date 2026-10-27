@@ -5,6 +5,9 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Ranger, OTC Houston (draft, post today, Tue 27 Oct)
 
+- **Yana:** "add a little bit of character, a touch of warmth, authenticity, because it is now very blank." → Add one true, concrete human detail from the moment (here: standing at a cutaway of a client's pumps with their team) and thank the hosts by place. Never invent details. Standing.
+- **Change:** true opening ("Five months on"), the bridge "That is where our work sits, with clients around the world", thanks "to our hosts in Houston", call to action removed.
+
 - **Yana:** "If we want to mention that we met [clients] on the shop floor, let's use their image as second in the carousel." → When the copy references a client moment, the photo of it follows as slide 2. Copy and image must match: "spent time on the shop floor" became "visited clients", because the photo is their office with the pump cutaway. Standing.
 
 - **Sari, Slack DM 10:16 CET:** "setup a post about OTC in Houston, using a picture of Kyle and I. And tagging companies Kyle and I spoke to." "Remember so Ranger brand doesn't get too much EMEA only." "US based movement is good for our customers." "two posts before the teaser animation." → Ranger page must balance North America and Gulf. Standing.
