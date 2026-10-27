@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, platform and team side by side
+
+- **Yana:** wrote OTC A paragraph 3 ("Our clients around the world use Ranger's AI platform… to manage the technical and commercial work behind their bids. Ranger is built to extend that capability across the wider process, from inquiry all the way to cash."), then: "we need to make sure it's side by side." → The AI platform and the team always stand as equals: "with our team", never "supported by". Standing.
+- **Change:** "supported by our team of industry experts" → "with our team of industry experts". Other posts checked: no "supported by" left.
+
 ## 27 Oct 2026, Microsoft dropped
 
 - **Yana:** "Remove Microsoft, drop it." → Lane B is Adobe, SAP, Salesforce, Apple and Slack. Microsoft is not part of the composite. Standing; supersedes the two Microsoft notes below.
