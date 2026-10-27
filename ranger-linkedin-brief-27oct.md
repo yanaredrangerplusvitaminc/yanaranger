@@ -28,7 +28,7 @@ Today, Tue 27 Oct · 07:00 Pacific / 18:00 Gulf
 
 **A · Elements of Style + Sari's direction**
 
-Five months ago, our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, were in Houston for OTC. Beyond the exhibition, they spent time with clients whose equipment goes into complex energy projects.
+Five months ago, our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, were in Houston for OTC. Some of the best hours of the week happened away from the show floor, at our clients' own sites.
 
 For energy equipment manufacturers and EPCs, turning a technical specification into a priced offer is a commercial decision. The speed and accuracy of that work affect the contracts they win and the margin they keep.
 
@@ -64,13 +64,13 @@ Wed 28 Oct · 09:00 Gulf / Tue 27 Oct 22:00 Pacific
 
 **A · Elements of Style + Sari's direction**
 
-Next week at ADIPEC, industrial companies will see plenty of AI. Access to the technology is no longer the hardest part.
+Next week, ADIPEC will be full of AI. Access to the technology is no longer the hard part. Turning it into results is.
 
-For energy equipment manufacturers and EPCs, the return begins where a technical inquiry becomes a priced offer. How well that work is done affects which projects they win and the margin they can protect.
+For energy equipment manufacturers and EPCs, that happens where a technical inquiry becomes a priced offer. Get it right and you win more of the projects you want, at the margin you need.
 
-Our clients put AI to work at that stage, with technology built for industrial bids and people who know the industry. The value is scoped against their business goals from the start.
+Our clients put Ranger's AI platform and our team of industry experts to work at exactly that stage, with value scoped against their business goals from day one.
 
-Our EMEA team will be at ADIPEC in Abu Dhabi from 2 to 5 November, sharing what we're learning from that work across the energy sector.
+Our EMEA team will be at ADIPEC in Abu Dhabi from 2 to 5 November, meeting clients, partners and new faces across the energy sector. We'd be glad to connect.
 
 #ADIPEC #OilAndGas #Energy #RangerAI #RangerInTheField
 
@@ -132,11 +132,11 @@ Thu 29 Oct · 09:00 Gulf / Wed 28 Oct 22:00 Pacific
 
 **A · Elements of Style + Sari's direction**
 
-ADIPEC opens in Abu Dhabi on Monday.
+ADIPEC opens in Abu Dhabi on Monday, and our EMEA team is ready.
 
-From 2 to 5 November, Ranger's EMEA team will meet the companies that supply and deliver complex energy projects.
+Four days with the companies that supply and deliver the world's most complex energy projects, and the people behind their bids.
 
-Together, our AI platform and our team are designed for the work connecting technical decisions with commercial outcomes, from the first inquiry onward.
+Together, our AI platform and our team help them turn technical requirements into winning offers, from the first inquiry onward.
 
 #ADIPEC #OilAndGas #Energy #RangerAI #RangerInTheField
 

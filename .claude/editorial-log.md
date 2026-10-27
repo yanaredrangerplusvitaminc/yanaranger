@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, posts too phlegmatic
+
+- **Yana:** "The posts right now, it's so phlegmatic." → Lane A drifted to 100% calm; Sari asked for 30% modern innovator. Energy from stakes ("Turning it into results is"; "win more of the projects you want, at the margin you need"), momentum ("our EMEA team is ready") and warmth ("new faces", "We'd be glad to connect"); no adjectives, hype or exclamation marks. OTC A opener, pre-ADIPEC A and teaser A rewritten. Standing.
+
 ## 27 Oct 2026, event posts: clients, partners, prospects
 
 - **Yana:** the ADIPEC line reads as if we only meet existing clients; "not only the existing clients, but also the partners, the potential partners, and we need to flag that we are happy to connect." → Event posts name clients and partners, open the door to new companies, and say plainly that we'd be glad to connect (soft, not "message us"). Standing.
