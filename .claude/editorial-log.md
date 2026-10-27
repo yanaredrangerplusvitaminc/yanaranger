@@ -3,6 +3,14 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, artifact comments on OTC and pre-ADIPEC
+
+- **Yana:** "Ranger's AI, what is it? Do we have our LLM? We have platform, and we have the team… don't say it verbatim." → "the AI platform we built for this work and a team that knows the industry from the inside". Standing.
+- **Yana:** the hybrid OTC opener "would read nice if that event happened last week" → time anchor up front ("Five months ago"). Standing for reflection posts.
+- **Yana:** "This boss is machine written… research how to make copywriting not sound AI." → research added to write-cut.md Part 4; OTC rewrite proposed, awaiting go.
+- **Yana:** pre-ADIPEC opener "very heavy as one paragraph". → split.
+- **Yana:** "Elements of Style is the frame. Sari is the direction. Ranger's official intro deck is the wording." → pre-ADIPEC rebuilt from intro deck lines. Standing: the three layers are frame, direction, wording.
+
 ## 27 Oct 2026, OTC first version too heavy
 
 - **Yana:** "Not natural version… We still stick to the Elements of Style plus Sari's direction. You just don't make the syntax skeleton. Synthetic." "It is now heavy to read. The two paragraphs, especially the first one." → The first slot is Elements of Style + Sari's direction, without the formula skeleton; "natural" is not a separate version. Long sentences are split; one idea per sentence. Standing.
