@@ -27,6 +27,9 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Ranger, OTC Houston (draft, post today, Tue 27 Oct)
 
+- **Yana:** "'we are still building on what Kyle and Sari saw there' sounds like we still couldn't build anything." → Never use "still" phrasing that implies unfinished work or slow progress. Standing.
+- **Change:** "Five months after OTC in Houston, one moment from that week still sums up our work: Kyle Jordan and Sari Saadi beside the equipment our clients engineer and bid."
+
 - **Yana:** "Not industrial expertise and AI, but Ranger leads AI implementations… We have an AI platform and a team of experts. But just don't say this verbatim." → Express platform + experts without either phrase: "Ranger leads AI in industry. Our own technology and people who know the work…". Applied to both OTC versions. Standing.
 
 - **Yana:** "Why does the first version not have the word AI at all?" → Every Ranger post names AI; Sari's first test is "a positive, promising AI leader". Standing.
