@@ -3,6 +3,15 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, review of all four posts (Yana's method)
+
+- **Yana:** evaluate every post (1) by status, vision and LinkedIn/PR goals; (2) by importance of what we say and whether it maps to Sari, not synthetic; (3) by Write-Cut; if Write-Cut removes something, circle back to (1) and (2). → This three-pass review runs before every draft is shown. Standing.
+- **Changes from the review:**
+  - OTC: "Some of the most useful hours… Every spec and every price…" was my evaluation and my insight (synthetic). Now Sari's one-liner in plain form: "Our clients there engineer the equipment and then bid it. Ranger connects those two sides of the work, from inquiry all the way to cash, for clients around the world."
+  - Pre-ADIPEC: "actually" cut (stop word).
+  - Sari: "put it simply: that is the right order" became "called it the right way to do it", the CEO's words as Sari reported them (15 Oct).
+  - Teaser: list of three (EPCs, OEMs and NOCs) became "from EPCs to national oil companies"; "will be meeting" became "are meeting".
+
 ## 27 Oct 2026, Ranger, OTC Houston (draft, post today, Tue 27 Oct)
 
 - **Yana:** "One visit took us right up to a cutaway of the pumps… what's the point of this? I told you make it attractive as professional copy, give it character, give it depth… we were standing next to a pump. Really?" → A detail earns its place only if it carries meaning for the reader. Character comes from insight (why the moment matters to our work), not from scenery. Standing.
