@@ -3,6 +3,13 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, open questions still with Yana
+
+- **Card headline (pre-ADIPEC image):** Yana asked whether "Meet the Ranger team at ADIPEC", "Meet for intro at ADIPEC" or "Meet for intro EMEA team at ADIPEC" is best. Recommendation: keep "Meet the Ranger team at ADIPEC"; "intro" reads as a sales ask; "EMEA team" makes Ranger look regional (Sari: not EMEA-only). Alternative: "Meet the Ranger EMEA team at ADIPEC." Awaiting decision.
+- **Microsoft in the hybrid lane:** Yana's reply to Sari names Adobe, SAP, Salesforce, Microsoft and Apple. The voice experiment has no Microsoft entry. Open.
+- **OTC "The show was full.":** recommended cut. Awaiting go.
+- **Hybrid versions:** still carry old skeleton lines ("That is Ranger's work:", question opener). Not reworked in the last passes.
+
 ## 27 Oct 2026, "leading manufacturers" refined, not replaced
 
 - **Yana:** "Leading manufacturers around the world" is a cliché; then, after it was replaced with a list: "Now it's terrible… it just needed to be more precise to the ICP." → When a line is flagged, sharpen it toward the ICP; do not swap the idea for a different one. Standing.
