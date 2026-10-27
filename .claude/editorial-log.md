@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, platform and team as one
+
+- **Yana:** "Make sure this is a hybrid of the platform and the team… it's a combination. It's not just technology and people that deliver value." → OTC A: "use Ranger's AI platform and our team of industry experts, working as one, to run…". Standing.
+
 ## 27 Oct 2026, OTC B flow
 
 - **Yana:** OTC B "feels like a complete…" (fragments). → Paragraphs joined so the post reads as one story; no repeated subject; "Today, we work on the bid" instead of "Today, that's the bid"; footprint as "So do our clients across Europe and the Middle East." Standing: short lines must still connect.

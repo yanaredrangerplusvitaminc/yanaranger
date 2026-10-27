@@ -32,7 +32,7 @@ Five months ago, our commercial heads for North America and EMEA, Kyle Jordan an
 
 For energy equipment manufacturers and EPCs, turning a technical specification into a priced offer is a commercial decision. The speed and accuracy of that work affect the contracts they win and the margin they keep.
 
-Our clients across North America, Europe and the Middle East use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids. Our approach is built to carry that work beyond the bid, through delivery and all the way to cash.
+Our clients across North America, Europe and the Middle East use Ranger's AI platform and our team of industry experts, working as one, to run the technical and commercial work behind their bids. Our approach is built to carry that work beyond the bid, through delivery and all the way to cash.
 
 Thank you to everyone who made time for us in Houston, and to our hosts:
 
