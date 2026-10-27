@@ -13,6 +13,8 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 - **Yana:** the photo filter "is too much… their faces look like zombies." → Grade the background only, keep skin natural. Standing.
 - **Yana:** "we want engaging, the right energy, but mature… not North American startup excitement." → Energy from verbs and specifics. Standing.
 - **Yana:** "We want to be seen as the innovation team… visionaries… who brings AI to your whole organization… experts you can trust with your AI implementation. Classy, very high level, elite, premium. Warm, elegant, simple, just as powerful people speak." → Register for the Ranger page. Standing.
+- **Yana:** "Bringing AI into one team is a start… is the work we do with our clients. This is very weak." Show that we help companies change the full process from inquiry to cash, starting small, then expanding; use the latest intro deck wording; "keep it toned down… classy… serious. Serious is never loud." → Describe the approach in the intro deck's own words ("Begin with one workflow. Extend… as value is proven", "Each bid and project informs the next", "inquiry to cash"). Standing: public copy reuses the approved intro-deck language.
+- **Change:** "Our clients begin with one workflow and extend as the value is proven, until the work from inquiry to cash is connected and each bid and project informs the next."
 - **Yana:** "In this post, don't mention Abu Dhabi or GCC at all." → Regional posts stay in their region. Situational.
 - **Yana:** "We're easy guys, but we're serious in what we do. We feel like Adobe." → Serious software brand that is easy to approach. Standing.
 - **Yana:** thank-you line with tags is optional, cut if Sari does not want it. Situational.
