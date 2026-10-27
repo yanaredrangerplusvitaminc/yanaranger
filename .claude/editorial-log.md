@@ -18,6 +18,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 ## 27 Oct 2026, OTC tags (Sari, Slack DM)
 
 - **Sari:** "the excel sheet from otc has a lot, and you can include pumpworks (keep them inside the tags, not sticking out in beging and end)"; "choose like 5 european and 5 us with top followers… or, just put all… whatever works better you think"; "show me once you choose". → Tags from Kyle's OTC contacts sheet, picked by company size (follower counts not in the sheet). US: Oil States, Kobelco Compressors America, Bauer Compressors, Generon, Boerger. Europe: NETZSCH, BMT, Eureka Pumps, Cathodic Protection Co, Resato. PumpWorks sits sixth of eleven. Standing: a tagged client sits inside the list, never first or last. OTC A line "and to our hosts" dropped, as most tagged companies did not host us. Awaiting Sari's OK.
+- **Sari (Slack, 15:18):** "add the research institute cuz they have big scientific posture and could land us a whale by luck… similar to nasa style" → @Southwest Research Institute added, second in the list. Standing: tag institutions with scientific standing when we met them, even outside the ICP.
 
 ## 27 Oct 2026, Sari's comments on OTC A (posts doc)
 
