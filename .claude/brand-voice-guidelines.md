@@ -84,7 +84,7 @@ Reference brand: Adobe. Serious software, easy to approach. "We're easy guys, bu
 Write as the editor of a premium brand would: protect the image, the perception and the style in every line. Fewer words, each one deliberate.
 
 - A past event needs a reason to be posted now, given in the first lines (a look back, what it confirmed, why it matters today).
-- Regional posts lead with their region. The footprint line (North America, Europe and the Middle East) may close the Ranger line on any post. (Yana, 27 Oct, superseding the earlier "stay in the region" rule)
+- Regional posts lead with their region. The footprint line (North America, Europe, the GCC and Asia) may close the Ranger line on any post. (Yana, 27 Oct, superseding the earlier "stay in the region" rule)
 
 We are not: North American startup excitement, hype, lifestyle tone, salesy, begging, clickbait, AI-sounding.
 
@@ -98,14 +98,14 @@ We are not: North American startup excitement, hype, lifestyle tone, salesy, beg
 
 ## Footprint
 
-In post copy, name the regions: "North America, Europe and the Middle East". Never "around the world" as filler, and never "the Gulf": a US reader takes it as the Gulf of Mexico. Use "the Middle East" in post copy. (Yana, 27 Oct, latest) Intro deck for reference: United States, Canada, Europe, GCC, East Asia.
+In post copy, name the regions: "North America, Europe, the GCC and Asia". Never "around the world" as filler, and never "the Gulf": a US reader takes it as the Gulf of Mexico. Sari, 27 Oct: "do not use Middle East"; use "the GCC and Asia". Intro deck for reference: United States, Canada, Europe, GCC, East Asia.
 
 ## No formula skeleton (what makes copy read as AI)
 
 A post that runs hook question → answer → aphorism → "That is where Ranger…" → logistics reads as generated, however good the words. (Yana, 27 Oct)
 - Write it the way a person tells what happened and why it matters: one thought leads into the next, sentence lengths vary, the point arrives inside the story.
 - Banned moves: rhetorical-question openers; colon reveals ("…sums up our work:"); stand-alone aphorisms; self-announcements ("That is where Ranger leads", "It is where Ranger…"); balanced, assembled sentences built by patching.
-- Ranger enters through the client ("Our clients across North America, Europe and the Middle East use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids"), not by declaring itself.
+- Ranger enters through the client ("Our clients across North America, Europe, the GCC and Asia use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids"), not by declaring itself.
 - A frame phrase ("from inquiry to cash", "technical and commercial") appears at most once a week across posts.
 - When feedback comes, rewrite the paragraph; do not bolt on a clause.
 

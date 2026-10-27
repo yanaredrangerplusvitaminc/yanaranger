@@ -15,6 +15,11 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 - **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
 
+## 27 Oct 2026, Sari's first comment on the posts doc
+
+- **Sari (doc comment):** "do not use middle east. 'GCC, and Asia.'" → Regions read "North America, Europe, the GCC and Asia" everywhere; supersedes "the Middle East". Standing.
+- **Sari (Slack):** "the voice of ranger is schitzo" → read as the A/B lanes making Ranger sound like two voices; reply proposed asking him to pick one voice for the Ranger page.
+
 ## 27 Oct 2026, decisions recorded in editorial system v2
 
 - **Decision (v2 doc, 27 Oct):** category term in public copy is "Techno-Commercial AI". #IndustrialAI is dropped as the main tag, usable as a secondary tag in some cases. Standing.
