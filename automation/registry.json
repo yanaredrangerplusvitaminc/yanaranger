@@ -150,7 +150,8 @@
       ],
       "state": "Self-bound to session_0142cbVsXSBt7PfLcgcibua2 (has every connector and this repo)",
       "prompt_file": "automation/prompts/watchdog.md",
-      "note": "Replaces the Slack-draft digest. May pause a routine that sends or drafts in Slack, or fails 3 runs in a row; never edits prompts. Runs daily; weekends check Scout only."
+      "note": "Replaces the Slack-draft digest. May pause a routine that sends or drafts in Slack, or fails 3 runs in a row; never edits prompts. Runs daily; weekends check Scout only.",
+      "prompt_is_pointer": true
     },
     {
       "key": "outreach",

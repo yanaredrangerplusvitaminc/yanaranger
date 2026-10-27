@@ -175,6 +175,8 @@ def audit(registry: dict, triggers: list[dict], now: datetime, prompts_dir: Path
         if not t:
             continue
         base = prompts_dir / f"{r['key']}.md"
+        if r.get("prompt_is_pointer"):
+            continue  # the routine's prompt only points at the file; the file is the instructions
         if not base.exists():
             findings.append((INFO, r["key"], "no baseline prompt stored yet (run with --baseline)"))
         elif sha(base.read_text()) != sha(prompt_of(t)):
