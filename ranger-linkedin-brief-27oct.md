@@ -42,13 +42,11 @@ Thank you to everyone who made time for us in Houston, and to our hosts:
 
 **B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
 
-Five months ago, OTC brought our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, to Houston.
+Five months ago, OTC brought our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, to Houston. The best hours that week were with our clients, at their own sites.
 
-The best hours that week were with our clients, at their own sites.
+They build equipment for some of the most demanding energy projects, and they bid for that work with Ranger's AI platform and our team of industry experts, side by side. So do our clients across Europe and the Middle East.
 
-They build equipment for some of the most demanding energy projects. Our clients across North America, Europe and the Middle East bid for that work with Ranger's AI platform and our team of industry experts, side by side.
-
-Today, that's the bid. We're building toward everything after it, all the way to cash.
+Today, we work on the bid. We're building toward everything after it, all the way to cash.
 
 Thanks to everyone who welcomed us in Houston:
 

@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, OTC B flow
+
+- **Yana:** OTC B "feels like a complete…" (fragments). → Paragraphs joined so the post reads as one story; no repeated subject; "Today, we work on the bid" instead of "Today, that's the bid"; footprint as "So do our clients across Europe and the Middle East." Standing: short lines must still connect.
+
 ## 27 Oct 2026, don't explain the process to C-level
 
 - **Yana:** "No need to chew this process. We're talking to C-level. They know what it looks like. We're not educating them in that granular detail." → Name the stakes, never walk the reader through bid steps. OTC B and pre-ADIPEC B trimmed. Standing.
