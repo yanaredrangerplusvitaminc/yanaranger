@@ -43,7 +43,8 @@ Every comment from Yana or Sari is logged in `.claude/editorial-log.md`. Read th
 
 1. **Status, vision, goals.** Does each paragraph serve Sari's goals for this post and page? Use his three questions: Ranger as a positive, promising AI leader; something insightful learned; Ranger at the forefront with the best clients.
 2. **Source.** Map every claim and idea to Sari (Slack, Granola, his edits), the intro deck, or a confirmed fact. Anything we invented is marked synthetic and either replaced with his words or cut.
-3. **Write-Cut.** Remove what means nothing. If a cut removes something a goal needs, go back to passes 1 and 2 and find the sourced way to say it.
+3. **PR four.** Every post has: an angle (why this is news now), a quotable line (one sentence worth repeating), proof (a client, result or moment), and the Ranger frame (what Ranger does, in Sari's words). (Yana, 27 Oct)
+4. **Write-Cut.** Remove what means nothing. If a cut removes something a goal needs, go back to passes 1 and 2 and find the sourced way to say it.
 
 ## Layers
 

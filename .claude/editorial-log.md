@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, PR layer for both lanes
+
+- **Yana:** "Are you sure Elements of Style and Sari's direction also give a PR version? We need marketing, we need PR." → The PR four (angle, quotable line, proof, frame) became a standing review pass for both lanes. Standing.
+- **Changes:** OTC (Elements of Style lane) gained the angle "Five months after OTC in Houston, we are still building on what Kyle Jordan and Sari Saadi saw there"; pre-ADIPEC (Elements of Style lane) gained the frame line and a split sentence; both teasers gained a quotable frame line: "Every one of those projects begins as an inquiry and ends as cash. We work on everything in between."
+
 ## 27 Oct 2026, Sari on the editorial rules (Slack, 11:31)
 
 - **Sari:** stop words, "be careful for this as an absolute rule… for posts aimed at user groups, yes, while posts aimed at general and top level, I can foresee vague statements that support a perception of us." → Audience decides: concrete for user groups; perception-building statements allowed for top-level posts. Standing.
