@@ -26,7 +26,7 @@ Current as of 27 Oct 2026. Owner: Yana Rova. Supersedes the 27 Oct brief export.
 
 Today, Tue 27 Oct · 07:00 Pacific / 18:00 Gulf
 
-**A · Elements of Style + Sari's direction (recommended)**
+**A · Elements of Style + Sari's direction**
 
 Five months ago, our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, were in Houston for OTC. Beyond the exhibition, they spent time with clients whose equipment goes into complex energy projects.
 
@@ -60,7 +60,7 @@ Thank you to everyone who welcomed us in Houston:
 
 Wed 28 Oct · 09:00 Gulf / Tue 27 Oct 22:00 Pacific
 
-**A · Elements of Style + Sari's direction (recommended)**
+**A · Elements of Style + Sari's direction**
 
 Next week at ADIPEC, industrial companies will see plenty of AI. Access to the technology is no longer the hardest part.
 
@@ -94,7 +94,7 @@ ADIPEC, 2 to 5 November, ADNEC Centre, Abu Dhabi.
 
 Thu 29 Oct · 09:00 Gulf / Wed 28 Oct 22:00 Pacific
 
-**A · Elements of Style + Sari's direction (recommended)**
+**A · Elements of Style + Sari's direction**
 
 Next week at ADIPEC, many AI conversations will start with the same promise: share your documents, and in a few months you will have a knowledge base.
 
@@ -120,7 +120,7 @@ A year ago at ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the
 
 Heading to ADIPEC next week. Anybody going, I'll be there as well and I'd love to chat.
 
-- Note: A · award with Celeros, ADIPEC 2025 (recommended)
+- Note: A · award with Celeros, ADIPEC 2025
 - Note: B · ADIPEC hall
 - Note: A shows a past win with a client, which is what a pre-event post on Sari's page needs. B sets the scene for the post's first line. The Celeros line in the copy works with both.
 
@@ -128,7 +128,7 @@ Heading to ADIPEC next week. Anybody going, I'll be there as well and I'd love t
 
 Thu 29 Oct · 09:00 Gulf / Wed 28 Oct 22:00 Pacific
 
-**A · Elements of Style + Sari's direction (recommended)**
+**A · Elements of Style + Sari's direction**
 
 ADIPEC opens in Abu Dhabi on Monday.
 
@@ -600,7 +600,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 ### 27 Oct 2026, the AI-writing problem
 
 - **Yana:** "The style is so much AI now… I gave you so many rules and it's still obvious AI writing." "It doesn't need to be plain… premium, engaging, you should feel the character… still following all the rules of PR, writing, and Sari's direction." "The structure, each paragraph structured like the sequence, is AI. It's fabricated. It's not natural." "'That is where Ranger, blah' ,  so AI-ish." "Your version is better now when you removed this synthetic." → No formula skeleton; Ranger enters through the client; rewrite instead of patching. Standing, added to the guidelines.
-- **Change:** all four posts rewritten as natural prose in the first slot ("Natural version (recommended)"); the hybrid stays as the second slot for comparison.
+- **Change:** all four posts rewritten as natural prose in the first slot ("Natural version"); the hybrid stays as the second slot for comparison.
 
 ### 27 Oct 2026, PR layer for both lanes
 
