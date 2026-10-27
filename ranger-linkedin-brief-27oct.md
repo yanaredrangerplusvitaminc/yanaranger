@@ -38,21 +38,23 @@ Thank you to everyone who made time for us in Houston, and to our hosts:
 
 [@Company 1], [@Company 2], [@Company 3]
 
-#OTC #RangerAI #RangerInTheField
+#OTC #OilAndGas #OffshoreEnergy #RangerAI #RangerInTheField
 
 **B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
 
-OTC brings the offshore energy industry to Houston each May. Five months ago, our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, represented Ranger there, meeting industry leaders and visiting clients beyond the exhibition floor.
+Five months ago, OTC brought our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, to Houston.
 
-The equipment they manufacture begins with engineering. Winning the work around it means translating demanding technical requirements into offers that make commercial sense.
+The best hours that week were with our clients, at their own sites.
 
-Energy equipment manufacturers across North America, Europe and the Middle East bring Ranger's AI platform and people who know the industry into that work. We're building on that foundation to connect more of what happens between an inquiry and the final payment.
+Every piece of equipment they build starts as an engineering problem. Winning the order is a commercial one. Our clients across North America, Europe and the Middle East use Ranger's AI platform and our team of industry experts, side by side, to turn one into the other.
 
-Thank you to everyone who welcomed us in Houston:
+Next, we're taking that work past the bid, all the way to cash.
+
+Thanks to everyone who welcomed us in Houston:
 
 [@Company 1], [@Company 2], [@Company 3]
 
-#OTC #RangerAI #RangerInTheField
+#OTC #OilAndGas #OffshoreEnergy #RangerAI #RangerInTheField
 
 - Note: The thank-you line is optional: keep it if Sari or Kyle send companies to tag, cut it if not. Confirm with Sari: the client visit was on the OTC trip.
 
@@ -70,19 +72,21 @@ Our clients put AI to work at that stage, with technology built for industrial b
 
 Our EMEA team will be at ADIPEC in Abu Dhabi from 2 to 5 November, sharing what we're learning from that work across the energy sector.
 
-#ADIPEC #RangerAI #RangerInTheField
+#ADIPEC #OilAndGas #Energy #RangerAI #RangerInTheField
 
 **B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
 
-An energy project starts taking shape commercially long before a contract is signed. Technical requirements are reviewed and a price is committed, and those decisions shape what the company wins and what the project earns.
+Long before a contract is signed, your project has already started taking shape commercially.
 
-Our clients already put Ranger's AI technology to work at that point. Our technology and people who understand industrial bids work together, with the value measured against the client's business goals.
+A technical requirement gets reviewed. A price gets committed. Those calls decide what you win and what the project earns.
 
-Next week at ADIPEC, our EMEA team will be in Abu Dhabi, meeting the equipment manufacturers, EPCs and energy companies doing this work around the world.
+Our clients put Ranger's AI technology and our team of industry experts to work right there, with the value measured against their business goals.
+
+Next week, our EMEA team is in Abu Dhabi, meeting the equipment manufacturers, EPCs and energy companies who do this work every day.
 
 2–5 November, ADIPEC.
 
-#ADIPEC #RangerAI #RangerInTheField
+#ADIPEC #OilAndGas #Energy #RangerAI #RangerInTheField
 
 **First comment**
 
@@ -96,25 +100,23 @@ Thu 29 Oct · 09:00 Gulf / Wed 28 Oct 22:00 Pacific
 
 **A · Elements of Style + Sari's direction**
 
-Next week at ADIPEC, many AI conversations will start with the same promise: share your documents, and in a few months you will have a knowledge base.
+At ADIPEC last year, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger.
 
-For a leadership team, that means months of groundwork before the business sees a return. At Ranger, we start with value in the work your team is doing today, the next inquiry and the next bid. The knowledge base grows out of that work, and that is where the deeper transformation begins.
+For companies that design and bid complex industrial equipment, AI matters when it improves the work that wins business. The decisions made before a contract is awarded follow a project into delivery. I see the larger opportunity in connecting that work across the company, so each bid can inform the next.
 
-A CEO I spoke with recently, who had been concerned about exactly that, called it the right way to do it.
+I'll be back in Abu Dhabi next week. I look forward to reconnecting with the people doing this work across the energy sector.
 
-A year ago at ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger. I look forward to seeing them, and many of you, again next week.
-
-#IndustrialAI #ADIPEC #RangerAI #ranger_in_the_field
+#ADIPEC #OilAndGas #IndustrialAI #RangerAI #RangerInTheField
 
 **B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
 
-Walk the halls at ADIPEC next week and you'll hear one AI promise again and again: give us your documents, and in a few months you'll have a knowledge base.
+In complex industrial projects, decisions made during bidding can shape what a company is committed to delivering for years.
 
-For a CEO, that's months of cost before the business sees a return. A CEO I spoke with recently was concerned about exactly that. I explained that we start somewhere else at Ranger, with value in the work their team is doing today, the next inquiry and the next bid. The knowledge base grows from there. They called it the right way to do it.
+That's why I think the bid is where AI earns its place. Better decisions there, and what the team learns carried into the work that follows.
 
-A year ago at ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger. I look forward to seeing them, and many of you, again next week.
+At last year's ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger. I'm back in Abu Dhabi next week, and I'm looking forward to seeing familiar faces and meeting new ones.
 
-#IndustrialAI #ADIPEC #RangerAI #ranger_in_the_field
+#ADIPEC #OilAndGas #IndustrialAI #RangerAI #RangerInTheField
 
 **First comment**
 
@@ -122,7 +124,7 @@ Heading to ADIPEC next week. Anybody going, I'll be there as well and I'd love t
 
 - Note: A · award with Celeros, ADIPEC 2025
 - Note: B · ADIPEC hall
-- Note: A shows a past win with a client, which is what a pre-event post on Sari's page needs. B sets the scene for the post's first line. The Celeros line in the copy works with both.
+- Note: A shows a past win with a client, which is what a pre-event post on Sari's page needs. B sets the scene for the post's first line. The Celeros line in the copy works with both. Anna and Celeros tags and the 2025 photo need permission. No CEO reference in this post (27 Oct).
 
 ### Ranger page · ADIPEC teaser
 
@@ -136,7 +138,7 @@ From 2 to 5 November, Ranger's EMEA team will meet the companies that supply and
 
 Together, our AI platform and our team are designed for the work connecting technical decisions with commercial outcomes, from the first inquiry onward.
 
-#ADIPEC #RangerAI #RangerInTheField
+#ADIPEC #OilAndGas #Energy #RangerAI #RangerInTheField
 
 **B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
 
@@ -146,7 +148,7 @@ ADIPEC brings together the people behind some of the world's most demanding ener
 
 See you at ADIPEC.
 
-#ADIPEC #RangerAI #RangerInTheField
+#ADIPEC #OilAndGas #Energy #RangerAI #RangerInTheField
 
 **First comment**
 
