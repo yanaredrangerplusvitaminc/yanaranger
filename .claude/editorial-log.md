@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, the AI-writing problem
+
+- **Yana:** "The style is so much AI now… I gave you so many rules and it's still obvious AI writing." "It doesn't need to be plain… premium, engaging, you should feel the character… still following all the rules of PR, writing, and Sari's direction." "The structure, each paragraph structured like the sequence, is AI. It's fabricated. It's not natural." "'That is where Ranger, blah' — so AI-ish." "Your version is better now when you removed this synthetic." → No formula skeleton; Ranger enters through the client; rewrite instead of patching. Standing, added to the guidelines.
+- **Change:** all four posts rewritten as natural prose in the first slot ("Natural version (recommended)"); the hybrid stays as the second slot for comparison.
+
 ## 27 Oct 2026, PR layer for both lanes
 
 - **Yana:** "Are you sure Elements of Style and Sari's direction also give a PR version? We need marketing, we need PR." → The PR four (angle, quotable line, proof, frame) became a standing review pass for both lanes. Standing.

@@ -100,6 +100,15 @@ We are not: North American startup excitement, hype, lifestyle tone, salesy, beg
 
 Ranger works in North America, Europe, the GCC and Asia (intro deck: United States, Canada, Europe, GCC, East Asia). Never shrink it to one or two regions. (Yana, 27 Oct)
 
+## No formula skeleton (what makes copy read as AI)
+
+A post that runs hook question → answer → aphorism → "That is where Ranger…" → logistics reads as generated, however good the words. (Yana, 27 Oct)
+- Write it the way a person tells what happened and why it matters: one thought leads into the next, sentence lengths vary, the point arrives inside the story.
+- Banned moves: rhetorical-question openers; colon reveals ("…sums up our work:"); stand-alone aphorisms; self-announcements ("That is where Ranger leads", "It is where Ranger…"); balanced, assembled sentences built by patching.
+- Ranger enters through the client ("Our clients trust Ranger's AI, and the people behind it, with exactly that work"), not by declaring itself.
+- A frame phrase ("from inquiry to cash", "technical and commercial") appears at most once a week across posts.
+- When feedback comes, rewrite the paragraph; do not bolt on a clause.
+
 ## Posts are not pitches
 
 Lead with something the reader wants to know (an insight, a question the market is asking, what we see across clients), then who we are as the source of that view, then the event or the people. A paragraph that only lists who we work with and what we do is an advertisement and does not get read. (Yana, 27 Oct)
