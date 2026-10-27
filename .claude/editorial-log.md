@@ -26,7 +26,12 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 - **Yana:** proposed an ADNOC stand photo from ADIPEC, then the photo of Sari presenting the Ranger Implementation Excellence Award to Anna (Celeros Flow Technology) at ADIPEC 2025: "it is from last ADIPEC, that's why." → Before an event, Sari's page shows a past win at the same event, with the client tagged. Standing (matches Sari, 19 Oct: "this guy's a winner").
 - **Change:** added "A year ago at ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger AI." Tags need Celeros and Anna's OK.
 
-## 27 Oct 2026, Ranger, pre-ADIPEC (draft, post Thu 29 Oct)
+## 27 Oct 2026, Ranger, pre-ADIPEC (draft, post Wed 28 Oct)
+
+- **Yana:** "Not companies you would know. Everything for ADIPEC and before ADIPEC must make it clear that we work with companies in this sector, oil, gas, energy… pump manufacturers, energy companies, global energy companies… We are directly relevant to ADIPEC." → Event posts name the client sectors of that event's audience, never a generic "companies you would know". Standing.
+- **Change:** "We work with international pump manufacturers, EPCs and global energy companies across the GCC, Europe and North America."
+- **Yana:** "Play big card, but keep it classy." → The client proof gets its own paragraph and leads the post after the market line: "Ranger works with leading pump manufacturers, EPCs and global energy companies across the GCC, Europe and North America, bringing AI into the work that wins and delivers their projects." "Leading" follows Sari's approved wording ("we work with leading EPCs, NOCs and OEMs"). Standing: before an event, proof comes before logistics.
+- **Yana:** OTC post goes out today (Tue 27 Oct), pre-ADIPEC Wed, teaser Thu. "Kyle first": Kyle Jordan named before Sari Saadi on the OTC post. Situational.
 
 - **Yana:** "Give us 30 minutes on site and tell us about one bid your team is working on" is "bad, begging and AI style"; "we shouldn't be doing this." → Never ask for the reader's time; never ask prospects for live bid details. Standing.
 - **Yana:** the Ranger page post should "hit the ADIPEC audience hard on the meeting being worthwhile." → Make the meeting valuable through what we see across the sector, not through asking. Standing.
