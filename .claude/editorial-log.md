@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, no "water is wet" lines
+
+- **Yana:** "The speed and accuracy of that work affect the contracts they win and the margin they keep… weak, like water is wet." → Replace obvious statements with an insight the reader may not have framed: "Much of a project's margin is set right there, long before delivery begins." (Perception statement in Sari's sense; echoes his Frontier line on contracts delivered for years.) Standing.
+
 ## 27 Oct 2026, platform and team as one
 
 - **Yana:** "Make sure this is a hybrid of the platform and the team… it's a combination. It's not just technology and people that deliver value." → OTC A: "use Ranger's AI platform and our team of industry experts, working as one, to run…". Standing.

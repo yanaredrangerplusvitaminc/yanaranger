@@ -30,7 +30,7 @@ Today, Tue 27 Oct · 07:00 Pacific / 18:00 Gulf
 
 Five months ago, our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, were in Houston for OTC. Some of the best hours of the week happened away from the show floor, at our clients' own sites.
 
-For energy equipment manufacturers and EPCs, turning a technical specification into a priced offer is a commercial decision. The speed and accuracy of that work affect the contracts they win and the margin they keep.
+For energy equipment manufacturers and EPCs, turning a technical specification into a priced offer is a commercial decision. Much of a project's margin is set right there, long before delivery begins.
 
 Our clients across North America, Europe and the Middle East use Ranger's AI platform and our team of industry experts, working as one, to run the technical and commercial work behind their bids. Our approach is built to carry that work beyond the bid, through delivery and all the way to cash.
 
