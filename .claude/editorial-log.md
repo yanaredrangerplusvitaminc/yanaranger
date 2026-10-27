@@ -14,6 +14,8 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Ranger, OTC Houston (draft, post today, Tue 27 Oct)
 
+- **Yana:** "Our clients there engineer the equipment and then bid it… the first post is completely screwed up. Revert it… It lost all sense." → Reverted paragraph 2 to "Some of the most useful hours were spent with clients, beside the equipment they engineer and bid. Every spec and every price in an offer starts there…". A Write-Cut pass must not strip the meaning that makes a line work; if the cut loses the sense, keep the original. Standing.
+
 - **Yana:** "One visit took us right up to a cutaway of the pumps… what's the point of this? I told you make it attractive as professional copy, give it character, give it depth… we were standing next to a pump. Really?" → A detail earns its place only if it carries meaning for the reader. Character comes from insight (why the moment matters to our work), not from scenery. Standing.
 - **Change:** "Some of the most useful hours were spent with clients, beside the equipment they engineer and bid. Every spec and every price in an offer starts there, which is why our work… connects the technical and commercial side of their projects, from inquiry all the way to cash."
 
