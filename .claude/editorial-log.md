@@ -3,6 +3,14 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, Sari on the editorial rules (Slack, 11:31)
+
+- **Sari:** stop words, "be careful for this as an absolute rule… for posts aimed at user groups, yes, while posts aimed at general and top level, I can foresee vague statements that support a perception of us." → Audience decides: concrete for user groups; perception-building statements allowed for top-level posts. Standing.
+- **Sari:** "evaluation is part of how we indicate we are leaders, by showing how we think… not clear on the goal of making this hierarchy." → Evaluations allowed when they show our thinking and facts stand behind them. Standing.
+- **Sari:** benefit to the reader is "a good guide, but not absolute rule" (event posts). Standing.
+- **Sari:** the test, in order: positive, promising AI leader; something insightful; at the forefront with the best clients. Standing; replaces the generic test as pass 1.
+- **Sari:** "enterprise posture, with 30% modern innovator"; "similar to what Slack did for corporate communications… celebration, solutions, excitement, insight, performance sharpening"; readers follow to keep tabs on techno-commercial AI or to assess fit; brand identity to be chosen around what OEMs and EPCs want to hear. Standing.
+
 ## 27 Oct 2026, review of all four posts (Yana's method)
 
 - **Yana:** evaluate every post (1) by status, vision and LinkedIn/PR goals; (2) by importance of what we say and whether it maps to Sari, not synthetic; (3) by Write-Cut; if Write-Cut removes something, circle back to (1) and (2). → This three-pass review runs before every draft is shown. Standing.

@@ -17,13 +17,31 @@ The book by Maxim Ilyakhov and Lyudmila Sarycheva is the bible of everything we 
 
 Before any draft is shown: read it line by line and ask of each sentence, "what does this mean, and what would the reader lose without it?"
 
+### Sari's calibration of these rules (Slack, 27 Oct)
+
+Write, Cut is a strong guide, not an absolute rule.
+1. **Vague can be deliberate.** Posts for user groups stay concrete. Posts for a general or top-level audience may carry statements that inspire curiosity or signal influence and being in the right circles, because they support the perception of Ranger.
+2. **Evaluation shows how we think.** Our judgement is part of how we show leadership. Facts come first in focus, and an evaluation is welcome when it shows our thinking and the facts stand behind it.
+3. **Benefit to the reader** is a guide; event posts, for example, may not carry a direct benefit.
+4. **Sari's test, in priority order:**
+   1. Does the viewer see Ranger as a positive, promising AI leader?
+   2. Does the viewer learn something insightful?
+   3. Does the reader feel Ranger is at the forefront and working with the best clients?
+
+### Sari's brand direction (Slack, 27 Oct)
+
+- **Posture:** enterprise, with about 30% modern innovator.
+- **Reference:** what Slack did for corporate communication, bringing life and colour to it. For techno-commercial work we bring celebration, solutions, excitement, insight and sharper performance.
+- **Why people follow us:** to keep tabs on the latest in techno-commercial AI, or to assess whether we are a fit for them.
+- **Identity:** speaking to every country and every part of the value chain makes us too neutral. In the coming months we choose a brand identity built around what OEMs and EPCs most want to hear; they are the largest group of clients we can target.
+
 Version 1.1, 27 Oct 2026. Owner: Yana Rova. Approver: Sari Saadi.
 Full document with sources: "Ranger editorial system v1 (Ranger and Sari)", Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 Every comment from Yana or Sari is logged in `.claude/editorial-log.md`. Read the log before drafting; it overrides this file when they differ.
 
 ## Review before showing any draft (three passes)
 
-1. **Status, vision, goals.** Does each paragraph serve Sari's goals for this post and page (proof, positioning, perception, reach)?
+1. **Status, vision, goals.** Does each paragraph serve Sari's goals for this post and page? Use his three questions: Ranger as a positive, promising AI leader; something insightful learned; Ranger at the forefront with the best clients.
 2. **Source.** Map every claim and idea to Sari (Slack, Granola, his edits), the intro deck, or a confirmed fact. Anything we invented is marked synthetic and either replaced with his words or cut.
 3. **Write-Cut.** Remove what means nothing. If a cut removes something a goal needs, go back to passes 1 and 2 and find the sourced way to say it.
 
