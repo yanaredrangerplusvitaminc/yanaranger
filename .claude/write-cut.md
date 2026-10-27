@@ -81,3 +81,21 @@ Stop words add volume, not meaning. Find them, then delete or replace them with 
 - Long sentences are split where they carry two ideas, never by dropping the idea.
 - Evaluations ("leading", "most useful") are allowed only when they are Sari's approved wording or when the fact behind them sits in the same sentence.
 - Character comes from a true, specific detail that carries meaning, never from adjectives.
+
+---
+
+## Part 4. What makes copy read as machine-written (research, 27 Oct)
+
+Yana: "People don't speak this way and they don't write this way." Sources: Wikipedia, "Signs of AI writing" (WikiProject AI Cleanup, via TechCrunch 20 Nov 2025: https://techcrunch.com/2025/11/20/the-best-guide-to-spotting-ai-writing-comes-from-wikipedia/); Paralect, "Signs of AI slop in writing" (https://www.paralect.com/blog/signs-of-ai-slop-in-writing); Westcliff University Writing Center, "Avoiding AI-Like Writing" (https://writingcenter.westcliff.edu/wp-content/uploads/2025/11/Avoiding-AI-Like-Writing.pdf); Pangram, "Comprehensive Guide to Spotting AI Writing Patterns" (https://www.pangram.com/blog/comprehensive-guide-to-spotting-ai-writing-patterns).
+
+Tells, and what we do instead:
+1. **Even rhythm.** Every sentence the same length and shape; every paragraph the same size. → Mix one short line with longer ones. Let a paragraph be one sentence.
+2. **Balanced pairs.** "the engineers who design… and the sales teams who price…", "to X and to Y". → Keep one, or merge into a plain phrase.
+3. **"Not X, but Y" contrasts and pivots** ("though", "but", "instead"). → State the thing directly.
+4. **Covering every angle, committing to none.** → One point of view per post.
+5. **No firsthand detail.** → One concrete, true detail beats three abstractions (sourced only).
+6. **Summary closers and stock connectors** ("Overall", "moreover", "the same approach…"). → End on the last real point.
+7. **Promotional words** ("valuable", "key", "powerful"). → Facts.
+8. **Stiff register.** No contractions, formal links. → Write the way a senior person talks: contractions are fine, plain verbs.
+
+A single tell is not proof; several together are. The fix is not swapping words, it is a clear point of view and real specifics.
