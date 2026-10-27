@@ -55,7 +55,7 @@ Before writing any line about what Ranger does, reuse these. Do not paraphrase i
 
 - "Ranger combines industrial expertise and AI to connect the technical and commercial work behind complex industrial projects." (Sari, Slack, 19 Oct: the one-liner for profiles and bios)
 - "from inquiry all the way to cash" (Sari's edit, 2 Oct); "Remittance is a very boring word" (Positioning call, 1 Oct)
-- "accountable for the value it delivers" (Sari's edit, 7 Oct); "thats on us i put on purpose" (21 Oct)
+- Value first: use the intro deck's "Value scoped and measured against your business goals." Do not write "accountable for the value it delivers" in public copy: it reads as AI and sounds like a complaints line. (Yana, 27 Oct, overriding the wording of Sari's 7 Oct edit, keeping its intent)
 - "helping industrial teams put AI to work across complex engineering and commercial workflows" (Sari's WETEX edit, 23 Oct)
 - "We work with leading EPCs, NOCs and OEMs across the GCC, Europe and North America" (Sari's approved register line)
 - Intro deck (Ranger Intro Lean, 4 pages, 21 Oct): "Your partner for techno-commercial AI." "Ranger connects the work, accelerates decisions and aggregates the value." "One partner, accountable for platform, process and results." "Begin with one workflow. Extend the connected capability as value is proven." "Each bid and project informs the next." Stages: Capture, Engineer, Bid, Deliver.
