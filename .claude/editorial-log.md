@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, OTC A roadmap line
+
+- **Yana:** "I'm still not following… are we describing the first process and then what happens next?" → Yes. "That work" (bid work) cannot go beyond the bid; the approach can. Now: "Next, we're bringing the same approach to what follows the order, through delivery and all the way to cash." Standing.
+
 ## 27 Oct 2026, "brought into their business by our team" is cheesy
 
 - **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
