@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, OTC first version too heavy
+
+- **Yana:** "Not natural version… We still stick to the Elements of Style plus Sari's direction. You just don't make the syntax skeleton. Synthetic." "It is now heavy to read. The two paragraphs, especially the first one." → The first slot is Elements of Style + Sari's direction, without the formula skeleton; "natural" is not a separate version. Long sentences are split; one idea per sentence. Standing.
+- **Change:** first-slot labels renamed on all four posts. OTC paragraphs 1 and 2 split into shorter sentences; "much of the offshore industry" became "the offshore energy industry". Substance kept.
+
 ## 27 Oct 2026, claims about the cycle
 
 - **Yana:** "We need to be careful with saying our clients trusted the full ITO to OTR cycle, because this is not true. No one is in the full cycle yet. OTR is the roadmap. We can say we can do this, but we can't say our clients are already having this." Also: "the first post doesn't say AI anywhere"; "I told you to change the structure, not the substance." → Clients are credited only with the inquiry-to-offer work; inquiry to cash is stated as capability ("can run", "built for"). Standing, added to the guidelines.
