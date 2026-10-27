@@ -46,9 +46,7 @@ Five months ago, OTC brought our commercial heads for North America and EMEA, Ky
 
 The best hours that week were with our clients, at their own sites.
 
-They build equipment for some of the most demanding energy projects. Before any of it is built, they have to win the order, which means turning an engineer's specification into a priced offer the customer accepts.
-
-Our clients across North America, Europe and the Middle East do that work with Ranger's AI platform and our team of industry experts, side by side.
+They build equipment for some of the most demanding energy projects. Our clients across North America, Europe and the Middle East bid for that work with Ranger's AI platform and our team of industry experts, side by side.
 
 Today, that's the bid. We're building toward everything after it, all the way to cash.
 
@@ -78,9 +76,7 @@ Our EMEA team will be at ADIPEC in Abu Dhabi from 2 to 5 November, meeting clien
 
 **B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction**
 
-Long before a contract is signed, your project has already started taking shape commercially.
-
-A technical requirement gets reviewed. A price gets committed. Those calls decide what you win and what the project earns.
+Long before a contract is signed, your project has already started taking shape commercially. The calls made then decide what you win and what it earns.
 
 Our clients put Ranger's AI technology and our team of industry experts to work right there, with the value measured against their business goals.
 

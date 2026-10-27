@@ -131,7 +131,7 @@ Five per post, with an oil and gas or energy focus, all in CamelCase. Ranger: ev
 
 ## Who we write for
 
-The economic buyer, the C-level. Write in their terms: the bids they win, the margin they keep, what a project earns. Engineers and bid teams are not the reader. (Yana, 27 Oct)
+The economic buyer, the C-level. Write in their terms: the bids they win, the margin they keep, what a project earns. Engineers and bid teams are not the reader. Never explain the bid process step by step; the C-level knows it. Name the stakes. (Yana, 27 Oct)
 
 ## Claims: what clients have versus what we can do
 

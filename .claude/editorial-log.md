@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, don't explain the process to C-level
+
+- **Yana:** "No need to chew this process. We're talking to C-level. They know what it looks like. We're not educating them in that granular detail." → Name the stakes, never walk the reader through bid steps. OTC B and pre-ADIPEC B trimmed. Standing.
+
 ## 27 Oct 2026, OTC B unclear
 
 - **Yana:** "I'm not following… 'to turn one into the other'… 'Next, we're taking that work past the bid'. What was the first?" → Short lines must still be self-explanatory: no "one into the other", no "next" without a first. OTC B now names the work (winning the order: specification to a priced offer), who does it with Ranger, and the roadmap plainly ("Today, that's the bid. We're building toward everything after it, all the way to cash."). Standing.
