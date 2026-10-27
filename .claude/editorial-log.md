@@ -15,6 +15,13 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 - **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
 
+## 27 Oct 2026, Sari's comments on OTC A (posts doc)
+
+- **Sari:** "clients" → "partners. so that we can tag pumpworks even if they aren't a client yet." Situational (tagging), applied.
+- **Sari:** "on Ranger's AI platform, which our industry experts implement alongside their teams" → "with Ranger optimizing the technology to empower higher quality and faster turnaround." Applied in his words.
+- **Sari:** "Next, we're bringing the same approach to what follows the order…" → "The more mature an implementation gets, the more ROI our clients are experiencing." Applied in his words. Note: Sari states ROI as a perception line, no figure.
+- **Sari (Slack, 14:24):** "after the changes, OTC A should be good to go"; asks for another photo of Kyle and him (posture and face droopy, he was sick). OTC A chosen. Standing: photos of Sari must make him look well and senior.
+
 ## 27 Oct 2026, Sari's first comment on the posts doc
 
 - **Sari (doc comment):** "do not use middle east. 'GCC, and Asia.'" → Regions read "North America, Europe, the GCC and Asia" everywhere; supersedes "the Middle East". Standing.
