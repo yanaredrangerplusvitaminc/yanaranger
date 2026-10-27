@@ -20,7 +20,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 - **Yana:** "Did you find the Celeros wins? … three posts repeating the same." → Sari's post moves to the Celeros relationship (award, growth across workflows) instead of repeating the bid argument. Confluence proof: Bradley's quote "In less than 30 days Ranger helped us win a major project" (say out loud ✅, deck CONFIRM); GD "10 hrs to under 1 hr" is a scope target, not ROI; do not publish. Standing: across a week, each post makes a different point.
 - **Yana:** "What does 'I'll be back in Abu Dhabi' mean? This is a pre-ADIPEC post." → "I'm back at ADIPEC in Abu Dhabi next week, and I'm looking forward to reconnecting."
 - **Yana:** "Don't say Celeros was our first customer. Never say this. It's one of many." Standing.
-- **Yana:** "Don't say one workflow into several. You rebuild it as a startup voice… we fake it till we make it." → State the established scope ("our work with Celeros spans procurement, legal and engineering bids"). Standing.
+- **Yana:** "Don't say one workflow into several. You rebuild it as a startup voice… we fake it till we make it." → State the established scope ("our work with Celeros spans procurement, legal and engineering bids"). Standing. Then Yana: "You can say started with one workflow once" → "We started with one workflow. Today, our work with Celeros spans procurement, legal and engineering bids." (once, as contrast to today's scope).
 
 ## 27 Oct 2026, who runs the bids
 
