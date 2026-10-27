@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, "extend that capability" was vague
+
+- **Yana:** "Our approach is to extend that capability. What capability? Technical and commercial is already the extended capability." → Name what grows: the stage after the bid. OTC A: "Our approach is built to carry that work beyond the bid, through delivery and all the way to cash." Standing: when describing the roadmap, name the next stage, not "the wider process".
+
 ## 27 Oct 2026, Ranger is people and platform
 
 - **Yana:** "'Ranger is built to': does it signal that Ranger is a platform? Ranger is a combination of people and platform." → OTC A: "Our approach is built to extend that capability…"; teaser A: "Together, our AI platform and our team are designed for the work…". Standing.

@@ -32,7 +32,7 @@ Five months ago, our commercial heads for North America and EMEA, Kyle Jordan an
 
 For energy equipment manufacturers and EPCs, turning a technical specification into a priced offer is a commercial decision. The speed and accuracy of that work affect the contracts they win and the margin they keep.
 
-Our clients across North America, Europe and the Middle East use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids. Our approach is built to extend that capability across the wider process, from inquiry all the way to cash.
+Our clients across North America, Europe and the Middle East use Ranger's AI platform, with our team of industry experts, to run the technical and commercial work behind their bids. Our approach is built to carry that work beyond the bid, through delivery and all the way to cash.
 
 Thank you to everyone who made time for us in Houston, and to our hosts:
 
@@ -526,7 +526,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ### 27 Oct 2026, platform and team side by side
 
-- **Yana:** wrote OTC A paragraph 3 ("Our clients around the world use Ranger's AI platform… to manage the technical and commercial work behind their bids. Our approach is built to extend that capability across the wider process, from inquiry all the way to cash."), then: "we need to make sure it's side by side." → The AI platform and the team always stand as equals: "with our team", never "supported by". Standing.
+- **Yana:** wrote OTC A paragraph 3 ("Our clients around the world use Ranger's AI platform… to manage the technical and commercial work behind their bids. Our approach is built to carry that work beyond the bid, through delivery and all the way to cash."), then: "we need to make sure it's side by side." → The AI platform and the team always stand as equals: "with our team", never "supported by". Standing.
 - **Change:** "supported by our team of industry experts" → "with our team of industry experts". Other posts checked: no "supported by" left.
 
 ### 27 Oct 2026, Microsoft dropped
