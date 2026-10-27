@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, audience is the economic buyer
+
+- **Yana:** "We don't target engineers. We target economic buyers. We target the C-level." → Write for the C-level: wins, margin, what a project earns. Roles on the bid desk are not the subject. Standing.
+- **Change:** OTC, pre-ADIPEC and teaser rewritten around win and margin; "engineers and sales teams" removed.
+
 ## 27 Oct 2026, second pass on Sari's direction
 
 - **Yana:** "Re-read everything from Sari's direction, make sure all gaps are addressed." → Sari's post: long chained sentence split. Teaser: Slack colour added ("one of our favourite weeks of the year"), the 30% modern innovator. Other first-slot posts checked, no further gaps.

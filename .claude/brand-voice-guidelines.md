@@ -109,6 +109,10 @@ A post that runs hook question → answer → aphorism → "That is where Ranger
 - A frame phrase ("from inquiry to cash", "technical and commercial") appears at most once a week across posts.
 - When feedback comes, rewrite the paragraph; do not bolt on a clause.
 
+## Who we write for
+
+The economic buyer, the C-level. Write in their terms: the bids they win, the margin they keep, what a project earns. Engineers and bid teams are not the reader. (Yana, 27 Oct)
+
 ## Claims: what clients have versus what we can do
 
 - Clients today work with Ranger on inquiry to order (the inquiry, the technical review, the offer). No client runs the full cycle yet; order to remittance is the roadmap.
