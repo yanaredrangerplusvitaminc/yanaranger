@@ -47,6 +47,9 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Sari, pre-ADIPEC (draft, post Thu 29 Oct)
 
+- **Yana:** "'Many AI programmes begin with this, and I prefer to begin with the work.' This says I'm an AI programmer. He's head of commercial." "This is very AI. We were close to the good one and you reverted it." → Sari speaks as a commercial leader to a client ("your team", "the next bid"), never as someone describing AI programme design. When a version is close, iterate on it; never replace it with a new concept. Standing.
+- **Change:** restored the version built on Sari's own line ("At Ranger AI, I'm not starting with building a knowledge base. I'm starting with giving your team value in the work it is doing today: the next inquiry, the next bid."), kept the CEO line as proof, dropped the synthetic "In industry, that matters" line.
+
 - **Yana:** on "Recently, a CEO called me, worried…": "No. When I tell you give it a shade, keep it within all the writing rules, but give it a sense of unique, attractive copywriting, not this tabloid pulp fiction." → No dramatised anecdotes. Character comes from a sharp, quiet point of view; a real conversation can appear as one line of proof. Standing.
 - **Change:** opens "Many AI programmes in industry begin with a knowledge base. I prefer to begin with the work."; Sari's sequence follows; the CEO becomes one line ("that is the right order"); ends on the Celeros proof; the empty closing line is cut.
 
