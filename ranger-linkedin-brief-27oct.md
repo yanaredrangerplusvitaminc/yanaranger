@@ -32,7 +32,7 @@ Five months ago, our commercial heads for North America and EMEA, Kyle Jordan an
 
 For energy equipment manufacturers and EPCs, turning a technical specification into a priced offer is a commercial decision. Much of a project's margin is set right there, long before delivery begins.
 
-Our clients across North America, Europe and the Middle East run the technical and commercial work behind their bids on Ranger's AI platform, brought into their business by our team of industry experts. Our approach is built to carry that work beyond the bid, through delivery and all the way to cash.
+Our clients across North America, Europe and the Middle East run the technical and commercial work behind their bids on Ranger's AI platform, which our industry experts bring into their teams. Our approach is built to carry that work beyond the bid, through delivery and all the way to cash.
 
 Thank you to everyone who made time for us in Houston, and to our hosts:
 
@@ -44,7 +44,7 @@ Thank you to everyone who made time for us in Houston, and to our hosts:
 
 Five months ago, OTC brought our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi, to Houston. The best hours that week were with our clients, at their own sites.
 
-They build equipment for some of the most demanding energy projects, and they bid for that work on Ranger's AI platform, brought in by our team of industry experts. So do our clients across Europe and the Middle East.
+They build equipment for some of the most demanding energy projects, and they bid for that work on Ranger's AI platform, which our industry experts bring into their teams. So do our clients across Europe and the Middle East.
 
 Today, we work on the bid. We're building toward everything after it, all the way to cash.
 
@@ -66,7 +66,7 @@ Next week, ADIPEC will be full of AI. Access to the technology is no longer the 
 
 For energy equipment manufacturers and EPCs, that happens where a technical inquiry becomes a priced offer. Get it right and you win more of the projects you want, at the margin you need.
 
-Our clients put Ranger's AI platform to work at exactly that stage, brought into their business by our team of industry experts, with value scoped against their business goals from day one.
+Our clients put Ranger's AI platform to work at exactly that stage. Our industry experts bring it into their teams, with value scoped against their business goals from day one.
 
 Our EMEA team will be at ADIPEC in Abu Dhabi from 2 to 5 November, meeting clients, partners and new faces across the energy sector. We'd be glad to connect.
 
@@ -76,7 +76,7 @@ Our EMEA team will be at ADIPEC in Abu Dhabi from 2 to 5 November, meeting clien
 
 Long before a contract is signed, your project has already started taking shape commercially. The calls made then decide what you win and what it earns.
 
-Our clients put Ranger's AI technology to work right there, brought in by our team of industry experts, with the value measured against their business goals.
+Our clients put Ranger's AI technology to work right there. Our industry experts bring it into their teams, and the value is measured against their business goals.
 
 Next week, our EMEA team is in Abu Dhabi, meeting our clients and partners, and getting to know more of the equipment manufacturers, EPCs and energy companies who do this work every day. We'd be glad to connect.
 

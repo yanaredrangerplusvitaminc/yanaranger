@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, "brought into their business by our team" is cheesy
+
+- **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
+
 ## 27 Oct 2026, who runs the bids
 
 - **Yana:** "This sounds like the team runs the bids. No, the team brings the AI, the technology." → Clients run their bids on Ranger's AI platform; our team of industry experts brings it into their business. Fixed in OTC A and B and both pre-ADIPEC lanes. Standing.
