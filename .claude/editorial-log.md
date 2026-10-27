@@ -3,7 +3,9 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
-## 27 Oct 2026, Ranger, OTC Houston (draft, post Wed 28 Oct)
+## 27 Oct 2026, Ranger, OTC Houston (draft, post today, Tue 27 Oct)
+
+- **Yana:** "If we want to mention that we met [clients] on the shop floor, let's use their image as second in the carousel." → When the copy references a client moment, the photo of it follows as slide 2. Copy and image must match: "spent time on the shop floor" became "visited clients", because the photo is their office with the pump cutaway. Standing.
 
 - **Sari, Slack DM 10:16 CET:** "setup a post about OTC in Houston, using a picture of Kyle and I. And tagging companies Kyle and I spoke to." "Remember so Ranger brand doesn't get too much EMEA only." "US based movement is good for our customers." "two posts before the teaser animation." → Ranger page must balance North America and Gulf. Standing.
 - **Yana:** use one photo only, Sari and Kyle at the OTC wall; no PumpWorks photo. → Client photos stay out unless the client approves. Standing.
