@@ -17,7 +17,7 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Sari's close names new partners
 
-- **Yana:** "reconnecting with Anna, the team and many of you" is weird; "why is there nothing about talking to new partners or potential partners?" → Sari's pre-event close names clients, partners and new partnerships. A: "looking forward to seeing our clients and partners, and to starting new partnerships." B: "Looking forward to seeing our clients and partners, and to meeting new ones." Standing for event posts.
+- **Yana:** "reconnecting with Anna, the team and many of you" is weird; "why is there nothing about talking to new partners or potential partners?" → Sari's pre-event close names clients, partners and new partnerships. A: "looking forward to seeing our clients and partners, and to starting new partnerships." B: "Looking forward to seeing our clients and partners, and to starting new conversations." (Yana) Standing for event posts.
 
 ## 27 Oct 2026, how our experts work with clients
 
