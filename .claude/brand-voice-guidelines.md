@@ -49,6 +49,14 @@ We are not: North American startup excitement, hype, lifestyle tone, salesy, beg
 - Form: sentence case; no em dashes, emoji, rule of three, "not X but Y", slogan endings, superlatives.
 - Terms: "Techno-Commercial AI" (working term), "inquiry to cash". Never "revenue engine", "seamless", "unlock", "game-changing".
 
+## Footprint
+
+Ranger works in North America, Europe, the GCC and Asia (intro deck: United States, Canada, Europe, GCC, East Asia). Never shrink it to one or two regions. (Yana, 27 Oct)
+
+## Posts are not pitches
+
+Lead with something the reader wants to know (an insight, a question the market is asking, what we see across clients), then who we are as the source of that view, then the event or the people. A paragraph that only lists who we work with and what we do is an advertisement and does not get read. (Yana, 27 Oct)
+
 ## Positioning: use Sari's own words first
 
 Before writing any line about what Ranger does, reuse these. Do not paraphrase into weaker generic phrases ("bringing AI into…", "AI-powered workflows").

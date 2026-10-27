@@ -39,6 +39,9 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Ranger, pre-ADIPEC (draft, post Wed 28 Oct)
 
+- **Yana:** "This is just a pure advertisement pitch. It's so boring… not sure anybody has any interest in reading it." "I just told you that we work Europe, Asia, North America, GCC." → Lead with an insight the audience wants; the client list becomes the source of that insight, not the message. Footprint is always the four regions. Standing.
+- **Change:** opens "Where is AI actually paying off in energy projects?"; the answer comes from what we see across clients in North America, Europe, the GCC and Asia; the meeting is offered as "sharing what we see across the sector" (Sari, 19 Oct notes: "We see what others in your sector are doing" outperforms feature pitches).
+
 - **Yana:** "Not companies you would know. Everything for ADIPEC and before ADIPEC must make it clear that we work with companies in this sector, oil, gas, energy… pump manufacturers, energy companies, global energy companies… We are directly relevant to ADIPEC." → Event posts name the client sectors of that event's audience, never a generic "companies you would know". Standing.
 - **Change:** "We work with international pump manufacturers, EPCs and global energy companies across the GCC, Europe and North America."
 - **Yana:** "bringing AI into how they run inquiry-to-order and order-to-cash. This is very weak. I have a feeling you're not reviewing the intro deck… not reviewing how Sari positions this." → Every line on what Ranger does must reuse Sari's own positioning words or the intro deck, never a generic paraphrase. Positioning section added to the guidelines. Standing.
