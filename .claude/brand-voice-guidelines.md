@@ -9,6 +9,7 @@ The book by Maxim Ilyakhov and Lyudmila Sarycheva is the bible of everything we 
 - **Cut stop words:** filler, empty intensifiers, hedges, clichés, bureaucratic phrasing, nominalisations where a verb would do.
 - **Write for the reader's benefit.** Every paragraph answers "why should this person care?"
 - **Concrete over abstract.** Name the thing, the place, the number, the person.
+- **Depth over decoration.** A concrete detail earns its place only when it says why it matters to the reader. Scenery is not character; insight is. (Yana, 27 Oct)
 - **Honest.** No exaggeration, no manipulation, no promises we cannot keep.
 - **Short and clear.** One idea per sentence; active voice; simple words.
 - **Respect the reader.** No pressure, no begging, no flattery, no conditional calls to action.
