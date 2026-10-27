@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, who runs the bids
+
+- **Yana:** "This sounds like the team runs the bids. No, the team brings the AI, the technology." → Clients run their bids on Ranger's AI platform; our team of industry experts brings it into their business. Fixed in OTC A and B and both pre-ADIPEC lanes. Standing.
+
 ## 27 Oct 2026, no "water is wet" lines
 
 - **Yana:** "The speed and accuracy of that work affect the contracts they win and the margin they keep… weak, like water is wet." → Replace obvious statements with an insight the reader may not have framed: "Much of a project's margin is set right there, long before delivery begins." (Perception statement in Sari's sense; echoes his Frontier line on contracts delivered for years.) Standing.
