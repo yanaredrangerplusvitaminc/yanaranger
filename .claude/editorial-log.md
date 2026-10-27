@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, teaser from ChatGPT draft
+
+- **Yana:** sent ChatGPT's teaser, lanes A and B. → Kept its wording; fixes: "Our AI technology" → "Our AI platform"; "engineer, supply and deliver" → "supply and deliver" (rule of three); "will be meeting" → "will meet". Lane B unchanged.
+- **Status:** OTC, pre-ADIPEC and teaser now on ChatGPT's text with rule fixes. Sari's post still on the earlier version; waiting for its ChatGPT draft.
+
 ## 27 Oct 2026, ChatGPT drafts as the base
 
 - **Yana:** "You can correct for the rules, but keep [ChatGPT's wording]; ChatGPT is generally better." → When Yana brings a ChatGPT draft, keep its wording and correct only rule breaks (titles, "Ranger's AI platform", EPCs, rule of three, "This year", vague "process"). Standing.
