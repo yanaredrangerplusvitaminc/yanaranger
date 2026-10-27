@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, ChatGPT drafts as the base
+
+- **Yana:** "You can correct for the rules, but keep [ChatGPT's wording]; ChatGPT is generally better." → When Yana brings a ChatGPT draft, keep its wording and correct only rule breaks (titles, "Ranger's AI platform", EPCs, rule of three, "This year", vague "process"). Standing.
+- **Change:** OTC and pre-ADIPEC, lanes A and B, now ChatGPT's text with minimal rule fixes. Lanes renamed: A · Elements of Style + Write-Cut + Sari; B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Microsoft, Slack) + Sari. Microsoft now in lane B (resolves the open question).
+
 ## 27 Oct 2026, all posts rebuilt in the ChatGPT-draft style
 
 - **Yana:** "The other posts, can you write them the same way, using the ChatGPT style as an example?" → Model: event grounding, then the business lens for an executive ("For X, …"), then Ranger's AI platform and people who know the industry, then an honest next step. Both lanes on pre-ADIPEC, Sari and teaser rewritten. Standing as the reference style.
