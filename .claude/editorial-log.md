@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, second pass on Sari's direction
+
+- **Yana:** "Re-read everything from Sari's direction, make sure all gaps are addressed." → Sari's post: long chained sentence split. Teaser: Slack colour added ("one of our favourite weeks of the year"), the 30% modern innovator. Other first-slot posts checked, no further gaps.
+
 ## 27 Oct 2026, Sari's direction gaps and the prospect read
 
 - **Yana:** "Are you sure the direction Sari gave has been considered? All points." Audit found gaps: leadership signal (test 1), insight (test 2), forefront and best clients (test 3), the 30% modern innovator, a reason to follow, Sari's forward personal close. Cutting "the industry's leaders have already moved that way" as unsourced was wrong: Sari allows perception statements on top-level posts.
