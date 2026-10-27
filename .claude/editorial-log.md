@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, OTC B unclear
+
+- **Yana:** "I'm not following… 'to turn one into the other'… 'Next, we're taking that work past the bid'. What was the first?" → Short lines must still be self-explanatory: no "one into the other", no "next" without a first. OTC B now names the work (winning the order: specification to a priced offer), who does it with Ranger, and the roadmap plainly ("Today, that's the bid. We're building toward everything after it, all the way to cash."). Standing.
+
 ## 27 Oct 2026, posts too phlegmatic
 
 - **Yana:** "The posts right now, it's so phlegmatic." → Lane A drifted to 100% calm; Sari asked for 30% modern innovator. Energy from stakes ("Turning it into results is"; "win more of the projects you want, at the margin you need"), momentum ("our EMEA team is ready") and warmth ("new faces", "We'd be glad to connect"); no adjectives, hype or exclamation marks. OTC A opener, pre-ADIPEC A and teaser A rewritten. Standing.

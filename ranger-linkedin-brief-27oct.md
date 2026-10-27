@@ -46,9 +46,11 @@ Five months ago, OTC brought our commercial heads for North America and EMEA, Ky
 
 The best hours that week were with our clients, at their own sites.
 
-Every piece of equipment they build starts as an engineering problem. Winning the order is a commercial one. Our clients across North America, Europe and the Middle East use Ranger's AI platform and our team of industry experts, side by side, to turn one into the other.
+They build equipment for some of the most demanding energy projects. Before any of it is built, they have to win the order, which means turning an engineer's specification into a priced offer the customer accepts.
 
-Next, we're taking that work past the bid, all the way to cash.
+Our clients across North America, Europe and the Middle East do that work with Ranger's AI platform and our team of industry experts, side by side.
+
+Today, that's the bid. We're building toward everything after it, all the way to cash.
 
 Thanks to everyone who welcomed us in Houston:
 
