@@ -15,6 +15,10 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 - **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
 
+## 27 Oct 2026, implementation wording
+
+- **Yana:** "which our industry experts bring into their teams" is weird; "our team, alongside their team, implements this." → OTC A: "which our industry experts implement alongside their teams." OTC B: "Our industry experts implement it side by side with their teams." Standing: our experts implement with the client's team.
+
 ## 27 Oct 2026, Sari's close names new partners
 
 - **Yana:** "reconnecting with Anna, the team and many of you" is weird; "why is there nothing about talking to new partners or potential partners?" → Sari's pre-event close names clients, partners and new partnerships. A: "looking forward to seeing our clients and partners, and to starting new partnerships." B: "Looking forward to seeing our clients and partners, and to starting new conversations." (Yana) Standing for event posts.
