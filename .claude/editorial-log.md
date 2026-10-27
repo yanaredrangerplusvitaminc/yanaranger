@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, titles in posts
+
+- **Yana:** "If we mention title, we say head of North America and head of EMEA commercial, or commercial head. We don't say co-founder." → Kyle Jordan: commercial head, North America. Sari Saadi: commercial head, EMEA. Never "Co-Founder" in post copy. Standing.
+- **Change:** OTC, both lanes: "our commercial heads for North America and EMEA, Kyle Jordan and Sari Saadi". Lanes rebuilt earlier today from Yana's ChatGPT draft (manufacturers and EPCs; NOCs left out because they issue tenders rather than price offers).
+
 ## 27 Oct 2026, open questions still with Yana
 
 - **Card headline (pre-ADIPEC image):** Yana asked whether "Meet the Ranger team at ADIPEC", "Meet for intro at ADIPEC" or "Meet for intro EMEA team at ADIPEC" is best. Recommendation: keep "Meet the Ranger team at ADIPEC"; "intro" reads as a sales ask; "EMEA team" makes Ranger look regional (Sari: not EMEA-only). Alternative: "Meet the Ranger EMEA team at ADIPEC." Awaiting decision.
