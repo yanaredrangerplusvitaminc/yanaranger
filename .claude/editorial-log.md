@@ -15,6 +15,10 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 - **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
 
+## 27 Oct 2026, editorial system v2 for handoff
+
+- **Yana:** "Make sure the editorial doc is structured well so I can hand it off to Sari." → New Google Doc "Ranger editorial system v2 (Ranger and Sari)", 1DESCZ8g6uvEYsOMszc1KJXc8-MpLJ61gBL--1WWLf3k, ten short sections (how it works, goals and tests, audience, what we say about Ranger, two lanes, writing rules, two personalities, format, feedback, decisions). v1 marked superseded at the top and kept as the archive.
+
 ## 27 Oct 2026, implementation wording
 
 - **Yana:** "which our industry experts bring into their teams" is weird; "our team, alongside their team, implements this." → OTC A: "which our industry experts implement alongside their teams." OTC B: "Our industry experts implement it side by side with their teams." Standing: our experts implement with the client's team.
