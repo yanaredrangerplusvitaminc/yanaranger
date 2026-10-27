@@ -21,6 +21,11 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 - **Yana:** "Everything must go out on the weekdays, no Sunday posts." → Teaser moved from Sun 1 Nov to Fri 30 Oct. Weekdays only. Standing.
 - **Change:** OTC opening now "Five months ago, at OTC in Houston…" and "With this year's event season under way, we keep returning to what those days confirmed." → Gives the reason a May event is posted now.
 
+## 27 Oct 2026, Sari, pre-ADIPEC (draft, post Thu 29 Oct)
+
+- **Yana:** proposed an ADNOC stand photo from ADIPEC, then the photo of Sari presenting the Ranger Implementation Excellence Award to Anna (Celeros Flow Technology) at ADIPEC 2025: "it is from last ADIPEC, that's why." → Before an event, Sari's page shows a past win at the same event, with the client tagged. Standing (matches Sari, 19 Oct: "this guy's a winner").
+- **Change:** added "A year ago at ADIPEC, I had the pleasure of recognising @Anna Sklodowska and the @Celeros Flow Technology team for what they achieved with Ranger AI." Tags need Celeros and Anna's OK.
+
 ## 27 Oct 2026, Ranger, pre-ADIPEC (draft, post Thu 29 Oct)
 
 - **Yana:** "Give us 30 minutes on site and tell us about one bid your team is working on" is "bad, begging and AI style"; "we shouldn't be doing this." → Never ask for the reader's time; never ask prospects for live bid details. Standing.
