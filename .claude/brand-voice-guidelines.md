@@ -109,6 +109,12 @@ A post that runs hook question → answer → aphorism → "That is where Ranger
 - A frame phrase ("from inquiry to cash", "technical and commercial") appears at most once a week across posts.
 - When feedback comes, rewrite the paragraph; do not bolt on a clause.
 
+## Claims: what clients have versus what we can do
+
+- Clients today work with Ranger on inquiry to order (the inquiry, the technical review, the offer). No client runs the full cycle yet; order to remittance is the roadmap.
+- Never write that clients trust Ranger with the full path, inquiry to cash, or "everything in between".
+- The full path is stated as capability: "an approach that can run from inquiry all the way to cash", "built for the path in between". (Yana, 27 Oct)
+
 ## Posts are not pitches
 
 Lead with something the reader wants to know (an insight, a question the market is asking, what we see across clients), then who we are as the source of that view, then the event or the people. A paragraph that only lists who we work with and what we do is an advertisement and does not get read. (Yana, 27 Oct)

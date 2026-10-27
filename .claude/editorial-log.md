@@ -3,6 +3,11 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, claims about the cycle
+
+- **Yana:** "We need to be careful with saying our clients trusted the full ITO to OTR cycle, because this is not true. No one is in the full cycle yet. OTR is the roadmap. We can say we can do this, but we can't say our clients are already having this." Also: "the first post doesn't say AI anywhere"; "I told you to change the structure, not the substance." → Clients are credited only with the inquiry-to-offer work; inquiry to cash is stated as capability ("can run", "built for"). Standing, added to the guidelines.
+- **Change:** OTC natural paragraph 2 now names Ranger's AI, keeps "people who know the work" and "clients around the world", and states the full path as capability. Same fix applied to the OTC hybrid, the pre-ADIPEC hybrid line and both teaser versions.
+
 ## 27 Oct 2026, the AI-writing problem
 
 - **Yana:** "The style is so much AI now… I gave you so many rules and it's still obvious AI writing." "It doesn't need to be plain… premium, engaging, you should feel the character… still following all the rules of PR, writing, and Sari's direction." "The structure, each paragraph structured like the sequence, is AI. It's fabricated. It's not natural." "'That is where Ranger, blah' — so AI-ish." "Your version is better now when you removed this synthetic." → No formula skeleton; Ranger enters through the client; rewrite instead of patching. Standing, added to the guidelines.
