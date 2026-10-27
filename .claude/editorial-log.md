@@ -15,6 +15,10 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 - **Yana (page comment):** "cheesy wording." → Plain verb, active: "which our industry experts bring into their teams". Applied to OTC A and B and both pre-ADIPEC lanes. Standing.
 
+## 27 Oct 2026, how our experts work with clients
+
+- **Yana:** "Our industry experts work with their teams to bring the technology into the organization in the most efficient, value-centric way. Just don't use these words." → "Our industry experts work alongside their teams to put it where it pays back first, with results measured against their business goals." Pre-ADIPEC A and B. Standing: the experts work alongside client teams; say "where it pays back first" rather than "efficient" or "value-centric".
+
 ## 27 Oct 2026, Sari's post: Celeros story, not a third bid argument
 
 - **Yana:** "Did you find the Celeros wins? … three posts repeating the same." → Sari's post moves to the Celeros relationship (award, growth across workflows) instead of repeating the bid argument. Confluence proof: Bradley's quote "In less than 30 days Ranger helped us win a major project" (say out loud ✅, deck CONFIRM); GD "10 hrs to under 1 hr" is a scope target, not ROI; do not publish. Standing: across a week, each post makes a different point.
