@@ -39,6 +39,8 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Ranger, pre-ADIPEC (draft, post Wed 28 Oct)
 
+- **Yana:** "'Comparing notes' means nothing. We never put things that mean nothing." The book "Пиши, сокращай" (Ilyakhov, Sarycheva) is the bible of what we do; its principles sit at the top of the guidelines. → Closing lines removed from pre-ADIPEC and the teaser. Standing, first principle.
+
 - **Yana:** "This is just a pure advertisement pitch. It's so boring… not sure anybody has any interest in reading it." "I just told you that we work Europe, Asia, North America, GCC." → Lead with an insight the audience wants; the client list becomes the source of that insight, not the message. Footprint is always the four regions. Standing.
 - **Yana:** "If that is a conversation for your team, message us here… I don't like this… of course it is. It is a conversation for every team. And don't use the directional 'message us'. Use the softer angle." → Soft invitations only. Fixed on pre-ADIPEC ("We look forward to comparing notes with many of you there.") and the teaser ("We look forward to seeing many of you there."). Standing; replaces the earlier "message us here" rule.
 - **Yana:** "Zoom out… what we do is always tied to the value. This is the main differentiator from building it in-house with AI tools or using a platform: we have technology and a team of industrial experts, and we're accountable for the value… I need this read behind the line." → The differentiator is carried as subtext, never stated as a claim: tools are available to everyone; results come from industrial experts and technology working as one team, with the business result agreed up front. Standing.

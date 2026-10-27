@@ -1,5 +1,20 @@
 # Ranger editorial system: brand voice guidelines
 
+## First principle: "Пиши, сокращай" (Write, Cut)
+
+The book by Maxim Ilyakhov and Lyudmila Sarycheva is the bible of everything we write. (Yana, 27 Oct)
+
+- **Every sentence must mean something.** If a line could be deleted and the reader would lose nothing, delete it. "Comparing notes", "we look forward to…", "exciting times", "in today's fast-moving world" mean nothing. We never publish things that mean nothing.
+- **Facts over evaluations.** Replace adjectives and claims ("leading", "innovative", "great") with the fact that would make the reader conclude it themselves.
+- **Cut stop words:** filler, empty intensifiers, hedges, clichés, bureaucratic phrasing, nominalisations where a verb would do.
+- **Write for the reader's benefit.** Every paragraph answers "why should this person care?"
+- **Concrete over abstract.** Name the thing, the place, the number, the person.
+- **Honest.** No exaggeration, no manipulation, no promises we cannot keep.
+- **Short and clear.** One idea per sentence; active voice; simple words.
+- **Respect the reader.** No pressure, no begging, no flattery, no conditional calls to action.
+
+Before any draft is shown: read it line by line and ask of each sentence, "what does this mean, and what would the reader lose without it?"
+
 Version 1.1, 27 Oct 2026. Owner: Yana Rova. Approver: Sari Saadi.
 Full document with sources: "Ranger editorial system v1 (Ranger and Sari)", Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 Every comment from Yana or Sari is logged in `.claude/editorial-log.md`. Read the log before drafting; it overrides this file when they differ.
@@ -59,7 +74,7 @@ Lead with something the reader wants to know (an insight, a question the market 
 
 ## Invitations
 
-No conditional calls to action ("If that is a conversation for your team…": of course it is) and no directive "message us here". Close with a soft, confident invitation: "We look forward to comparing notes with many of you there." (Yana, 27 Oct)
+No conditional calls to action ("If that is a conversation for your team…": of course it is) and no directive "message us here". If a closing line adds no information, end without one. "Comparing notes" and "we look forward to seeing you" mean nothing. (Yana, 27 Oct)
 
 ## Positioning: use Sari's own words first
 
@@ -81,7 +96,7 @@ Before writing any line about what Ranger does, reuse these. Do not paraphrase i
 | Speaker | Industrial operator and ecosystem builder, C-suite peer. "I" for his view, "we" for Ranger. | The team that brings AI across an organization. "We". Calm, precise. |
 | Job | Credibility and ecosystem reach through tagged people. | Proof: clients, presence, sector data. |
 | Angles | Ecosystem moment with people tagged; numbered technical authority; a clear point of view. | Client win; sector benchmark; event presence (why meet, then thanks). |
-| Structure | Strongest line first; concrete industrial truth; one conversation or result; one first-person Ranger line; thanks and tags at the end; up to 4 hashtags; upcoming events in the first comment. | An insight first; who, what, where; the differentiator as subtext; a soft invitation, never "message us here". |
+| Structure | Strongest line first; concrete industrial truth; one conversation or result; one first-person Ranger line; thanks and tags at the end; up to 4 hashtags; upcoming events in the first comment. | An insight first; who, what, where; the differentiator as subtext; no empty closing line, never "message us here". |
 | Visual | Real photos only, no Ranger template. Him on stage, on a panel, with senior people. Crop below the waist. No staged close-ups. | Ranger design system (dark, Ranger wordmark, one lime phrase) or a clean real photo. Sector stock (oil and gas). Event logo with the Ranger logo. No selfies, no thumbs-up. |
 
 ## Images
