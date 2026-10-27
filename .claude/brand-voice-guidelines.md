@@ -45,6 +45,11 @@ Every comment from Yana or Sari is logged in `.claude/editorial-log.md`. Read th
 2. **Source.** Map every claim and idea to Sari (Slack, Granola, his edits), the intro deck, or a confirmed fact. Anything we invented is marked synthetic and either replaced with his words or cut.
 3. **Write-Cut.** Remove what means nothing. If a cut removes something a goal needs, go back to passes 1 and 2 and find the sourced way to say it.
 
+## Layers
+
+- **Foundation (Yana):** structure and craft: Elements of Style, Write-Cut, the positioning words, the two personalities, the review passes.
+- **Top layer (Sari):** his direction overrides wherever the two meet: posture, perception, evaluation, his three-question test, what he wants the reader to feel. (Yana, 27 Oct)
+
 ## How to use
 
 1. Read this file and the latest entries in `editorial-log.md`.
