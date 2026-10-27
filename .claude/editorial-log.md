@@ -38,6 +38,9 @@ Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial sy
 
 ## 27 Oct 2026, Sari, pre-ADIPEC (draft, post Thu 29 Oct)
 
+- **Yana:** on "Recently, a CEO called me, worried…": "No. When I tell you give it a shade, keep it within all the writing rules, but give it a sense of unique, attractive copywriting, not this tabloid pulp fiction." → No dramatised anecdotes. Character comes from a sharp, quiet point of view; a real conversation can appear as one line of proof. Standing.
+- **Change:** opens "Many AI programmes in industry begin with a knowledge base. I prefer to begin with the work."; Sari's sequence follows; the CEO becomes one line ("that is the right order"); ends on the Celeros proof; the empty closing line is cut.
+
 - **Yana:** "Make sure you capture the idea of what he was trying to communicate about the knowledge base." → Source checked: ADIPEC leads call, 15 Oct (Granola e2b28e8c). Sari told a CEO who was worried about paying for a knowledge base first: "I'm not starting with building a knowledge base, I'm starting with giving you agentic value… then we build the knowledge base over time." First, see what can be automated in workflows for quick value and explore how workflows and AI work together; later, deeper implementation connects knowledge for more complex outcomes. The CEO: "thank God you said that because that's the right way to do it." → When Sari has a real story, tell the story (anonymised), not a framing we invented. Standing.
 - **Change:** the post now opens with the CEO's call and follows Sari's sequence; the invented ADIPEC framing and the bid-to-delivery line are gone.
 
