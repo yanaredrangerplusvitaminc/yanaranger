@@ -117,6 +117,18 @@ A post that runs hook question → answer → aphorism → "That is where Ranger
 - **ChatGPT drafts:** when Yana brings one, it is the base. Keep its wording; correct only what breaks these rules. (Yana, 27 Oct)
 - **Frame, direction, wording:** Elements of Style is the frame; Sari's direction is the top layer; the intro deck is the wording. (Yana, 27 Oct)
 
+## Sari's vision and boundaries (from v1 section 0B, 27 Oct)
+
+- Ranger is a value-led partner for the technical and commercial work of winning and delivering industrial projects, built with expert people and technology, not a standalone AI tool. A priced offer is not only a document: bid decisions affect win probability, capacity, margin and later delivery.
+- Present and future stated separately: inquiry to order today; inquiry to cash is the expansion path. Name the work ("inquiry and bidding", "turning technical requirements into an offer"). Avoid "it's the starting point" when the antecedent is unclear.
+- Sari speaks as an experienced industrial builder and a peer to commercial leaders, not as the engineer delivering the work. No résumé claims as openers ("Having worked on both sides of bids"): give his industry point of view instead. (Yana, 27 Oct)
+- Sari pre-ADIPEC: no CEO references, testimonials or anonymous CEO validation; no "walk the halls" or claims about what other vendors will pitch. The knowledge base is not a required topic. (27 Oct)
+- ADIPEC is a long-game trust event, not a pressure-based meeting ask.
+
+## Hashtags (27 Oct, latest)
+
+Five per post, with an oil and gas or energy focus, all in CamelCase. Ranger: event, #OilAndGas, #Energy (or #OffshoreEnergy for OTC), #RangerAI, #RangerInTheField. Sari: #ADIPEC, #OilAndGas, #IndustrialAI, #RangerAI, #RangerInTheField. (Yana, 27 Oct, superseding #ranger_in_the_field)
+
 ## Who we write for
 
 The economic buyer, the C-level. Write in their terms: the bids they win, the margin they keep, what a project earns. Engineers and bid teams are not the reader. (Yana, 27 Oct)

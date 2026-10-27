@@ -3,6 +3,12 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, Sari's post from ChatGPT, 0B, hashtags
+
+- **ChatGPT (via Yana):** v1 doc gained section 0B (Sari's vision and boundaries) and new Sari pre-ADIPEC options A and B with no CEO reference. → Page, Posts doc and skill synced. v1 leftovers marked superseded (Microsoft, Spain time, "message us here").
+- **Yana:** Lane B opener "Having worked on both sides of complex industrial bids" "sounds like a résumé claim… in what capacity? I'd remove it." → "In complex industrial projects, decisions made during bidding can shape what a company is committed to delivering for years." Standing: no résumé openers for Sari.
+- **Yana:** "make total 5 hashtags, oil and gas or energy focus"; "make sure formatting consistent." → Five hashtags per post, CamelCase everywhere. Standing.
+
 ## 27 Oct 2026, lane names
 
 - **Yana:** "A · Elements of Style + Sari's direction / B · Enterprise-brand composite (Adobe, SAP, Salesforce, Apple, Slack) + Sari's direction. NAMES FOR LANES." → These are the official lane names everywhere. Standing.
