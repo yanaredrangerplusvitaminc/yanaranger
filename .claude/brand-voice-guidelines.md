@@ -57,6 +57,10 @@ Ranger works in North America, Europe, the GCC and Asia (intro deck: United Stat
 
 Lead with something the reader wants to know (an insight, a question the market is asking, what we see across clients), then who we are as the source of that view, then the event or the people. A paragraph that only lists who we work with and what we do is an advertisement and does not get read. (Yana, 27 Oct)
 
+## Invitations
+
+No conditional calls to action ("If that is a conversation for your team…": of course it is) and no directive "message us here". Close with a soft, confident invitation: "We look forward to comparing notes with many of you there." (Yana, 27 Oct)
+
 ## Positioning: use Sari's own words first
 
 Before writing any line about what Ranger does, reuse these. Do not paraphrase into weaker generic phrases ("bringing AI into…", "AI-powered workflows").
@@ -77,7 +81,7 @@ Before writing any line about what Ranger does, reuse these. Do not paraphrase i
 | Speaker | Industrial operator and ecosystem builder, C-suite peer. "I" for his view, "we" for Ranger. | The team that brings AI across an organization. "We". Calm, precise. |
 | Job | Credibility and ecosystem reach through tagged people. | Proof: clients, presence, sector data. |
 | Angles | Ecosystem moment with people tagged; numbered technical authority; a clear point of view. | Client win; sector benchmark; event presence (why meet, then thanks). |
-| Structure | Strongest line first; concrete industrial truth; one conversation or result; one first-person Ranger line; thanks and tags at the end; up to 4 hashtags; upcoming events in the first comment. | Fact first; who, what, where; one line on the vision; "message us here" when a CTA is needed. |
+| Structure | Strongest line first; concrete industrial truth; one conversation or result; one first-person Ranger line; thanks and tags at the end; up to 4 hashtags; upcoming events in the first comment. | An insight first; who, what, where; the differentiator as subtext; a soft invitation, never "message us here". |
 | Visual | Real photos only, no Ranger template. Him on stage, on a panel, with senior people. Crop below the waist. No staged close-ups. | Ranger design system (dark, Ranger wordmark, one lime phrase) or a clean real photo. Sector stock (oil and gas). Event logo with the Ranger logo. No selfies, no thumbs-up. |
 
 ## Images
