@@ -3,6 +3,12 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, Sari's direction gaps and the prospect read
+
+- **Yana:** "Are you sure the direction Sari gave has been considered? All points." Audit found gaps: leadership signal (test 1), insight (test 2), forefront and best clients (test 3), the 30% modern innovator, a reason to follow, Sari's forward personal close. Cutting "the industry's leaders have already moved that way" as unsourced was wrong: Sari allows perception statements on top-level posts.
+- **Yana:** read it as a prospect (an ADIPEC exhibitor, OEM with a bid process). Verdict: credible, safe, forgettable; "techno-commercial" is our word, not theirs; the bid moment is never named. → Name the prospect's moment in their words (inquiry lands, spec to price, deadline). Standing.
+- **Yana:** "Address the gaps within the Elements of Style or hybrid frame, and within Ranger positioning." → First slot rewritten on all four posts: pre-ADIPEC opens on the bid desk, uses Sari's approved "leading EPCs, NOCs and OEMs", deck wording, the leaders line restored; OTC gains "leading manufacturers" and a forward line; Sari's post gains his forward close; teaser split and "Ranger's AI" replaced.
+
 ## 27 Oct 2026, artifact comments on OTC and pre-ADIPEC
 
 - **Yana:** "Ranger's AI, what is it? Do we have our LLM? We have platform, and we have the team… don't say it verbatim." → "the AI platform we built for this work and a team that knows the industry from the inside". Standing.
