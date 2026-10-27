@@ -3,6 +3,10 @@
 Newest first. Each entry: date, post, who said it, the comment (their words where possible), what changed, toward what, rule (Standing or Situational).
 Older entries (2 Oct to 26 Oct) with full sources: section 8 of the editorial system Google Doc 1NGqd62XNo4dby65b22x5iMC8Tp2gHYbcX4CulktL9MM.
 
+## 27 Oct 2026, all posts rebuilt in the ChatGPT-draft style
+
+- **Yana:** "The other posts, can you write them the same way, using the ChatGPT style as an example?" → Model: event grounding, then the business lens for an executive ("For X, …"), then Ranger's AI platform and people who know the industry, then an honest next step. Both lanes on pre-ADIPEC, Sari and teaser rewritten. Standing as the reference style.
+
 ## 27 Oct 2026, titles in posts
 
 - **Yana:** "If we mention title, we say head of North America and head of EMEA commercial, or commercial head. We don't say co-founder." → Kyle Jordan: commercial head, North America. Sari Saadi: commercial head, EMEA. Never "Co-Founder" in post copy. Standing.
