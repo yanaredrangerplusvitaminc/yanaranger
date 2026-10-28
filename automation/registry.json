@@ -50,8 +50,8 @@
     },
     {
       "key": "account-health",
-      "name": "GCC account health check v1.1",
-      "trigger_id": "trig_01MqYWN3ENoe7nDNm1XkdxYc",
+      "name": "GCC account health check v1.2",
+      "trigger_id": "trig_015raFrWRGc2YM5zGToy2LNE",
       "layer": "2. Judgement: what needs action",
       "status": "live",
       "writes": [
@@ -69,7 +69,7 @@
         "board:items"
       ],
       "state": "Stateless; board item ids health-<slug> make it idempotent",
-      "note": "Reads all open board items first; if one covers the account and action, appends a Health line instead of creating. Moved to 08:17 and 14:17 so it sits 30 min from each reconcile run."
+      "note": "v1.2 (27 Oct): an agreed later date pauses follow-up checks. Runs 08:07 and 14:07, 20 min after reconcile in the same session."
     },
     {
       "key": "board-capture",
@@ -207,6 +207,11 @@
       "trigger_id": "trig_01TWCyZjJV2gEdFrV6QvrmtF",
       "name": "GCC CRM daily digest v2",
       "replaced_by": "watchdog"
+    },
+    {
+      "trigger_id": "trig_01MqYWN3ENoe7nDNm1XkdxYc",
+      "name": "GCC account health check v1.1",
+      "replaced_by": "account-health"
     }
   ],
   "rules": [
