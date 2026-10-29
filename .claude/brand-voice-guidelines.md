@@ -6,6 +6,7 @@ Applies to every email, message and post written for Yana.
 - Short, warm, precise. Soft power. Say less and mean it.
 - Senior and confident: the relationship and the reason for writing carry the message.
 - Plain words. No marketing pitch, no deck slogans, no hype.
+- Not over-polished. Short lines and closing lines often drop the final period (e.g. "asked me to get in touch", "or arrange a call the following week"). Mix it naturally; not every line.
 
 ## Never use
 - "I thought" (e.g. "I thought it would be good to connect")
