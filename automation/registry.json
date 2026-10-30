@@ -53,7 +53,7 @@
       "name": "GCC account health check v1.2",
       "trigger_id": "trig_015raFrWRGc2YM5zGToy2LNE",
       "layer": "2. Judgement: what needs action",
-      "status": "live",
+      "status": "paused",
       "writes": [
         "board:items:health-*",
         "slack-list:F0C9J845HQW:health"
@@ -69,7 +69,7 @@
         "board:items"
       ],
       "state": "Stateless; board item ids health-<slug> make it idempotent",
-      "note": "v1.2 (27 Oct): an agreed later date pauses follow-up checks. Runs 08:07 and 14:07, 20 min after reconcile in the same session."
+      "note": "v1.2 (27 Oct): an agreed later date pauses follow-up checks. Runs 08:07 and 14:07, 20 min after reconcile in the same session. Paused by the watchdog 30 Oct after 4 failed runs in a row (shared session restarts)."
     },
     {
       "key": "board-capture",
