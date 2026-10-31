@@ -28,7 +28,7 @@
       "name": "GCC CRM reconcile v2 (hourly)",
       "trigger_id": "trig_01LyfJ1xpRnzZp6zcCYiGN8Y",
       "layer": "1. Truth: keep the CRM current",
-      "status": "live",
+      "status": "paused",
       "writes": [
         "hubspot:deal-notes",
         "hubspot:next-step-and-tasks",
@@ -46,7 +46,8 @@
         "slack-list:F0C9J845HQW"
       ],
       "state": "Newest RUN row in Slack List F0C9J845HQW",
-      "approver": "Yana (prospects), Ibraheem (existing accounts)"
+      "approver": "Yana (prospects), Ibraheem (existing accounts)",
+      "note": " Off as of 31 Oct (paused by Yana through ADIPEC); rebuild on fresh sessions planned for 9 Nov."
     },
     {
       "key": "account-health",
