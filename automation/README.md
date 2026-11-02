@@ -22,5 +22,9 @@ Layers 1 to 3 run in one persistent session that holds the connectors.
 - Gulf time only in CRM notes.
 - Nothing customer-facing is ever sent.
 
+## Follow-up rules (Sari, team huddle 1 Nov 2026)
+- Yana drives follow-up momentum across the GCC pipeline, in sync with Sari. Prospects judge our delivery speed by our follow-up speed, so every open deal keeps a live, dated next step. Yana tracks and nudges follow-ups owned by others (Ibraheem in particular).
+- ADIPEC etiquette: no follow-up to ADIPEC leads during ADIPEC (2 to 5 Nov 2026) or the week after (9 to 13 Nov). ADIPEC follow-ups resume Mon 16 Nov 2026. Replies to messages they send us, and logistics for meetings already booked, are fine.
+
 ## Requirement
 Monaco and Apollo connector tools must be set to "Always allow" at claude.ai/customize/connectors, or unattended Monaco writes fail and are logged as Failed write.
