@@ -15,6 +15,39 @@ Status key
 
 ---
 
+## 2026-11-05. Petrofac: selective growth through disciplined bidding
+
+**Source**: Oil & Gas Middle East cover story, shared by Sari in #ranger-gtm on 4 Nov 2026 as "a great way to describe one of the capabilities we support our clients with".
+**Verdict**: use it. It names the tendering problem in the buyer's own words.
+
+### What was said
+
+1. **Headline.** Petrofac's Manish Bhojwani says selective growth and consistent execution will define the company's next phase. Status: verified for the headline only, from the cover image Sari shared.
+2. **Theme.** The magazine describes the story as Petrofac resetting its growth strategy around disciplined bidding, governance and execution. Status: secondary ([Oil & Gas Middle East](https://www.oilandgasmiddleeast.com/)). Article body not found.
+3. **Context.** Petrofac went through administration and a creditor-approved restructuring, including the sale of Asset Solutions. Status: secondary ([administration](https://www.oilandgasmiddleeast.com/news/petrofac-enters-administration), [CVA approved](https://www.oilandgasmiddleeast.com/news/petrofac-cva-approved)).
+
+### Why it matters for Ranger
+
+1. **The capability.** For an EPC (engineering, procurement and construction contractor), selective growth means bidding on fewer tenders and winning the right ones. That is our tendering workflow: read the tender pack fast, see the risk early, decide bid or no-bid, and respond consistently.
+2. **Buyer language.** "Disciplined bidding" and "consistent execution" are how EPC leadership talks about the problem. We can use their words rather than ours.
+3. **Gulf relevance.** Petrofac's core markets are the Middle East and North Africa. The theme fits our EMEA and Gulf focus after ADIPEC.
+4. **Our clients bid into EPCs.** Suppliers like KES respond to EPC tenders, including Petrofac packages. Selectivity at the EPC raises the bar for every supplier bid. Internal only, not for external use.
+
+### How we could use it
+
+1. **Capability line.** One line for the tendering capability: "Bid on fewer tenders, win the right ones, and respond the same way every time."
+2. **Thought leadership.** A post from Sari on selective growth in EPC: why bid discipline starts with reading the tender pack properly, and where AI that cites every page helps.
+3. **Discovery question.** For EPC and supplier first calls: "How do you decide which tenders to pursue, and how long does that decision take?"
+
+### Cautions
+
+1. **Read the article first.** Only the headline is confirmed. We should read the full piece before quoting Bhojwani.
+2. **Sensitive company.** Petrofac is coming out of administration. Reference the theme, not the restructuring, and never imply a relationship.
+3. **Client confidentiality.** Our clients' work on Petrofac bids stays internal.
+4. **Not in CRM.** Petrofac has no company record in HubSpot. Worth deciding whether it belongs on a named account tier.
+
+---
+
 ## 2026-11-05. Palantir: "The atomic unit is the workflow"
 
 **Source**: LinkedIn post shared by Yana, on Palantir's Q3 2026 earnings call (Monday 2 Nov 2026).
