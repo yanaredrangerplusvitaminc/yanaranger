@@ -15,6 +15,44 @@ Status key
 
 ---
 
+## 2026-11-05. IFS Intelligence: "understands your operations, not just your documents"
+
+**Source**: [IFS Intelligence product page](https://www.ifs.com/en/products/ai/ifs-intelligence), shared by Yumna in #ranger-gtm on 4 Nov 2026. Page capture dated 5 Nov 2026, provided by Yana.
+**Verdict**: watch and position against it. Adjacent, not head-on, but their headline aims at document AI.
+
+### What was said
+
+All claims below are verified against the page capture. They are IFS marketing claims, not tested capability.
+
+1. **Positioning.** "Industrial AI at the point of work." The hero line: "IFS Intelligence understands your operations, not just your documents."
+2. **Scope.** One intelligence layer across orders, production, logistics and maintenance, grounded in data already inside IFS (their ERP, asset and field service software).
+3. **Three modes.** Cowork to ask and act, Loops for AI agents that work within rules, such as order expediting and maintenance scheduling, and Runway to build customisations.
+4. **Governance.** An "Industrial AI Harness" with identity, approvals, risk and audit. The AI prepares a change and a named person approves or declines it, with a full audit trail.
+5. **Engineer-to-order.** Named under "Invest": spot a project slipping, prepare the change order, route it for approval.
+6. **Availability.** Waitlist only. No pricing, no customer names on the page.
+
+### Why it matters for Ranger
+
+1. **Their headline is a jab at us.** "Not just your documents" frames document AI as the lesser category. Buyers will hear this from a vendor they already pay.
+2. **Different starting point.** IFS reasons over structured data already in the system. Our work starts earlier: the customer's inquiry, specs and tender pack, before anything exists in an ERP. The quote is built before the order is entered.
+3. **Human-in-control is now table stakes.** Approvals and audit trails are their main message. "Humans decide" alone will not set us apart. Citing the exact page, and saying "not found", still can.
+4. **ERP vendors are moving in.** Industrial buyers on IFS may expect AI to come bundled. Our case has to be the workflow IFS does not cover.
+
+### How we could use it
+
+1. **Positioning line.** "Your ERP knows what is in your system. Ranger reads what is not in it yet: the customer's spec."
+2. **Objection handling.** When a buyer says "our ERP vendor is adding AI", ask where their inquiries and tender documents live before they reach the ERP.
+3. **Account check.** Find which named accounts run IFS. They could be a risk or a fit, depending on whether we sit in front of their ERP.
+4. **Partnership angle.** IFS runs a partner programme. A Ranger-to-IFS handoff, from quote to order, may be worth a conversation later.
+
+### Cautions
+
+1. **Not yet live.** It is a waitlist page, so claims are untested. We should not attack features buyers cannot see yet.
+2. **No public comparison.** We position ourselves, we do not name IFS in external material.
+3. **Watch the release.** Worth checking again when it reaches general availability, especially whether Loops reaches quoting or tendering.
+
+---
+
 ## 2026-11-05. Petrofac: selective growth through disciplined bidding
 
 **Source**: Oil & Gas Middle East cover story, shared by Sari in #ranger-gtm on 4 Nov 2026 as "a great way to describe one of the capabilities we support our clients with".
