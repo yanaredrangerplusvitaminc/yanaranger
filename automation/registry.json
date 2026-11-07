@@ -183,7 +183,7 @@
         "monitoring services (none connected)"
       ],
       "state": "Stateless",
-      "note": "Found 3 Nov, created 2 Nov via the Routines page. Generic monitoring template with no connectors; flagged to Yana."
+      "note": "Created 2 Nov from the Routines page; rescheduled by Yana 6 Nov to 12:47 Paris daily, so kept deliberately. No connectors attached."
     }
   ],
   "superseded": [
