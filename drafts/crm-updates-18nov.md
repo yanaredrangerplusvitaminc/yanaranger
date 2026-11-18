@@ -3,7 +3,7 @@
 For ChatGPT: apply section B and C of each CRM exactly as written. Do not rewrite values. Skip anything marked "flag" or "decision". Do not create tasks. Do not touch Kyle's or James's records.
 
 - Part 1: HubSpot (portal 50917387). Section A is already done; apply B and C.
-- Part 2: Monaco. To follow in this file once the Monaco check finishes.
+- Part 2: Monaco. Part A is already done; apply Part B (updates, new opportunities, contact fixes).
 
 ---
 
@@ -1122,3 +1122,320 @@ Amount: not yet sourced. Close date: not yet sourced.
 12. Active board accounts with no Sari/Yana deal (not created): Al Serkal, Solar Turbines (reopened 11 Nov), EDF, EDGO, DECO, Goma, Ocean Drone, CTM, AUMA, Carbon Clean, Exceed, TGSK, Engineering Solutions, Emerson, Wellbore, McDermott, ODINN, Gain.Energy (partners), Celeros RFX/Pumps/Vulcan and Farabi (customer tracks; Celeros Pumps and Vulcan show closed lost in HubSpot but active on the board). Teksan, Handol, Franco Tosi, ETS, EGS, Busch are Ibraheem-owned deals, not touched.
 13. Teleb (Celeros): Sari spoke with him 18 Nov 14.41 about a case study presentation; left unresolved per instruction, not written into the Celeros deal.
 14. Sirius (Canada) likely belongs to Kyle's North America team.
+
+
+---
+
+# PART 2: MONACO
+
+# Monaco pipeline reconciliation, Wed 18 Nov 2026
+
+Sales call: Weekly sales ops, Wed 18 Nov, 17.00 to 17.45 Madrid / 20.00 to 20.45 Dubai (Zoom, Kyle organiser). Source: Google Calendar.
+Pipeline: Monaco "Default". Stage keys: meeting_booked, potential_lead, lead_qualified, technical_validation, pilot_scoping, pilot, pricing_agreement, purchasing_order, nurture, closed-won, closed-lost, closed-disqualified.
+Monaco owner IDs: Sari 01a0eb52-9e01-7c95-9780-dbbc7257e21d, Yana 01a0f86a-3f6f-733e-881a-2e503f78fbf1, Ibraheem 01a0f819-c86a-7319-a53e-5b88f0ecc685, Yumna 01a10c14-c384-7170-bee5-36adb7975e87.
+Note format used on every written record: "Current state, 18 Nov 2026" block (who, what happened, last touch, status, next step and date, owner, amount and close date or "not yet sourced", sources), then "--- Earlier notes (superseded) ---" with the prior text kept.
+
+Writes stopped at Yana's request after the Velan update (approval prompts). Part B lists what is left for ChatGPT to apply.
+
+## A. Already written in Monaco (18 Nov, about 06.28 to 07.03 PT / 15.28 to 16.03 Madrid)
+
+| Opportunity | ID | Stage change | Notes |
+|---|---|---|---|
+| italbestvalve.com | 01a1e3d7-02d1-7fa0-9516-a9afc5742f0f | Potential Lead to Lead Qualified | current state written |
+| ADNOC AI Lab - Issuer collaboration | 01a0e954-173e-7e6d-9c43-ace0f6e115d3 | none | current state + superseded |
+| SPP Pumps (Rowan Dressel) | 01a11b4f-f174-7896-899b-4ac4a9ca8308 | none | current state + superseded |
+| Trillium (Christian Ricci) | 01a1a1d6-db22-76ad-9771-0bab0ba28124 | none | current state + superseded |
+| PDTMC | 01a0e954-0d3f-79d3-aca7-ebcf9c6d8d67 | none | current state; close date 20 Oct flagged |
+| Baker Hughes (Rohit Davidson) | 01a1a1d7-3e27-7eef-8ea5-d20fb8135ccd | Potential Lead to Lead Qualified | current state + superseded |
+| Emdad V2 | 01a0e953-bec6-7141-bfc9-79ac40e3e23f | Potential Lead to Pilot Scoping | current state; close date 31 Oct flagged |
+| Triveni (Rishi Bharadwaj) | 01a11b4f-9f06-700e-a9a2-09901c929768 | Potential Lead to Lead Qualified | current state + superseded |
+| SBM Offshore - Parts Cataloging + CBE | 01a0e953-a13e-7ab6-aa79-75d0990556cb | none (flagged) | current state + superseded |
+| VEGA (Gurvinder Singh) | 01a1a1f2-bc5d-78c1-8fbf-f237ba631cbd | Potential Lead to Lead Qualified | current state + superseded |
+| Flowserve (Tawheed Shehata) | 01a1542c-a259-7c7f-854d-63afae8b676f | Potential Lead to Lead Qualified | current state + superseded |
+| Klaus Union | 01a1a1f3-3171-77ee-ae61-069bdbbe9673 | none | current state + superseded |
+| Airpack (Lenneke) | 01a1a1d6-fb07-7551-918e-0f2799de0986 | none | current state + superseded |
+| De Pretto (Diego Ruaro) | 01a13b0f-d34e-7289-a71c-61c4668c3e44 | none | next step: Sari emails Massimo Thu 19 Nov |
+| Mannesmann Energy | 01a11b4f-bb9a-7fcf-83f1-cec891876cb2 | Meeting Booked to Potential Lead | current state + superseded |
+| khadamat.ae | 01a1ab4a-3eb7-70cb-9387-e1362e4bfe52 | Meeting Booked to Potential Lead; No Show = true | current state |
+| Solutions+ - Channel Partnership | 01a13143-41ef-7f65-883b-fa57746898ba | none | current state + superseded |
+| MISL - ITO Launch | 01a13b00-b209-70ba-90d8-664883f57f81 | none | current state + superseded |
+| IFS - Technology Partnership | 01a13143-4fab-7b7d-ac6f-404daf21bf44 | none (close decision for Yana) | current state + superseded |
+| Flexitallic (Jerin) | 01a13b0f-a210-79fe-bcaf-a4d21763568a | Meeting Booked to Potential Lead | current state + superseded |
+| TechnipFMC (Garrett Dobson) | 01a1a1c8-b5ee-7e14-aabe-2475046284dc | none | next step: Sari emails Garrett Thu 19 Nov, Kyle cc |
+| Wärtsilä (Alexandre Eykerman) | 01a18230-6950-75d7-8092-95af117e6b4d | none | next step: Sari emails Alexandre Thu 19 Nov |
+| Ebara Elliott (Fadi Atallah), Sari | 01a1a1e3-bbdc-7ed5-ada4-ce17680fdb8d | Potential Lead to Lead Qualified | current state + superseded |
+| Ebara Elliott (Fadi Atallah), Yana | 01a163ed-5455-7f67-8524-0655fb8e90b3 | none | marked DUPLICATE |
+| SLB (GCC) | 01a1a1d8-5e48-7ef4-8def-515817cbb25a | Lead Qualified to Nurture (on hold per Kyle) | current state + superseded |
+| Cannon Artes | 01a1a1cb-65e3-7d19-b269-69ecc830e34c | none | current state + superseded |
+| Weatherford - Opportunity | 01a0e953-c4bb-7208-9386-3266dba074e3 | none | current state; close date 14 Nov flagged |
+| netveva.com | 01a18390-d7f4-7fb1-98f5-1995ddaf9e7a | Potential Lead to Nurture | current state |
+| AEG Power Solutions | 01a11b5c-40d1-7164-be92-d428c9494781 | Meeting Booked to Nurture | current state + superseded |
+| COOEC | 01a15353-b502-71bc-8abe-aaf6cf1c0a83 | Nurture to Disqualified (Sari's rule, board) | current state + superseded |
+| Victaulic (Zeyd) | 01a13b0e-f9e3-75c9-b0f5-87261b547988 | Meeting Booked to Potential Lead | current state + superseded |
+| Busch Vacuum | 01a13b0f-e113-755b-bc68-e21e4966c3dc | Meeting Booked to Potential Lead | current state + superseded |
+| Halliburton (Ahmed Aboulenein) | 01a13f87-3c36-7c3c-bdea-e7f70f1d7c2f | Meeting Booked to Potential Lead | current state + superseded |
+| Ali & Sons - Land | 01a0e953-c150-7b9e-b4cb-33bc0bf191c6 | Nurture to Pilot Scoping | current state + superseded |
+| Torishima Service Solutions | 01a1ed47-267b-7939-8be9-d4e5248febdb | none | POC scoping Fri 20 Nov (Monaco activity) |
+| Toroshima (old) | 01a0e954-0905-7831-91d5-61c907a99dee | Lead Qualified to Nurture | marked DUPLICATE |
+| INNIO Jenbacher | 01a13b00-f00a-7b82-8c08-7cee83105265 | none | current state + superseded |
+| Inception42 | 01a13143-33a4-7c7b-853c-0d576c1c5d79 | Potential Lead to Nurture | current state + superseded |
+| Nordic Flow | 01a0e953-a3c9-7b82-9259-c2d413c94be5 | none (Closed Lost decision for Yana) | current state |
+| Autad Construction - Land | 01a0e954-48c8-7813-9b62-1a9fefcf497a | none (stale, flagged) | current state + superseded |
+| LEWA (Sudheer Shetty) | 01a11b5e-a630-78ee-934f-483a9c1c7d83 | none | current state + superseded |
+| Velan (Vijay Shankar) | 01a11b5e-c3b5-7c5d-90ad-b63dd8febced | none | current state + superseded |
+
+Denied by approval prompt (not written): Rejlers, DGE. Both are in Part B.
+
+## B. Still to apply (ChatGPT)
+
+### B1. Rejlers - AskRanger + RFI
+- ID: 01a0e954-0b1e-722c-8436-877a3bd734cc. Stage: keep Nurture. Amount: keep 45,000 (not re-verified). Close date: leave; note says not sourced.
+- Notes (replace with):
+```
+Current state, 18 Nov 2026
+Who: Rejlers (no current contact named; Anam or the AI director to be confirmed). Ranger: Sari (owner), Yana.
+What happened: dormant; no ADIPEC meeting found. Rejlers has its own AI tooling sold to ADNOC (low probability).
+Last touch: not found in Gmail, Slack or Monaco since the Sept 2026 restart note.
+Status: dormant.
+Next step: Yana asks Sari whether Rejlers was approached at ADIPEC and whom to target, then drafts the re-approach. Due Fri 20 Nov.
+Owner: Sari (opportunity), Yana (re-approach).
+Amount: 45,000 USD as previously recorded, not re-verified. Close date: 29 Nov 2026 recorded, not sourced (HubSpot close 30 Sep passed).
+Sources: board (rejlers); HubSpot 63144038729.
+
+--- Earlier notes (superseded) ---
+Restart technical validation Sept 2026
+```
+
+### B2. DGE - Pilot (Reset)
+- ID: 01a0e953-f88e-71d0-a4ec-3ec7971a24d8. Stage: keep Nurture.
+- Notes:
+```
+Current state, 18 Nov 2026
+Who: DGE (contact name not in records). Ranger: Sari (owner), Yana.
+What happened: pilot reset blocked on Ranger's own bank account and DGE vendor registration (Sari, due 9 Nov).
+Last touch: not found in Gmail, Slack or Monaco.
+Status: on hold, blocked on our side.
+Next step: Sari registers Ranger as a DGE vendor once the bank account is ready, then restarts the pilot; Yana checks bank-account and vendor status with Sari by Tue 1 Dec.
+Owner: Sari.
+Amount: 40,000 USD as previously recorded, not re-verified. Close date: 30 Jan 2027 recorded, not sourced.
+Sources: board (dge); HubSpot 63280673646.
+
+--- Earlier notes (superseded) ---
+Restart Sept 2026 after office opening
+```
+
+### B3. FireDos (Stuart Phythian)
+- ID: 01a11b50-0a30-749a-8ddb-c093cfc1f98f. Stage: keep Nurture.
+- Notes:
+```
+Current state, 18 Nov 2026
+Who: Stuart Phythian, FireDos. Ranger: Yana.
+What happened: Stuart preferred no diary slot at ADIPEC (approach at Hall 8, 8912); no visit note found.
+Last touch: Oct 2026 (LinkedIn, before ADIPEC).
+Status: nurture.
+Next step: Yana sends Stuart a light follow-up. Due Thu 19 Nov.
+Owner: Yana.
+Amount and close date: not yet sourced.
+Sources: board (firedos); HubSpot 365225641673.
+
+--- Earlier notes (superseded) ---
+Not a booked meeting (reviewed 14 Oct 2026). Stuart: "Feel free to make contact", stand Hall 8, German pavilion, 8912. Declined a diary slot: "would prefer to keep ADIPEC flexible, unless it's a client." Approach at the stand during ADIPEC.
+```
+
+### B4. Howden / Chart Industries (Alaa Massad)
+- ID: 01a11b5e-df49-7ade-af62-5d1534694c02. Stage: keep Nurture.
+- Notes:
+```
+Current state, 18 Nov 2026
+Who: Alaa Massad, Howden (Chart Industries, now part of Baker Hughes). Ranger: Yana.
+What happened: Alaa did not attend ADIPEC; Yana asked for an attending colleague. Chart is now Baker Hughes, so this aligns with Sari's Rohit Davidson thread.
+Last touch: Oct 2026 (LinkedIn).
+Status: on hold.
+Next step: hold until the Baker Hughes (Chart) Teams session with Rohit is set (offered Thu 19 or Fri 20 Nov).
+Owner: Yana.
+Amount and close date: not yet sourced.
+Sources: board (howden); HubSpot 365246792421.
+
+--- Earlier notes (superseded) ---
+Alaa is not attending ADIPEC; Yana asked for an introduction to an attending Howden colleague. Keep as nurture/referral path.
+```
+
+### B5. Everllence (Gaby Hanna)
+- ID: 01a11b5e-8c7b-7800-8736-4dd855e573ba. Stage: keep Nurture.
+- Notes:
+```
+Current state, 18 Nov 2026
+Who: Gaby Hanna, Everllence. Ranger: Yana.
+What happened: Gaby said Everllence already has a large AI initiative; Yana positioned Ranger as complementary. No meeting agreed or held.
+Last touch: Oct 2026 (LinkedIn).
+Status: nurture.
+Next step: Yana includes Everllence in the first post-ADIPEC follow-up to everyone not yet met. Due Thu 19 Nov.
+Owner: Yana.
+Amount and close date: not yet sourced.
+Sources: HubSpot 365133392615.
+
+--- Earlier notes (superseded) ---
+Established conversation. Gaby said Everllence already has a large AI initiative; Yana reframed Ranger as complementary to existing AI strategy. No meeting agreed yet.
+```
+
+### B6. Enerflex (Mohammad Oweis)
+- ID: 01a163d4-5e25-710d-8f85-521affd85eb6. Stage: keep Nurture.
+- Notes: prepend this block, keep existing text below "--- Earlier notes (superseded) ---":
+```
+Current state, 18 Nov 2026
+Who: Mohammad Oweis, Enerflex. Ranger: Yana.
+What happened: general "welcome to visit our booth" (12 Oct); no reply to Yana's request for a time; no ADIPEC meeting found.
+Last touch: 13 Oct 2026 (LinkedIn, Yana).
+Status: nurture.
+Next step: Yana includes Enerflex in the first post-ADIPEC follow-up to everyone not yet met. Due Thu 19 Nov.
+Owner: Yana.
+Amount and close date: not yet sourced.
+Sources: HubSpot 365282791150.
+```
+
+### B7. Emdad (V1, no owner)
+- ID: 01a0e953-a80a-74c2-95b7-c1e16ec5a14b. Stage: Pilot Scoping to Nurture (avoid double count). Owner: leave.
+- Notes: prepend:
+```
+DUPLICATE / SUPERSEDED, 18 Nov 2026: current Emdad work is on "Emdad V2" (01a0e953-bec6, owner Sari, Pilot Scoping). This V1 record (close date 13 Aug 2026) is kept for history; proposed for closing at Yana's decision.
+```
+
+### B8. New opportunities to create (accounts exist in Monaco; amount and close date blank unless stated)
+Each note uses the same current-state format; text below is ready to paste.
+
+1. Lamar Holding - Mega project bidding engine. Account 01a11c53-e874-79f9-a188-6606a1c498c2 (lamar-holding.com). Owner Sari. Stage lead_qualified.
+```
+Current state, 18 Nov 2026
+Who: Shady, Lamar Holding. Ranger: Sari.
+What happened: Sari spoke with Shady 17 Nov: call back mid-December once he has hired two internal AI solutions roles; two candidate companies within the holding for PoCs.
+Last touch: 17 Nov 2026 (call, Sari).
+Next step: Sari calls Shady back, week of 14 Dec.
+Amount and close date: not yet sourced.
+Sources: board (lamar); HubSpot 363318874857.
+```
+2. Petroserve International - ITO Automation. Account 01a10c68-067c-7c9c-b5ab-076406ba37b1. Owner Sari. Stage pilot_scoping. Amount 45,000 USD (source: HubSpot 350276397794).
+```
+Current state, 18 Nov 2026
+Who: Sheikh Umar and Ayesha, Petroserve. Ranger: Sari.
+What happened: PoC proposal sent 29 Sep, unanswered; they lean towards OTR rather than ITO; Sheikh Umar travelling on other projects.
+Last touch: 29 Sep 2026 (proposal).
+Next step: Sari sends the Sheikh a light check-in (board due Tue 17 Nov, overdue).
+Amount: 45,000 USD per HubSpot. Close date: not yet sourced.
+Sources: board (petroserve); HubSpot 350276397794.
+```
+3. Wood Group - ADIPEC 2026 lead. Account 01a1a7a9-74d6-74dc-9fda-9626b645e8ed (Wood). Owner Sari. Stage lead_qualified.
+```
+Current state, 18 Nov 2026
+Who: Scott and Melissa, Wood. Ranger: Sari.
+What happened: POC path agreed at ADIPEC; introduction to Melissa expected from Scott.
+Last touch: early Nov 2026 (ADIPEC).
+Next step: if no introduction to Melissa by Wed 18 Nov, Sari nudges Scott (due today).
+Amount and close date: not yet sourced.
+Sources: board (wood); HubSpot 362172191463.
+```
+4. Saipem - ADIPEC 2026 lead. Account 01a0e960-7333-7aa2-a268-f26071217be5. Owner Sari. Stage potential_lead.
+```
+Current state, 18 Nov 2026
+Who: Saipem regional manager (met at ADIPEC); inbound lead Anthony Quick, Abu Dhabi (Facebook ad, HubSpot contact 598316877548). Ranger: Sari, Ibraheem, Yana.
+What happened: the regional manager asked us to register as a vendor (SupplHi) to continue; registration in progress (Ibraheem, #customer-leads 18 Nov 15.18 Madrid). Sari asked Yana for the Saipem email 18 Nov; Lucy to confirm whether Anthony downloaded the sheet.
+Last touch: 18 Nov 2026 (internal).
+Next step: Yana sends the Saipem email, scheduled Thu 19 Nov morning Dubai, once Lucy confirms the sheet; Ibraheem completes SupplHi registration.
+Amount and close date: not yet sourced.
+Sources: #customer-leads 17 to 18 Nov; Slack DM Sari 18 Nov; HubSpot 362425302742.
+```
+5. Alfa Laval - Opportunity. Account 01a1542b-ad40-7776-8028-a42003008973. Owner Yana. Stage potential_lead.
+```
+Current state, 18 Nov 2026
+Who: Jordi Gollart, VP Service Division MESEA and GM Saudi Arabia, Alfa Laval. Ranger: Yana, Sari.
+What happened: nudge sent Mon 16 Nov 13.00 Madrid (Sari cc). No reply yet.
+Last touch: 16 Nov 2026 (email, Yana).
+Next step: if no reply by Mon 23 Nov, Yana asks Sari whether Jordi's LinkedIn note came to him; if so, Sari replies on LinkedIn.
+Amount and close date: not yet sourced.
+Sources: board (alfalaval); HubSpot 365288190690.
+```
+6. Lamprell - ADIPEC 2026 lead. Account 01a181c0-0db9-7bf0-8509-16eb80d7e26d. Owner Sari. Stage potential_lead.
+```
+Current state, 18 Nov 2026
+Who: Ian Prescott (CEO) and Rika Yoshitomi (CEO office), Lamprell. Ranger: Sari, Yana.
+What happened: ADIPEC meeting moved; 2 Nov Rika asked to get back about an online meeting. Nothing since.
+Last touch: 2 Nov 2026 (email, Rika).
+Next step: Yana's nudge to Rika is drafted (Gmail, 18 Nov), offering Ian and Sari online Thu 26 Nov 13.00 or Mon 30 Nov 11.00 UAE; scheduled Thu 19 Nov morning Dubai.
+Amount and close date: not yet sourced.
+Sources: board (lamprell); Gmail drafts 18 Nov; HubSpot 365151391448.
+```
+7. Gradiant - WETEX 2026 lead. Account 01a0d6f4-8dbe-727d-8327-00da58fcbfa6. Owner Yana. Stage potential_lead.
+```
+Current state, 18 Nov 2026
+Who: Shafna Faziludeen, Head of Process Engineering (ME), Gradiant. Ranger: Yana, Sari.
+What happened: emails 29 Oct and 11 Nov (team visit offered 17 or 19 Nov). No reply. Sari calls in parallel.
+Last touch: 11 Nov 2026 (email, Yana).
+Next step: nudge drafted 18 Nov (visit Tue 24 or Wed 25 Nov), scheduled Thu 19 Nov morning Dubai; Sari calls Shafna.
+Amount and close date: not yet sourced.
+Sources: board (gradiant); Gmail; HubSpot 365231042248.
+```
+8. Danway - WETEX 2026 lead. Account 01a1c5f0-8375-7fc2-a953-679bef93e030 (Danway Group; a duplicate Danway account exists). Owner Yana. Stage nurture.
+```
+Current state, 18 Nov 2026
+Who: Ayan Chandra Banerjee, Danway. Ranger: Yana, Sari.
+What happened: first WETEX email 11 Nov 11.40 Madrid (team visit offered 18 or 19 Nov). No reply. On hold: contractor leads kept slow.
+Last touch: 11 Nov 2026 (email, Yana).
+Next step: none this week (on hold).
+Amount and close date: not yet sourced.
+Sources: board (danway); HubSpot 365243192018.
+```
+9. IYYM - Opportunity. Account 01a187ff-df9f-7b77-ac6f-5b05531d1e67 (iyym.com). Owner Sari. Stage potential_lead.
+```
+Current state, 18 Nov 2026
+Who: Nishant Cherian, IYYM (pumping systems, panels, fuel transfer). Ranger: Sari, Yana.
+What happened: met at WETEX; emails 29 Oct and 11 Nov. Sari called 18 Nov: hesitant, wants the introduction document and an invitation to a scoping call, then a proof of concept within two weeks.
+Last touch: 18 Nov 2026 (call, Sari).
+Next step: Yana's reply with the Ranger introduction PDF and scoping-call slots (Tue 24 Nov 13.00 or Mon 30 Nov 16.30 UAE) is drafted, scheduled Thu 19 Nov morning Dubai.
+Amount and close date: not yet sourced.
+Sources: Slack DM Sari 18 Nov 12.13 Madrid; Gmail drafts 18 Nov; board (iyym).
+```
+10. SAPAG Valves - WETEX 2026 lead. Account 01a1787a-aaa1-71de-a839-5fbfd3e12803 (sapag-valves.com). Owner Yana. Stage potential_lead.
+```
+Current state, 18 Nov 2026
+Who: Jean-Luc Ndikumana, SAPAG (French valve maker, IPI Group). Ranger: Yana, Sari.
+What happened: Sari visited their WETEX booth in October; emails 30 Oct and 11 Nov (call offered 17 or 19 Nov). No reply.
+Last touch: 11 Nov 2026 (email, Yana).
+Next step: nudge drafted 18 Nov (call Tue 24 or Thu 26 Nov), send per his location.
+Amount and close date: not yet sourced.
+Sources: board (sapag); Gmail.
+```
+11. Ingersoll Rand Custom Air & Gas - ADIPEC 2026 lead. Account: confirm the right one before creating (01a0d6f9-7b21-7b48-ba76-a60f2194d180 "Ingersoll Rand", assigned Sari, US). Owner Sari. Stage potential_lead.
+```
+Current state, 18 Nov 2026
+Who: Sachin, Ingersoll Rand Custom Air & Gas. Ranger: Sari, Ibraheem, Yana.
+What happened: met at ADIPEC.
+Next step: Sari emails Sachin, scheduled Thu 19 Nov morning Dubai.
+Amount and close date: not yet sourced.
+Sources: Slack DM Sari 18 Nov 15.31 Madrid; board (ingersoll); HubSpot 361212979925.
+```
+12. Corodex Electromechanic - WETEX 2026 lead. Account: not found in this sync; create or locate first. Owner Sari. Stage potential_lead.
+```
+Current state, 18 Nov 2026
+Who: Taiseer Haddad, Corodex. Ranger: Sari, Yana.
+Next step: Sari emails Taiseer, scheduled Thu 19 Nov morning Dubai.
+Amount and close date: not yet sourced.
+Sources: Slack DM Sari 18 Nov 15.31 Madrid; board (corodex); HubSpot 365288191677.
+```
+Not created, account missing in Monaco: ASRY (board: "Monaco account not found").
+Tecnimont: not in Sari's Thu 19 batch; timing is Sari's call. No change.
+
+### B9. Contact links to fix (account-wide auto-links, not the real people)
+- TechnipFMC 01a1a1c8: about 100 contacts linked. Keep Garrett Dobson (01a19c09-6e92-7a73-82dd-43340ee37d5f, to verify); unlink the rest.
+- Halliburton 01a13f87: about 150 linked. Keep Ahmed Aboulenein and Matt Lang.
+- IFS 01a13143-4fab: about 100 linked. Keep Mu'adh (01a135b1-d428-72b3-a3ee-1e95aba2704e).
+- Flexitallic 01a13b0f-a210: about 35 linked. Keep Jerin and Rajaprakash.
+- Victaulic 01a13b0e-f9e3: about 58 linked. Keep Zeyd.
+- Weatherford 01a0e953-c4bb: about 39 linked. Keep Fabian Wendlinger.
+- Velan 01a11b5e-c3b5: about 21 linked. Keep Vijay Shankar.
+- Baker Hughes 01a1a1d7: about 2,400 linked. Keep Rohit Davidson.
+- No contacts linked: SLB (GCC) 01a1a1d8, INNIO 01a13b00-f00a, Autad 01a0e954-48c8, Toroshima (duplicate). Link: SLB Awais Baig if present; INNIO Markus Strömich-Jenewein; Autad Saad Adada.
+
+### B10. Out of scope, flagged only
+- EMEA records with no owner: SBM (suggest Yumna), Emdad V1, Celeros GD Engineering, Stainless Piping (James), All Trans UAE, Innovo Group, Khoury, McDermott, Desert Technologies, KES Track B, Koch Line Item 2, PumpWorks / DXP, Canadian Construction. Owners to assign.
+- Customer delivery records (Celeros, KES/Koch, PumpWorks, DXP) not touched.
+- Kyle's "Slb" not touched.
+- Teleb: unresolved, left.
