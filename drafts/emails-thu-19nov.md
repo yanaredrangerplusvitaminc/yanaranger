@@ -83,22 +83,7 @@ Times are Madrid / Dubai. Every email is from Yana with Sari in cc unless stated
 > Kind regards,
 > Yana
 
-### 6. Gradiant, Shafna Faziludeen: 05.56 / 08.56
-- **Thread:** reply on "Shafna and Sari, following WETEX" (last sent 11 Nov, offering Tue 17 or Thu 19; no reply)
-- **To:** sfaziludeen@gradiant.com
-- **Cc:** Sari
-- **Context:** the board says Yana nudges and Sari calls in parallel (due 16 Nov, overdue). In Growth + Value on 16 Nov, Sari listed Gradiant for a call-plus-email from him.
-
-> Dear Shafna,
->
-> I hope you are well. Sari and our team would be glad to visit you and your process engineering team in the coming days.
->
-> Would Tuesday 24 or Wednesday 25 November suit you?
->
-> Kind regards,
-> Yana
-
-### 7. Lamprell, Rika Yoshitomi: 06.18 / 09.18
+### 6. Lamprell, Rika Yoshitomi: 06.18 / 09.18
 - **Thread:** reply on "Meeting at ADIPEC, Ian Prescott and Sari Saadi"
 - **To:** ryoshitomi@lamprell.com
 - **Cc:** Sari
@@ -116,7 +101,7 @@ Times are Madrid / Dubai. Every email is from Yana with Sari in cc unless stated
 > Kind regards,
 > Yana
 
-### 8. Dubai Future Week, Ghaith Abdulrahman: 06.24 / 09.24
+### 7. Dubai Future Week, Ghaith Abdulrahman: 06.24 / 09.24
 - **Thread:** reply on "Sari Saadi for Dubai Future Week 2026"
 - **To:** Ghaith.Rahman@dubaifuture.gov.ae
 - **Cc:** Sari
@@ -129,7 +114,7 @@ Times are Madrid / Dubai. Every email is from Yana with Sari in cc unless stated
 > Kind regards,
 > Yana
 
-### 9. Liebherr, Sanjay Khunt: 07.07 / 10.07
+### 8. Liebherr, Sanjay Khunt: 07.07 / 10.07
 - **Thread:** reply on "Ranger, following ADIPEC" (sent 13 Nov with the brochure; no reply)
 - **To:** sanjay.khunt@liebherr.com
 - **Cc:** Sari
@@ -142,23 +127,7 @@ Times are Madrid / Dubai. Every email is from Yana with Sari in cc unless stated
 > Kind regards,
 > Yana
 
-### 10. Cannon Artes, Mauro Monti: 09.07 / 12.07
-- **To:** mmonti@cannon.com
-- **Cc:** Sari
-- **Subject:** Cannon Artes and Ranger, following ADIPEC
-- **Attach:** the Ranger AI Introduction PDF
-- **Context:** Sari met Mauro (Area Manager) at ADIPEC on 2 Nov. He wants something tangible to try within two to four weeks. Nothing has been sent; it has been due since 13 Nov. The old Thu 19 slot is replaced.
-
-> Dear Mauro,
->
-> Thank you for your conversation with Sari at ADIPEC. As agreed, the next step is a session to set up a short, tangible proof within the timeframe you mentioned.
->
-> Would Tuesday 24 November or Wednesday 25 November at 10.00, Italy time, suit you?
->
-> Warm regards,
-> Yana
-
-### 11. Kirloskar Pneumatic, Dheeraj Jadhav: 07.15 / 10.15
+### 9. Kirloskar Pneumatic, Dheeraj Jadhav: 07.15 / 10.15
 - **To:** dheeraj.jadhav@kirloskar.com
 - **Cc:** Sari
 - **Subject:** Kirloskar and Ranger, following ADIPEC
@@ -174,7 +143,7 @@ Times are Madrid / Dubai. Every email is from Yana with Sari in cc unless stated
 > Kind regards,
 > Yana
 
-### 12. EGS, Euro Gas Systems, Collin Gunn: 07.22 / 10.22
+### 10. EGS, Euro Gas Systems, Collin Gunn: 07.22 / 10.22
 - **To:** collin.gunn@eurogassystems.com
 - **Cc:** Ibraheem
 - **Subject:** EGS and Ranger, following ADIPEC
@@ -186,3 +155,38 @@ Times are Madrid / Dubai. Every email is from Yana with Sari in cc unless stated
 >
 > Kind regards,
 > Yana
+
+### 11. AEG Power Solutions, Muhamad Syahmi: 07.30 / 10.30
+- **To:** muhamad.syahmi@aegps.com
+- **Cc:** Sari
+- **Subject:** AEG and Ranger, following ADIPEC
+- **Attach:** the Ranger AI Introduction PDF
+- **Context:** you booked the meeting for 4 Nov at 11.30 and it was held, but there's no note of what was said. Sari said on 9 Nov that nothing urgent was promised. The board, from Sari's 11 Nov sequence, has a warm follow-up from you, due 19 Nov. Low priority.
+
+> Dear Muhamad,
+>
+> Thank you for your time with Sari at ADIPEC. I attach a short introduction to Ranger for you and your colleagues.
+>
+> Would an online meeting with Sari in the week of 30 November suit you?
+>
+> Kind regards,
+> Yana
+
+### 12. Osborne Engineering, Sreekanth Karuna Kumar: 07.38 / 10.38
+- **To:** sreekanth@osborne-engineering.ae
+- **Cc:** Sari
+- **Subject:** Osborne and Ranger, following ADIPEC
+- **Context:** Sari met Sreekanth (Sales Manager) on 2 Nov. He is not the decision maker and said he would try to introduce the project team. The board, from Sari's 11 Nov sequence, has you asking for the project team contact, due 19 Nov.
+
+> Dear Sreekanth,
+>
+> Thank you for your time with Sari at ADIPEC. As you mentioned, your project team would be the right next conversation. Could you connect us with them?
+>
+> Kind regards,
+> Yana
+
+## Not emailed by you tomorrow
+
+- **Sari's contacts:** Gradiant and Cannon (Sari's lead per Growth + Value, 16 Nov), and SPP. Also Sari's own Thursday emails to Corodex, Wärtsilä, De Pretto, Ingersoll and TechnipFMC, plus Mubadala, ASRY, Halliburton, Tecnimont, Trillium, PDTMC, Emdad, NUE and SLB.
+- **Baker Hughes:** your 18 Nov email stands. Resend only if Sari asks.
+- **CC7:** a courtesy reply, which needs his original message first.
