@@ -1,5 +1,9 @@
 # CRM updates to apply, Wed 18 Nov 2026
 
+**CORRECTION (18 Nov, 19.45 Madrid), apply first and override anything below:** Sari's "Massimo" email on Thu 19 Nov is Massimo Sicari at **Tecnimont**, not De Pretto.
+- **De Pretto:** next step is "Yana nudges Diego on the 12 Nov thread, Thu 19 Nov 09.15 Madrid, offering an IT team meeting the week of 23 Nov", next_action_date 2026-11-19. Remove any "Sari emails Massimo" text from De Pretto.
+- **Tecnimont:** next step is "Sari emails Massimo Sicari, scheduled Thu 19 Nov morning Dubai", next_action_date 2026-11-19. Remove "not in Sari's batch".
+
 For ChatGPT: apply section B and C of each CRM exactly as written. Do not rewrite values. Skip anything marked "flag" or "decision". Do not create tasks. Do not touch Kyle's or James's records.
 
 - Part 1: HubSpot (portal 50917387). Section A is already done; apply B and C.

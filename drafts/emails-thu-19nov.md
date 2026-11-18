@@ -185,8 +185,21 @@ Times are Madrid / Dubai. Every email is from Yana with Sari in cc unless stated
 > Kind regards,
 > Yana
 
+### 13. De Pretto Industrie, Diego Ruaro: 09.15 / 12.15
+- **Thread:** reply on "De Pretto and Ranger, following ADIPEC" (sent 12 Nov, no reply)
+- **To:** diego.ruaro@deprettoindustrie.it
+- **Cc:** Massimo Imperiali (massimo.imperiali@deprettoindustrie.it), Sari
+- **Context:** Sari met Diego at ADIPEC. The CEO has told them no cloud solutions. Your 12 Nov email answered the cloud point and offered the IT security package and an IT meeting. The board plans one short nudge if there's no reply by Thu 19. Sari's "Massimo" email tomorrow goes to Tecnimont's Massimo, not De Pretto's, so this one is yours.
+
+> Dear Diego,
+>
+> I hope you are well. Would a meeting with your IT team in the week of 23 November suit you, so we can walk them through how we work in high-security environments?
+>
+> Kind regards,
+> Yana
+
 ## Not emailed by you tomorrow
 
-- **Sari's contacts:** Gradiant and Cannon (Sari's lead per Growth + Value, 16 Nov), and SPP. Also Sari's own Thursday emails to Corodex, Wärtsilä, De Pretto, Ingersoll and TechnipFMC, plus Mubadala, ASRY, Halliburton, Tecnimont, Trillium, PDTMC, Emdad, NUE and SLB.
+- **Sari's contacts:** Gradiant and Cannon (Sari's lead per Growth + Value, 16 Nov), and SPP. Also Sari's own Thursday emails to Corodex, Wärtsilä, Tecnimont (Massimo Sicari), Ingersoll and TechnipFMC, plus Mubadala, ASRY, Halliburton, Tecnimont, Trillium, PDTMC, Emdad, NUE and SLB.
 - **Baker Hughes:** your 18 Nov email stands. Resend only if Sari asks.
 - **CC7:** a courtesy reply, which needs his original message first.
