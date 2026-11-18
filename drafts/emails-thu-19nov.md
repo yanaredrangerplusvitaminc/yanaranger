@@ -1,25 +1,6 @@
-# Yana's emails for Thu 19 Nov 2026: to schedule tonight
-
-Reconciled at about 18.30 Madrid on Wed 18 Nov against:
-- Gmail: Scheduled, Sent (last 2 days) and Drafts.
-- The Account Momentum board.
-- Slack: DM with Sari, EMEA Ops.
-- Granola: Growth + Value 16 Nov, sales pipeline 18 Nov, event messaging 18 Nov, ItalBest 18 Nov.
+# Yana's emails to schedule tonight, for Thu 19 Nov 2026
 
 Times are Madrid / Dubai. Every email is from Yana with Sari in cc unless stated.
-
-## Already scheduled: no action
-
-| Madrid | Dubai | To | Subject |
-|---|---|---|---|
-| 06.07 | 09.07 | Triveni, Rishi | Re: Triveni and Ranger, following ADIPEC (profile attached) |
-| 06.07 | 09.07 | FPI, Ms. Sese | Re: Meeting at ADIPEC, Ranger and FPI (Teams slots 24, 25, 26 Nov) |
-| 06.36 | 09.36 | Khadamat, Ahmed Saleh | Khadamat and Ranger, introductory session |
-| 06.46 | 09.46 | Saipem, Anthony Quick | Tender kickoff sheet |
-
-Drafts to delete, because each duplicates a sent or scheduled email: SAPAG (old version), Triveni, and two Messe drafts (a Messe follow-up is already scheduled for Mon 23 Nov).
-
-## To schedule tonight
 
 ### 1. GPCA, Jerry Rodrigues: 05.13 / 08.13
 - **Thread:** reply on "Delegate pass options for the 20th Annual GPCA Forum"
@@ -205,34 +186,3 @@ Drafts to delete, because each duplicates a sent or scheduled email: SAPAG (old 
 >
 > Kind regards,
 > Yana
-
-## Afternoon, only if there is no reply
-
-### 13. Baker Hughes (Chart), Rohit Davidson: 11.00 / 14.00
-- **Send only if:** Rohit has not replied by 13.00 Dubai.
-- **To:** Rohit.Davidson@chartindustries.com
-- **Cc:** Sari
-- **Thread:** reply on "Baker Hughes and Ranger | Teams meeting"
-- **Context:** Sari spoke with Rohit on 17 Nov. The 18 Nov email went to his Baker Hughes address, and his auto-reply says he is back Thu 19 and answers from the Chart address.
-
-> Dear Rohit,
->
-> I hope your travels went well. Resending my note below to your Chart address. Would Friday 20 November at 13.30 or Monday 23 November at 13.00, UAE time, suit you for the Teams session with Sari?
->
-> Kind regards,
-> Yana
-
-## Not on tomorrow's list, and why
-
-| Account | Reason |
-|---|---|
-| Mubadala | Sari handles Khadija, Kashif and Butti directly (event messaging call, 18 Nov) |
-| ItalBest | The summary, deck and NDA follow the 18 Nov session; Ibraheem's follow-up per Monaco |
-| De Pretto, Wärtsilä, Ingersoll, TechnipFMC, Corodex | Sari's own emails, Thu morning |
-| ASRY | Sari calls Salman first (board) |
-| GAMA | Re-send only if Sari agrees |
-| SAPAG | Sent 18 Nov 15.55 |
-| IFS | Close in the CRMs; no further email |
-| AEG, Osborne, Terranova, CC7 | Low priority, due this week; can go Fri 20 or Mon 23 |
-| SPP | Rowan replied on LinkedIn on 5 Nov; read his reply before emailing |
-| AIQ, FireDos, Victaulic, Flexitallic, LEWA, Halliburton (Matt Lang) | LinkedIn, not email |
